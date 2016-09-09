@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <item name="textView1" type="id">false</item>
+    <item name="button_share" type="id">false</item>
+    <item name="button_pay" type="id">false</item>
+    <item name="button_login" type="id">false</item>
+    <item name="menu_settings" type="id">false</item>
+<item name="selected_view" type="id" />
+    
+</resources>

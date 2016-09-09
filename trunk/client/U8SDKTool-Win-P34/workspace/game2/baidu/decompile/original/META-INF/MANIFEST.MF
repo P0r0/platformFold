@@ -1,0 +1,54 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: TJE1tg63y88xLdIALKGpuLmgh0s=
+
+Name: res/drawable-mdpi/ic_action_search.png
+SHA1-Digest: XjltJdEB3tvakTn9CN7KwdaNT68=
+
+Name: res/layout/my_progress.xml
+SHA1-Digest: ckaBNvKe/qAUF3gQirFHkUMO9bA=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: ioH2V9g4FYKkqpDHk7jPryMKtcE=
+
+Name: res/layout/activity_splash.xml
+SHA1-Digest: zd1eNopMfZ7CmMk8GjyPGPpYloc=
+
+Name: resources.arsc
+SHA1-Digest: o9SeIS2ptc/1uA0WAwTSndsUY2I=
+
+Name: classes.dex
+SHA1-Digest: U7n5xdP5wSXD/v3nMiACOYGZcEQ=
+
+Name: res/layout/activity_test.xml
+SHA1-Digest: 1JGjRxZXqdNcpVoVPV9sV9OqRrU=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: r6Mdl54h2qEvVnqgfsgxU4CysiI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: kzrb+okoJTbgKDBebXFVGIRS/w0=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: aM73uFWfPOOvq5Kk9Ffd3cWm0OQ=
+
+Name: res/menu/activity_splash.xml
+SHA1-Digest: TciwRIP5/cxIL05WbWSe09aHdGM=
+
+Name: android-support-multidex.version.txt
+SHA1-Digest: ls243dUZqM9c2uiEZ8nWz5KYeOQ=
+
+Name: res/drawable-hdpi/myprogress_style.xml
+SHA1-Digest: UulTQ+oNYVOCuONT4BecjkXoSG4=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: +YbRchQUVGCEGlvcjRbwhc83gls=
+
+Name: res/drawable-hdpi/ic_action_search.png
+SHA1-Digest: rOWnNxWCWKwkicf+FpYGMg1fX2Y=
+
+Name: res/drawable-xhdpi/ic_action_search.png
+SHA1-Digest: WzSVDDIHZpn0cFeuxgKRJete4TU=
+

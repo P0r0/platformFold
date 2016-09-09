@@ -1,0 +1,30 @@
+<config>
+ 
+    <params>
+        <param name="OPPO_APPSECRET" value="e2eCa732422245E8891F6555e999878B" required="1" showName="appSecret" desc="appSecret由开发者后台申请得到" bWriteInManifest="0" bWriteInClient="1" />
+        
+        <param name="app_key" value="c5217trjnrmU6gO5jG8VvUFU0" required="1" showName="app_key" desc="appKey由开发者后台申请得到" bWriteInManifest="1" bWriteInClient="1" /> 
+        <param name="is_offline_game" value="true" required="1" showName="appKey" desc="true:单机游戏   false:网游" bWriteInManifest="1" bWriteInClient="1" /> 
+        <param name="debug_mode" value="false" required="1" showName="appKey" desc="日志开关，发布时候设置为fals" bWriteInManifest="1" bWriteInClient="1" /> 
+    </params>
+ 
+    <operations>
+        <operation step="1" type="mergeManifest" from="SDKManifest.xml" to="AndroidManifest.xml" />
+        <operation step="2" type="copyRes" from="assets" to="assets" />
+        <operation step="3" type="copyRes" from="libs" to="lib" />
+        <operation step="4" type="copyRes" from="res" to="res" />
+        <operation step="5" type="copyRes" from="root" to="" />
+    </operations>
+ 
+    <plugins>
+        <plugin name="com.u8.sdk.OppoUser" type="1" desc="用户登录等插件" />
+ 		<plugin name="com.u8.sdk.OppoPay" type="2" desc="用户支付接口" />
+    </plugins>
+    
+    <version>
+        <name>OPPO</name>
+        <versionCode>200</versionCode>
+        <versionName>v2.0</versionName>
+    </version>
+ 
+</config>

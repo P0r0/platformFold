@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+   <color name="vivo_upgrade_activity_titlebar_color">#ff0ea0fd</color>
+   <color name="vivo_upgrade_hot_apps_size_text_color">#a7a7a7</color>
+   <color name="vivo_upgrade_update_dialog_progress_text_color">#ff333333</color>
+   <color name="vivo_upgrade_manage_update_line_color">#ffd9d9d9</color>
+   <color name="vivo_upgrade_hot_app_title_color">#000000</color>
+   <color name="vivo_upgrade_blue">#ff008eef</color>
+   <color name="vivo_upgrade_white">#ffffffff</color>
+
+</resources>

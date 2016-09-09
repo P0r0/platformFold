@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/aiden/Documents/输出文档/单机游戏SDK文档/SDK code/Demo/OfflineGameDemo/libs/MzOfflineGameSDK_P.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="66f091f8b5fbc58a23a372be5d4594a5010d87ec">
+        <dex dex="/home/aiden/Documents/输出文档/单机游戏SDK文档/SDK code/Demo/OfflineGameDemo/build/intermediates/pre-dexed/debug/MzOfflineGameSDK_P_80f16ef1893938d82a0e7f00b6eb222a4ef5d8d1.jar" />
+    </item>
+    <item
+        jar="/home/aiden/Documents/输出文档/单机游戏SDK文档/SDK code/Demo/OfflineGameDemo/build/intermediates/incremental-classes/debug/classes.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="689e4b448da6a079c3612180d6304cc4c56ddb27">
+        <dex dex="/home/aiden/Documents/输出文档/单机游戏SDK文档/SDK code/Demo/OfflineGameDemo/build/intermediates/pre-dexed/debug/classes_fd8c67bd23561a8d4de432fa26078a1116912c3c.jar" />
+    </item>
+    <item
+        jar="/home/aiden/Documents/输出文档/单机游戏SDK文档/SDK code/Demo/OfflineGameDemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.0.0"
+        sha1="953ba81187c18b34c928a4883261f1e3e4848ecb">
+        <dex dex="/home/aiden/Documents/输出文档/单机游戏SDK文档/SDK code/Demo/OfflineGameDemo/build/intermediates/pre-dexed/debug/instant-run_3f03bb7bda5ba9568935596577c6361591413763.jar" />
+    </item>
+
+</items>

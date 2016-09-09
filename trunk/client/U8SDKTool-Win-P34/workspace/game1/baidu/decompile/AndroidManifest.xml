@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.fanjie.HumanInvincible.baidu" platformBuildVersionCode="20" platformBuildVersionName="4.4W-1246132" android:installLocation="auto">
+    <uses-feature android:glEsVersion="0x20000" />
+    <application android:debuggable="true" android:icon="@drawable/icon" android:label="@string/app_name" android:name="com.u8.sdk.U8Application">
+        <meta-data android:name="android.app.lib_name" android:value="cocos2dlua" />
+        <meta-data android:name="DC_APPID" android:value="2C8D2DE43D8C26D5C8D4B1E589064A16" />
+        <meta-data android:name="DC_CHANNEL" android:value="Migu" />
+        <activity android:configChanges="orientation" android:label="@string/app_name" android:name="org.cocos2dx.lua.AppActivity" android:screenOrientation="landscape" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+</manifest>

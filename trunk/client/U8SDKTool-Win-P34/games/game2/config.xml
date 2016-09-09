@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xml>
+
+
+
+	<channels>	
+
+		<channel>
+			<param name="id" value="1" />
+			<param name="name" value="meego" />
+			<param name="sdk" value="meego" />
+			<param name="desc" value="Meego SDK" />
+			<param name="suffix" value="" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>2.2.8</versionName>
+			</sdk-version>			
+
+		</channel>	
+
+		<channel>
+			<param name="id" value="2" />
+			<param name="name" value="mm" />
+			<param name="sdk" value="mm" />
+			<param name="desc" value="MM SDK" />
+			<param name="suffix" value=".mm" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param name="APPID" value="3067515"/>
+				<param name="APPKEY" value="f3Os4GAOqxgm79GqbnkT9L8T"/>
+				<param name="LEASE_PAYCODE" value="123456"/>
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>3.1.10</versionName>
+			</sdk-version>			
+
+		</channel>		
+
+		<channel>
+			<param name="id" value="3" />
+			<param name="name" value="unicom" />
+			<param name="sdk" value="unicom" />
+			<param name="desc" value="Unicom SDK" />
+			<param name="suffix" value="com.u8.sdk.test" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>4.0.2</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		<channel>
+			<param name="id" value="4" />
+			<param name="name" value="egame" />
+			<param name="sdk" value="egame" />
+			<param name="desc" value="EGame SDK" />
+			<param name="suffix" value=".egame" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param name="AppName" value="谁删谁小狗-Test-zt"/>
+			</sdk-params>
+
+<!-- 			<plugins>
+				<plugin name="advertising" desc="广告插件" />
+			</plugins> -->
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>4.2.0</versionName>
+			</sdk-version>			
+
+		</channel>	
+
+		<channel>
+			<param name="id" value="20" />
+			<param name="name" value="vivo" />
+			<param name="sdk" value="vivo" />
+			<param name="desc" value="ViVo SDK" />
+			<param name="suffix" value="com.morefun.xsanguo.vivo" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param name="APP_ID" value="bfae697b90d30d06ee752953b62a0cfa" />
+				<param name="CPID" value="20131030114035786189" />
+				<param name="CPKEY" value="20131030114035565895" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>3.1.2</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		<channel>
+			<param name="id" value="100" />
+			<param name="name" value="baidu" />
+			<param name="sdk" value="baidu" />
+			<param name="desc" value="Baidu SDK" />
+			<param name="suffix" value=".baidu" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+			<param name="icon" value="rb" />
+
+			<sdk-params>
+				<param name="BD_APPID" value="3067515" />
+				<param name="BD_AAKEY" value="f3Os4GAOqxgm79GqbnkT9L8T" />
+				<param name="BD_FIXED_PAY" value="true" desc="是否为定额支付" />
+				<param name="BD_RATIO" value="1" desc="支付比例" />
+				<param name="BDPlatformType" value="0" desc="百度模式(0-百度 1-多酷 2-91)" />
+			</sdk-params>
+
+<!-- 		    <plugins>
+				<plugin name="combinepay4net" desc="四网支付插件" />
+			</plugins> -->
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>3.7.1</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		<channel>
+			<param name="id" value="200" />
+			<param name="name" value="jinli" />
+			<param name="sdk" value="jinli" />
+			<param name="desc" value="JinLi SDK" />
+			<param name="suffix" value=".jinli" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param name="JL_APIKEY" value="F966820B69514B28A4036A799E7FE8BE" />
+				<param name="JL_PRIVATEKEY" value="MIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBAN2Rk4OMH8mmOhF9Nvv4qWpSIABUAEUk4FS5crdcoTyDIG0AGJzg7jNr+64YfuOAxgxpSgCqcHzQWkhjfC6wstCF9HpY7wUB56DbPsdw0/9JfvKLeyJNQYldjDoV0kNwvyKOjgfEDv+cj2PNCf3/isCFW9oY6jEZZU2LbJrWNTe9AgMBAAECgYEAh5S4RqvtG7C7Ic6UYdWEncnJSUodrDHnkBC20Ns+0s+OfQStCvpc6FxwctUMeFxpVFjtbsDc+pNoW5l8+PkpQWrOP2bwX3SVI4EnoxRasoM87A9AKrcT6S6QPP6YrH3vwz44qDo0JQS9Xq+cD7qgouxk1LNjsAG4rqYxmqf6yoECQQD1JMLIYug30FFBnL67beQp54+NALk01LJ/oxHO5CgMv8ACmPxkueHury+uSzbOdK+kpAp0QK7cNh+LUQN0vVGdAkEA52GKtMaFAFj4wZsc3I6ap5WAa9IdUIhdFAWEFIPNDDJK7xt6G+NFIwFbat1LtckNFfVfosUnRuoyUQYx0IU0oQJBANKJQNRSxbdxrOeZ0+Eq7uLiYdIqheWOqsKd7WRvZMoWQLS6aUGktxqD0IJzTF2hr1vKGsRe7Q5pWUwQRtSS560CQQCQfas+5NHdu7HsRU8qtKsDiCrgKiBAUEe/3wnyPbRor2d4FfKVQ8HC8HAENhm3dcwEMGz+mpvCfzHYw0OMcgLBAkB4b7qt8P0RHzH5ThUQVNQgb8ILxGsABbEYdPBxcPP8JvzeXwZwpZUS6bF8Rguzq8CjONpG8MOIru8Cy17SnUzZ" />
+			</sdk-params>
+
+			<plugins>
+				<plugin name="combinepay4net" desc="四网支付插件" />
+			</plugins>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>V3.1.6d</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		<channel>
+			<param name="id" value="150" />
+			<param name="name" value="oppo" />
+			<param name="sdk" value="oppo" />
+			<param name="desc" value="oppo SDK" />
+			<param name="suffix" value=".nearme.gamecenter" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param name="OPPO_APPSECRET" value="e2eCa732422245E8891F6555e999878B" />
+				<param name="app_key" value="c5217trjnrmU6gO5jG8VvUFU0" />
+				<param name="is_offline_game" value="true" />
+				<param name="debug_mode" value="false" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>200</versionCode>
+        		<versionName>v2.0</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		</channels>
+
+</xml>

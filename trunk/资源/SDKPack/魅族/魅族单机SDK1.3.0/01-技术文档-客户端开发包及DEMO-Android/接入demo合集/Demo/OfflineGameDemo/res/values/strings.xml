@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">单机游戏Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="pay_text">支付</string>
+</resources>

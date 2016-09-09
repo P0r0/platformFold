@@ -1,0 +1,34 @@
+<?php
+require 'class_desc.php';
+
+
+		$data = $_POST;
+
+		if(!isset($data['data'])){ 
+			return 'failed';		
+		}
+
+		$des = new DES();
+		$code = $des->decrypt($data['data']);
+		if(!isset($code) || empty($code))
+		{
+			return 'failed';
+		}
+		$response = json_decode($code, true);
+		if(!isset($response))
+		{
+			return 'failed';
+		}
+
+		$uid = $response['uid'];
+		$orderId = $response['orderId'];
+		$orderAmount = $response['orderAmount'];
+		$orderTime = $response['orderTime'];
+		$orderAccount = $response['orderAccount'];
+		$code = $response['code'];
+		$payAmount = $response['payAmount'];
+		$cpInfo = $response['cpInfo'];
+		$notifyTime = $response['notifyTime'];
+		$memo = $response['memo'];
+	
+?>

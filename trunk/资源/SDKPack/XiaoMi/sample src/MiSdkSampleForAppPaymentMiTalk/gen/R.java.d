@@ -1,0 +1,22 @@
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/gen/com/sdk/migame/payment/R.java \
+ : /home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout/gam_layout.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout/gamlayout.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout/activity_main.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout/payment.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/drawable-xhdpi/ic_launcher.png \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/drawable-hdpi/ic_launcher.png \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/values/strings.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/values/styles.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/values/colors.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/friend_list_activity.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/user_info_activity.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/message_item.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/game_friend_list_activity.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/friend_item.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/leaderboard_list_activity.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/game_messages_activity.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/function_item.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/user_info_scores_item.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/game_friend_item.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/res/layout-hdpi/leaderboard_list_item.xml \
+/home/metero/tmp/migamecentersdk/Service/demo/MiSdkSampleForAppPaymentMiTalk/bin/AndroidManifest.xml \

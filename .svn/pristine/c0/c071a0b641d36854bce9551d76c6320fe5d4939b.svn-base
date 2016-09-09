@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <permissionConfig>
+	    <!-- ↓↓↓ SDK ↓↓↓ -->
+		<uses-permission android:name="android.permission.INTERNET" />
+	    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	    <!-- ↑↑↑ DK SDK ↑↑↑ --> 
+	    <!-- 可选的权限： -->
+        <uses-permission android:name="android.permission.READ_LOGS" /> <!-- 获取logcat日志 -->
+    </permissionConfig>
+    
+    
+    <applicationConfig keyword="" proxyApplication="com.u8.sdk.AdvertisingProxyApplication" >        
+    	<!--This meta-data tag is required to use Google Play Services.-->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" /> 
+        <!--Include the AdActivity configChanges and theme. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.max.ad.self.AdSelfFullActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+    </applicationConfig>
+    
+</manifest>

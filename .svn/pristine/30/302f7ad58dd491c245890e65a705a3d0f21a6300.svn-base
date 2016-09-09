@@ -1,0 +1,16 @@
+package com.u8.sdk;
+
+public interface IAdvertising extends IPlugin {
+	public static final int PLUGIN_TYPE = Constants.PLUGIN_TYPE_ADVERTISING;
+	
+	/***
+	 * 加载显示横幅广告
+	 */
+	public void showBannerAd();
+	
+	/***
+	 * 加载显示插屏广告
+	 */
+	public void showInterstitialAd();
+	
+}

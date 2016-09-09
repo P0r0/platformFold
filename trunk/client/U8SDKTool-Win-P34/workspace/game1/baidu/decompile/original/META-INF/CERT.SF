@@ -1,0 +1,4482 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: /zZsWxt9MVc82H+FtqhpbPXomQ8=
+
+Name: assets/src/ui/ui/home/shop/StoreMysterious.luac
+SHA1-Digest: IlesET6cxdVMpc3CSZKfMtsFe0I=
+
+Name: assets/res/image/frame/fragment_orange.png
+SHA1-Digest: jryOSFrW8G5xAs50KTBeBFdcKpg=
+
+Name: assets/src/combat/auxlib/timer.luac
+SHA1-Digest: zRYVjlzq3r3cj9kJSLkP6MKJjPE=
+
+Name: assets/src/metadata/skillAttr/skillAttr102032.luac
+SHA1-Digest: DDn55+JH2LNZkluYM02bffFxBUY=
+
+Name: assets/src/dataeye/DCItem.lua
+SHA1-Digest: 9yyWT0kODQXeR2+h4UC+um69G60=
+
+Name: assets/src/combat/user/state/flash.luac
+SHA1-Digest: 0VRubX+Pzcgc8UAv32dZOdsKfo0=
+
+Name: assets/res/unit/wroith.ExportJson
+SHA1-Digest: T4qGWIlZ6GnyZJ1umlHlvIVuh5E=
+
+Name: assets/res/ccs/typeface/data_off.png
+SHA1-Digest: xIiQi1+h+bxaQ3zYwrQd9oAJ4oE=
+
+Name: assets/src/metadata/givingEveryday.luac
+SHA1-Digest: LVUXS0XjGuBX+sZTfit5UdrlfIE=
+
+Name: assets/res/ccs/image/star.png
+SHA1-Digest: H2Iit05zQJ96edJJREo5Q1DZJXk=
+
+Name: assets/res/ccs/typeface/data.png
+SHA1-Digest: jxL8cpyLX8z7O5uaC3D9aNTg134=
+
+Name: assets/src/combat/user/state/standby_medic.luac
+SHA1-Digest: do0ojjVCf4gQqH9j20+9DOfc9oI=
+
+Name: assets/res/ccs/formation/battle/button.png
+SHA1-Digest: vFPQGCW1+pXdOrKiqn/daf3fH40=
+
+Name: assets/src/ui/ui_pre/convenient.luac
+SHA1-Digest: nxlnYHAO1fubkVx59Qc5OKOomBE=
+
+Name: assets/res/ccs/typeface/unlock_off.png
+SHA1-Digest: fazSecplYH+aXeMBk8fQqllqsSI=
+
+Name: assets/res/ccs/battle/pause/exit_on.png
+SHA1-Digest: UXd9UC0f9P6AzPItC24UhJ0cVQo=
+
+Name: assets/res/ccs/typeface/determine.png
+SHA1-Digest: MP38ms7S6tewDCUyl2aSSm3SSlE=
+
+Name: assets/src/ShaderRes/saturationFrag.luac
+SHA1-Digest: UfQPpbcOfJm8nX/tvjXV+ppVfLY=
+
+Name: assets/src/metadata/shop/shopNormal.luac
+SHA1-Digest: VOIM4YF3E1LTp3Fe1Y+1iWkg7lA=
+
+Name: assets/src/combat/module/control.luac
+SHA1-Digest: wflzkYMuKZEWPEOvR9smYlGogpk=
+
+Name: assets/res/image/card/s_card_1.png
+SHA1-Digest: W4imkyZkj3BmO7Pnz7ioDD2hVdY=
+
+Name: assets/res/ccs/typeface/modify_Avatar.png
+SHA1-Digest: 8iM5Aa13z3OK63c1VZAdR9Qyhnc=
+
+Name: assets/res/particle/gas_disappear.plist
+SHA1-Digest: tneg7dbJ/rcB9jAVaFSrvHugXLk=
+
+Name: assets/res/ccs/endless/main_interface/star/y_1.png
+SHA1-Digest: y/fC2Xn7YOp08Z+N5L6LzJWnvTs=
+
+Name: assets/res/ccs/image/VIP.png
+SHA1-Digest: 2h7Liuwo5X8JFdQVSDDghibS0Po=
+
+Name: assets/res/ccs/image/yellow_button_short_on.png
+SHA1-Digest: Cw13JPmdla5YNP7fsWKnL9gP0lI=
+
+Name: assets/res/image/wait_gray.png
+SHA1-Digest: 5trRmwT2ggashG18/GdD2HM6ft8=
+
+Name: assets/src/metadata/skillAttr/skillAttr30006.luac
+SHA1-Digest: BVuJLtNXmdaEZauv2DQR50pY3Fg=
+
+Name: assets/res/ccs/image/short_button_on.png
+SHA1-Digest: k4VPLPXthupsrGZJLeJNQQ4cZBk=
+
+Name: assets/src/dataeye/DCVirtualCurrency.lua
+SHA1-Digest: DRQuu+RP9m6DkG0woClUvk8qtPM=
+
+Name: assets/res/ccs/formation/minus_sign.png
+SHA1-Digest: fjG8Ub1N2zs7oIDKoFHgSL0g+tU=
+
+Name: assets/res/ccs/formation/population_icon.png
+SHA1-Digest: 966Y3CpRtI1by6VintdXT2TQSaA=
+
+Name: assets/src/combat/user/ai/wroith100070.luac
+SHA1-Digest: jwqoSFV/hnBc0met4ASfyRm2R9E=
+
+Name: assets/src/combat/api/actor/message.luac
+SHA1-Digest: OID5qhFJhJ9DIjlGus2yYoDPusw=
+
+Name: assets/res/unit/scout.pvr.ccz
+SHA1-Digest: 0qy05HWzDsiL9VlbjUUlIBqxLn0=
+
+Name: assets/res/unit/ghost.ExportJson
+SHA1-Digest: wYkIKtV4XM2mfiErrgyCkFQBTuY=
+
+Name: assets/res/ccs/new_army/button.png
+SHA1-Digest: BT0sOHyNy8w/b7hqBvf4qPtF3k4=
+
+Name: assets/src/metadata/normalStage/normalStage300024.luac
+SHA1-Digest: Fm3HECd6L5Bm/NfbkTXkmrae3go=
+
+Name: assets/res/ccs/home/golden_finger/arrow_green.png
+SHA1-Digest: lg0UcqaM7KhqiiEtan2XE04P9k4=
+
+Name: assets/src/metadata/unitNum/unitNum100130.luac
+SHA1-Digest: BpmBCppdPHsdRzD5ASuLrfMfxbo=
+
+Name: assets/res/ccs/battle/data_statistics/bg.png
+SHA1-Digest: izsb9PuCpWZfhzmmWDFPYWQCh5k=
+
+Name: assets/src/combat/api/actor/ub.luac
+SHA1-Digest: plXNJVT96Ds5k2zggwb3xZELp4c=
+
+Name: assets/res/image/card/s_card_3.png
+SHA1-Digest: 9JWnCYFGKBIFUZMC4umHKtyV2dY=
+
+Name: assets/res/ccs/image/time.png
+SHA1-Digest: bGXef68fmzKHmn6PQI/KPAihx5Q=
+
+Name: assets/res/image/chapter_point/2.png
+SHA1-Digest: y1tikgD8UAEF9HadpSGm/knw2K8=
+
+Name: assets/res/ccs/new_army/detailed/role_attribute.png
+SHA1-Digest: FsqJLdPb0r5io11/2PZKYVSlmDk=
+
+Name: assets/res/image/plist/eftui_djts.plist
+SHA1-Digest: UzaoEU5r+2z26sGZbdiNhlL1MUs=
+
+Name: assets/src/combat/user/skill/lightning102051.luac
+SHA1-Digest: l80yjwHafeA4YaLh7rFmeKd0jl8=
+
+Name: assets/res/sound/YouWin.mp3
+SHA1-Digest: vu/MYN54fbPklO6UbYajQEeJXWU=
+
+Name: assets/src/ui/ui_module/HangupListen.luac
+SHA1-Digest: p+ORUo67Hcdeqcr5dqXO8g/Gpz8=
+
+Name: assets/src/metadata/unitNum/unitNum100080.luac
+SHA1-Digest: VjvX4wbOTWU4QHFKcn9JOi5pmuM=
+
+Name: assets/res/image/earthMap/6.png
+SHA1-Digest: vST823pBaNJ5hyXxhjFbVJWlpeM=
+
+Name: assets/src/combat/module/skillEnergy.luac
+SHA1-Digest: RfVqyDGZ5XJkDyIlLko3aXJa7lI=
+
+Name: assets/src/engine/cocos/extension/DeprecatedExtensionEnum.luac
+SHA1-Digest: B6TUZECWNnR+XQ7ILZUuIVL7F80=
+
+Name: assets/src/engine/cocos/ui/experimentalUIConstants.luac
+SHA1-Digest: hLeJAS+BAHNp8viFKZN28NTqqHw=
+
+Name: assets/src/metadata/unitNum/unitNum101070.luac
+SHA1-Digest: 7n3yW5wLDcPoflAAK0RY/xMgvV8=
+
+Name: assets/res/image/soldier_name/devourer.png
+SHA1-Digest: 3Iwy/6+9FqNlnkl+W6BerLNekw0=
+
+Name: assets/res/ccs/battle_heroic_rewards.json
+SHA1-Digest: R45jNa/wWwJq58tJ3ojeVqdw9/Y=
+
+Name: assets/src/metadata/skillAttr/skillAttr90005.luac
+SHA1-Digest: jW5218e7M/yJFebhPun5vv8evRk=
+
+Name: assets/res/ccs/home/golden_finger/floor_small.png
+SHA1-Digest: SKKxVLJXKC8Mz2xG+noI5/wKFXQ=
+
+Name: assets/res/ccs/formation/VS.png
+SHA1-Digest: TwRg6sV4nkHgXScz+XHkHlk4Qds=
+
+Name: assets/res/image/plist/formation.plist
+SHA1-Digest: 4InJUireVcDv1e59YsDOR83KlQs=
+
+Name: assets/res/image/frame/mask_head.png
+SHA1-Digest: lrgEQzr9Xbhu920sdqhRFhEAKwM=
+
+Name: assets/res/ccs/typeface/stop.png
+SHA1-Digest: iQkbiVrylzilCC0lcQF92+SpeA8=
+
+Name: assets/res/ccs/typeface/chetui.png
+SHA1-Digest: 7VgcpmF1u7IXO4gPJzyei7ot2HI=
+
+Name: assets/res/unit/SpiderMine.plist
+SHA1-Digest: C+z/Qm9cfRlTeqy9SLOmZBAcofY=
+
+Name: assets/src/combat/auxlib/auxs.luac
+SHA1-Digest: MZlv0i5CH7tADZaKM4eSFTgIMvE=
+
+Name: assets/res/unit/scout.ExportJson
+SHA1-Digest: +p8k6GQwCgp6ZLAWrI93r3yMPCI=
+
+Name: assets/res/ccs/modify_avatar.json
+SHA1-Digest: 2+/WFztJKLW9INr/b3MU5YVCfhg=
+
+Name: assets/src/metadata/scenePlot/scenePlot300015.luac
+SHA1-Digest: 9mvtKTZe+GousmNGo5R6C5N0sJs=
+
+Name: assets/res/ccs/main_interface/name_floor.png
+SHA1-Digest: vIqvZQWRk4OBgjaYoJX90ABI44E=
+
+Name: assets/src/combat/module/atkframes.luac
+SHA1-Digest: TqYXYCFv5/AOtB+9JUTC3jKqRUc=
+
+Name: assets/src/metadata/normalStage/normalStage300027.luac
+SHA1-Digest: 4jGX2VXniTD9sngk+FJIxHsWLPA=
+
+Name: assets/src/ui/ui/home/player/HandPortrait.luac
+SHA1-Digest: y8oIGV1IdEBjVT6AWCtCiOLISTA=
+
+Name: assets/res/ccs/image/drop_down.png
+SHA1-Digest: DQc6aHcklwHUnf26nFM7ys3wq/I=
+
+Name: assets/res/sound/ZMuFir00.mp3
+SHA1-Digest: T57BiUtXeOkaGnIAtEAHEgx95VA=
+
+Name: assets/res/ccs/image/avatar_level.png
+SHA1-Digest: im96UzenG0nPIqyv+WRLZuff9Z0=
+
+Name: assets/res/ccs/image/blue_board.png
+SHA1-Digest: 5afvihDQjz8FLk8wCIJyq9q24L4=
+
+Name: assets/res/image/earthMap/5.png
+SHA1-Digest: RoLdywX/W/+UyoduwB33aNia56k=
+
+Name: assets/res/ccs/formation/battle/floor_right.png
+SHA1-Digest: OxVrHZUrB9rkp2PpQdoPTNlDc1M=
+
+Name: assets/res/ccs/image/green_box.png
+SHA1-Digest: WQAzFCNQ+D/+kgRcqmE+pAi6uY8=
+
+Name: assets/src/engine/cocos/ui/DeprecatedUIFunc.luac
+SHA1-Digest: iejEu/gCLnX+bD5771hyHqAfkvw=
+
+Name: assets/res/image/shop_point_off.png
+SHA1-Digest: M3uKwsvLoZFWA7RHNSsr0FEpzwQ=
+
+Name: assets/res/ccs/formation/start_fighting_off.png
+SHA1-Digest: W9oizWvV7fJEyUvndkXvoX0LW0E=
+
+Name: assets/src/combat/module/flash.luac
+SHA1-Digest: mThgHc2GJKvy9UIlW87EF1wDcuQ=
+
+Name: assets/src/ui/ui_module/GuideManager.luac
+SHA1-Digest: m3dpi9aAFqMEsYsVSB3i3lz2FGg=
+
+Name: assets/res/image/earthMap/9.png
+SHA1-Digest: 01PkPJ/JudWZhcA/OyfP6cOUPs8=
+
+Name: assets/src/combat/user/state/chase.luac
+SHA1-Digest: wTj/QRj0jqQsfv4VXwGIeYKk2UY=
+
+Name: assets/res/ccs/typeface/golden_ten_on.png
+SHA1-Digest: 9IZpvik5eYplyBjl4w5A7ZBNeyM=
+
+Name: assets/res/ccs/typeface/endless_star.png
+SHA1-Digest: BdA5XWXCpytLpg3TM6Efkxa2NGQ=
+
+Name: assets/res/ccs/endless/main_interface/recruit/floor_3.png
+SHA1-Digest: y6p0inHO0ymfdtFMPD9Qbi87qyI=
+
+Name: assets/src/combat/user/memory/memory_0standardAir.luac
+SHA1-Digest: Roq3uWBk0PLTIBWi6FYsfaEcKvw=
+
+Name: assets/src/ui/ui/home/shop/StoreDiamond.lua
+SHA1-Digest: MAivCDfU/iopRdhunI3K4/TSqg4=
+
+Name: assets/res/sound/TMaDead.mp3
+SHA1-Digest: 2ZF8ACUYAZqDcq/rw2ADNG12Wek=
+
+Name: assets/res/map/res/bolck.png
+SHA1-Digest: Jbwn2iZuiRPZrOMha7J1/m9sJic=
+
+Name: assets/res/unit/mutalisk.pvr.ccz
+SHA1-Digest: mDbk3Op+otGEBB9SptRN46oT2Xg=
+
+Name: assets/res/ccs/shop/shop_package/energy.png
+SHA1-Digest: toxnlZHn2UrMlq5HmGR+EU75moU=
+
+Name: assets/res/sound/deployS/marine.mp3
+SHA1-Digest: 9NzDvFq5aKUi+ZrQXQprW0a+PD4=
+
+Name: assets/res/ccs/typeface/star_war.png
+SHA1-Digest: b0d/kdNA675AiphyC/p/gJgYnDc=
+
+Name: assets/res/ccs/typeface/sweep.png
+SHA1-Digest: 2uuHJMhJ2+qlzI1irHCiMa3Ypqs=
+
+Name: assets/res/ccs/Legion/character_interface/evolutionary_interface
+ /quality_alert/floor.png
+SHA1-Digest: WqOPH36zYAvSRR4FnNu313McM9M=
+
+Name: assets/src/combat/module/map.luac
+SHA1-Digest: xvKJA4Pgf7a1N4CksbO/6JjAEOI=
+
+Name: assets/res/ccs/image/return (2)_on.png
+SHA1-Digest: qWETwKV85aaV9qacLd1ZcoC/UI0=
+
+Name: assets/res/sound/deadS/devourer.mp3
+SHA1-Digest: QV+VNsV3oFEkaoPQXJ10XZsSyZU=
+
+Name: assets/res/ccs/package/first/button.png
+SHA1-Digest: EPvCc+ywA8oBgbRNvcB1KbOgrhg=
+
+Name: assets/src/engine/cocos/cocos2d/json.luac
+SHA1-Digest: QNPL6HZm0CsFQZwEXmsum/iVFhA=
+
+Name: assets/res/sound/zhyDth00.mp3
+SHA1-Digest: jyX1n4oXB29KPRMkMlE+y0xVFzc=
+
+Name: assets/res/ccs/typeface/recruit_on.png
+SHA1-Digest: iSy1gSBs9pnRNUUfH5a5XztRJY8=
+
+Name: assets/res/ccs/scientific_research/floor_2.png
+SHA1-Digest: udr0yMEjQ4X0zlVyNoEuCz9XxLs=
+
+Name: assets/res/ccs/buff/already_buy.png
+SHA1-Digest: ++oeyZM0SvIaGg6wUm38RrrGgUU=
+
+Name: assets/res/ccs/unlock_card/sunlight.png
+SHA1-Digest: yLBK7xRjzPnXplUTYxKvARUtzxk=
+
+Name: assets/res/ccs/endless/main_interface/star/white_circle.png
+SHA1-Digest: rmMMxfhkH2y09xYUY0RkpCT7gLk=
+
+Name: assets/res/language/simplified_chinese.json
+SHA1-Digest: jXuk/g3t+JO/vO+xEF4jnePM/Pc=
+
+Name: assets/res/sound/deadS/lurker.mp3
+SHA1-Digest: R0v/9Ntb5pG04tTgqJ/SZiwjnFA=
+
+Name: assets/res/image/plist/card_unlock_hg.plist
+SHA1-Digest: tEW4Pwej8OyQL8H9f5H8ypKjXSs=
+
+Name: assets/res/map/res/320_320.png
+SHA1-Digest: ICtrsqY3BvnjCBPgJ708CuaFjEs=
+
+Name: assets/src/combat/user/skill/zealot30601.luac
+SHA1-Digest: azLvDlkaxiCfiFfB1tqTBSws3Ng=
+
+Name: assets/src/metadata/skillAttr/skillAttr102041.luac
+SHA1-Digest: xtt1DRGtxh6yHtqR9LGHgy2fWg0=
+
+Name: assets/res/ccs/checkpoint_level_introduction.json
+SHA1-Digest: LOpG9w2chcnr48ej5GLzEe6gRTs=
+
+Name: assets/res/sound/TGhFir00.mp3
+SHA1-Digest: v1dGtW6liYvxz+8M8rKggWXNrwM=
+
+Name: assets/src/metadata/novice/Novice.luac
+SHA1-Digest: mTum0+cQ68DJJOEGmP8ULdaRTzs=
+
+Name: assets/src/metadata/scenePlot/scenePlot300013.luac
+SHA1-Digest: 3yt+WWhadal99dzDlOcUfNSShG0=
+
+Name: assets/src/combat/user/skill/tank30114.luac
+SHA1-Digest: gWqWyjvCgOb3ixBZSbO1chEf6As=
+
+Name: assets/res/image/energy_bar.png
+SHA1-Digest: r6Zzg3IjsX1NqZNW1dP4/234M7o=
+
+Name: assets/res/sound/UZeFir00.mp3
+SHA1-Digest: oMmN/I0qC5k9j1dIAaYBYBB5qCY=
+
+Name: assets/res/ccs/new_army/detailed/floor_2.png
+SHA1-Digest: UVLbDZLst/NlZ15dPPaOMXu0PXY=
+
+Name: assets/res/unit/corsair.pvr.ccz
+SHA1-Digest: 9DIj4a8Tw9TD2jYCPxpcbXDb6oE=
+
+Name: assets/src/combat/user/skill/wroith30007.luac
+SHA1-Digest: NdRwmFq2Y7FFlm5ydKpyRH/LTJ0=
+
+Name: assets/res/ccs/typeface/sweep_once_off.png
+SHA1-Digest: Ah+GfN+hnWYm/PCnUsNYdPmLIk8=
+
+Name: assets/res/sound/deployS/firebat.mp3
+SHA1-Digest: 6EvDuioNiuOXKko/9nhTJqfGRzc=
+
+Name: assets/res/ccs/typeface/retreat_off.png
+SHA1-Digest: Qay7hrd2doDQhoVyW6b/G9/5jsY=
+
+Name: assets/res/image/frame/fragment_purple.png
+SHA1-Digest: FvPPtxdzT1z0gBolrtuRpLkQwq8=
+
+Name: assets/res/ccs/ranking_list/floor.png
+SHA1-Digest: 2qgRE2/28TfdyQxRT6L/CHgxfcU=
+
+Name: assets/res/ccs/new_army/button_on.png
+SHA1-Digest: Rp93lCHfKcQUhesNSHhPWNu0OFs=
+
+Name: assets/res/particle/frozen.png
+SHA1-Digest: ivf0sEWlZB689Uk6Z502QdcRXjI=
+
+Name: assets/res/ccs/sign_out/return.png
+SHA1-Digest: 9k+WDYKLK2AHAHxObDwP4moIwXM=
+
+Name: assets/res/ccs/main_interface/change_button_on.png
+SHA1-Digest: B8SRR+coq0oU7zDuX6FMFnTmjHc=
+
+Name: assets/res/ccs/checkpoint_select_checkpoint.json
+SHA1-Digest: R/2VMrmNGG1UsyDGppHcNkrsrm0=
+
+Name: assets/res/ccs/background/architecture_endless_star.png
+SHA1-Digest: PgcKfHkQ9UcP9vMMf7TvXQCap3U=
+
+Name: assets/res/unit/ammo.plist
+SHA1-Digest: ZzviXIKHzIjQx1T+61OTCLnHDhU=
+
+Name: assets/res/sound/uisound/swishout.mp3
+SHA1-Digest: E1muEfnfRAVx/KamhXwPlkPZxWc=
+
+Name: assets/src/auxlib/tempdata.luac
+SHA1-Digest: wZFmpkw5yaCZC6bzrvNqF+JXpzU=
+
+Name: assets/res/ccs/home/golden_finger/congratulation/floor.png
+SHA1-Digest: Vk/iiSXGn9C9YjSrFrcRag7DVMQ=
+
+Name: assets/res/image/achievement/6_off.png
+SHA1-Digest: 6F17vwHoKXn6aOQT5Qpk5U9AXmc=
+
+Name: assets/res/image/plist/sklup.plist
+SHA1-Digest: 0ycESOUJx+ZGcHmTf06pNn/8eE8=
+
+Name: assets/res/ccs/checkpoint/select_checkpoint/star_off.png
+SHA1-Digest: ukPGuhFtWPQPCwUIK3wpib7tm5E=
+
+Name: assets/src/engine/cocos/cocos2d/DeprecatedCocos2dFunc.luac
+SHA1-Digest: vWgGGvd1SDjHX44DoKmAgjN4FUY=
+
+Name: assets/res/unit/scourge.plist
+SHA1-Digest: 1daCvDyKj8HixSN2XjU1Tc9ubbk=
+
+Name: assets/res/ccs/checkpoint_star_award_awd.json
+SHA1-Digest: AAEuGHXTYeaaJydGl01cOghYk1s=
+
+Name: assets/res/ccs/image/skill_points.png
+SHA1-Digest: lbi8eRxTIom4Op/CX+LHGSjtA1g=
+
+Name: assets/src/ui/ui/home/TopBanner.luac
+SHA1-Digest: EKKXASpVMebu0kme/R4hNSw47pg=
+
+Name: assets/src/engine/mainEngine.luac
+SHA1-Digest: 5i/NFspR8kTURuLFw47zu8nIQ80=
+
+Name: assets/src/ui/ui_module/widgetNode.luac
+SHA1-Digest: KNKUkeBQifZvwuLYRj08SEmBuJ0=
+
+Name: assets/res/image/Equipment_quantity_floor.png
+SHA1-Digest: hRuZ+OlW0OktG/YCch9jLYIhfY0=
+
+Name: assets/src/combat/user/skill/ghost100081.luac
+SHA1-Digest: m7ck8DH3B6Q754D3LZa1p1mr+7U=
+
+Name: assets/src/metadata/calc/shopCalc.luac
+SHA1-Digest: GQ+ZG+jModt8BgaBL6Y3Yj+MWvM=
+
+Name: assets/res/ccs/endless/main_interface/popup/button.png
+SHA1-Digest: OdrlqOYpNPIRRElZxqjFaMyRhtI=
+
+Name: assets/res/ccs/endless/main_interface/recruit/icon.png
+SHA1-Digest: UD+bzLSBqva5bx/8+Yra8x2f52E=
+
+Name: assets/res/ccs/typeface/nickname_off.png
+SHA1-Digest: U8kYjBQCntBLJbP4rS+AaqTlfqM=
+
+Name: assets/res/ccs/ranking_list.json
+SHA1-Digest: KfD3h8gkPPjfc/1vwt9WBQz1YvA=
+
+Name: assets/src/metadata/normalStage/normalStage300058.luac
+SHA1-Digest: lYfavRDDMttIADYax/gItsP4w7Q=
+
+Name: assets/src/metadata/normalStage/normalStage300057.luac
+SHA1-Digest: oYIqMMVuIaer9/hcJZPhuMIp2tg=
+
+Name: assets/src/engine/cocos/framework/extends/MenuEx.luac
+SHA1-Digest: gIiglzZEVWRZ3Xw4kB/DbIRxB6I=
+
+Name: assets/res/image/achievement/6.png
+SHA1-Digest: VSFevIAcqJJDvqiVm+4t4NsCUf4=
+
+Name: assets/res/ccs/checkpoint/congratulations/effect_1.png
+SHA1-Digest: a7cIH17cSjhPUpusLh4MzYyoyb4=
+
+Name: assets/res/ccs/typeface/upgrade.png
+SHA1-Digest: q3EXSKwdiPX/LkN+c091NgkqB3c=
+
+Name: assets/res/unit/devourer.ExportJson
+SHA1-Digest: ZIdAMoB9SHeFxCqrILAQ3U989eg=
+
+Name: assets/src/auxlib/roledataupdate.luac
+SHA1-Digest: DAbw+A40pP2KG/tXzuIwzpPIWOs=
+
+Name: assets/res/sound/uisound/actor_level_up.mp3
+SHA1-Digest: XjbuKNXhC0oPUXyalk2a8icE0kw=
+
+Name: assets/src/metadata/normalStage/normalStage300019.luac
+SHA1-Digest: eQ0UqWbrqayyVgop7WrokrxXbk0=
+
+Name: assets/src/metadata/skillAttr/skillAttr30112.luac
+SHA1-Digest: 5psoMnDyEhbZNoJQ0yhbOUeWbBE=
+
+Name: assets/src/combat/user/buff/buff40004.luac
+SHA1-Digest: kGSPi0nipY5j4Q65OIMLAmwPDPk=
+
+Name: assets/src/metadata/normalStage/normalStage300020.luac
+SHA1-Digest: Cs9JO4ESnXJ1fBSEzhkHAqacqN4=
+
+Name: assets/src/metadata/unitNum/unitNum102070.luac
+SHA1-Digest: 7CJRLDi9fGkTNziu2W0oxaMQDeQ=
+
+Name: assets/src/engine/cocos/extension/DeprecatedExtensionFunc.luac
+SHA1-Digest: /Z/vlnQK28RoMNwP0E4/m8caRf0=
+
+Name: assets/src/combat/user/state/patrol.luac
+SHA1-Digest: XMwYBRX+c8UutatnUepOh/exLZc=
+
+Name: assets/res/ccs/endless/main_interface/popup/floor.png
+SHA1-Digest: a2IhNyQLiXnsj3BwjQqweRik7A8=
+
+Name: assets/res/ccs/formation/minus_sign_on.png
+SHA1-Digest: 6AgQIriuSRW2AC/it1m+ceEmRIA=
+
+Name: assets/res/ccs/image/general_background_blue_1.png
+SHA1-Digest: ONF0zoWHajJhiF/Rdsre0DFbyTQ=
+
+Name: assets/src/net/protocolSender.luac
+SHA1-Digest: rjqA1/kZO/LJji4xxslK0MjP0xw=
+
+Name: assets/src/combat/user/memory/memory_ghost.luac
+SHA1-Digest: H4mfTMxt9mpE2UZNYBgtrr0f1EE=
+
+Name: assets/src/metadata/skillAttr/skillAttr90002.luac
+SHA1-Digest: ILQXZ0WdjxP0boXJfsx2W5tn5Ug=
+
+Name: assets/res/ccs/endless/main_interface/popup/stop.png
+SHA1-Digest: 1OwCPDvc7T8YppZg9JsBxHSAvXM=
+
+Name: assets/res/image/card/c_card_1.png
+SHA1-Digest: 77N9cZCydQjZviyKTKVws+eVy/Y=
+
+Name: assets/src/engine/cocos/framework/device.luac
+SHA1-Digest: Dx2cptCAwpoukKoky8fnz8VIC4g=
+
+Name: assets/res/ccs/diamonds.json
+SHA1-Digest: eM7H89Pl8Oy0Uf7FqfZ1+OmuqSI=
+
+Name: assets/res/image/card/r_card_2.png
+SHA1-Digest: +AMMEUV1P+Ny2NCljhNRLG7vQnk=
+
+Name: assets/res/unit/ammo.pvr.ccz
+SHA1-Digest: jBVrRPNo5xX3t8Q2OFk3OkJ+TqY=
+
+Name: assets/res/ccs/buff/attack_speed.png
+SHA1-Digest: lPBvfHy5GSz0JhgPWZ0hWDuF0W8=
+
+Name: assets/src/enum/PhyConst.luac
+SHA1-Digest: Oj6uvGRLfXSjgJjLMrY5QY3Ts3k=
+
+Name: assets/res/ccs/GUI/labelatlasimg.png
+SHA1-Digest: xic7V1FM8Dhv2wLqfvtw7Ou4DVE=
+
+Name: assets/res/image/frame/head_white.png
+SHA1-Digest: +cwBLH7T+l4zaLnUwF9LAfdy75I=
+
+Name: assets/res/sound/tanksetup.mp3
+SHA1-Digest: kshtcdGq/ieAQ3bYxb6hNAehl4M=
+
+Name: assets/res/ccs/typeface/easy_mode_on.png
+SHA1-Digest: PWdEmDh0PLossKLMoKHYXGgSu3Q=
+
+Name: assets/src/ui/ui_module/SkillCreator.luac
+SHA1-Digest: 8qKda8eSIg8zjEzqrFW0He+K1WU=
+
+Name: assets/res/sound/blastgn2.mp3
+SHA1-Digest: IF3fuR2B0nXCIcOOir8Z/HmjaYM=
+
+Name: assets/res/unit/ammo.ExportJson
+SHA1-Digest: KGD7xwhsx+16KbSUOIp7PDzsvZw=
+
+Name: assets/src/metadata/normalStage/normalStage300088.luac
+SHA1-Digest: ZIhrJ7012Zhr60Pl0Csy5e2FSNw=
+
+Name: assets/src/metadata/normalStage/normalStage300101.luac
+SHA1-Digest: ezSML9SzoPqoFlGsShtwXRCGxkY=
+
+Name: assets/src/combat/user/state/bulletp2p.luac
+SHA1-Digest: EPI3fEhlyFq+zyGsu0FH8r1IWDw=
+
+Name: assets/src/metadata/unitNum/unitNum100010.luac
+SHA1-Digest: q/6VTifRlCzrZueWz3uHR5oQDHo=
+
+Name: assets/res/ccs/main_interface/floor_1.png
+SHA1-Digest: jAVoOOtVlVVAJdWs0F2ZJaLG1jY=
+
+Name: assets/res/ccs/typeface/return.png
+SHA1-Digest: fTWN3MGLUcW/b6aWwU+Q7+vkRdU=
+
+Name: assets/src/metadata/scenePlot/scenePlot300092.luac
+SHA1-Digest: yVPy8ip+CxixoiEOM9c/T2k5xsI=
+
+Name: assets/src/engine/cocos/cocosdenshion/AudioEngine.luac
+SHA1-Digest: kSqGycmr66fJ7FlXRjP8/6kci3E=
+
+Name: assets/res/particle/datuowei.plist
+SHA1-Digest: MjyISggRKYtxZahFo6RgBfueph8=
+
+Name: assets/src/combat/user/skill/marine30000.luac
+SHA1-Digest: 6+NTgqr6ggu0GfkxJtvKxY6CF60=
+
+Name: assets/res/ccs/diamond_confirm.json
+SHA1-Digest: vHKUw9UsB/cJdKzqBv9UANJ6/FE=
+
+Name: assets/res/unit/corsair.ExportJson
+SHA1-Digest: JQoBv6DI06evzR1NByEGldYi8m0=
+
+Name: assets/src/metadata/normalStage/normalStage300033.luac
+SHA1-Digest: 3u+l2TQDjY4KCQ95rhdI5RBeO8A=
+
+Name: assets/src/metadata/normalStage/normalStage300114.luac
+SHA1-Digest: phEqtbumQxIL4tav8e41S6f0DyA=
+
+Name: assets/res/ccs/achievement/progress_bar.png
+SHA1-Digest: Pv2TOeLO1LwGnBDmZqs2SKJMOAg=
+
+Name: assets/res/ccs/background/architecture_star_store.png
+SHA1-Digest: oOJRuxGoWdE0FUoZJF90ii3MIUM=
+
+Name: assets/res/unit/firebat.pvr.ccz
+SHA1-Digest: 1cG/fekbDML8iYrRcsjYODvA/hs=
+
+Name: assets/res/ccs/battle/heroic_rewards/blue_board.png
+SHA1-Digest: lizdN1Vlujq4NqyuOxtYWaRRLSU=
+
+Name: assets/res/unit/high templar.pvr.ccz
+SHA1-Digest: l3wlzbcy9Bg99NYEEdl3GA6lcJw=
+
+Name: assets/res/image/frame/fragment_blue.png
+SHA1-Digest: APADmACsByfmulIOGf3NS05VAh8=
+
+Name: assets/res/ccs/image/main_interface_picture_frame.png
+SHA1-Digest: 6chPCXhvK2VhW3eu59OpAaqpMk0=
+
+Name: assets/src/auxlib/aux_tmonitor.luac
+SHA1-Digest: WyDqrUsRb8lcDmOZfqDpXvxJRpc=
+
+Name: assets/src/dataeye/DCEvent.lua
+SHA1-Digest: JjRUiJ3gc2xb80ph1E713p4SpeU=
+
+Name: assets/res/ccs/gift_store.json
+SHA1-Digest: CLtEx7Y162D0BNEn6Xmr1TMq4qc=
+
+Name: assets/res/image/frame/fragment_green.png
+SHA1-Digest: nexy1LdSXX6svyJddoO4OU+2IuA=
+
+Name: assets/res/image/card/c_card_3.png
+SHA1-Digest: LuE0RwSDRArJhOIc6XD9XPdOC4o=
+
+Name: assets/res/ccs/typeface/nickname.png
+SHA1-Digest: KjK6/CxQKCyN0hRwcr3f9yISDmo=
+
+Name: assets/res/ccs/modify_avatar/lock.png
+SHA1-Digest: 2XKJvqvGlFytSJO1hZ2SXOVk/NI=
+
+Name: assets/res/ccs/checkpoint/level_introduction/floor.png
+SHA1-Digest: TrUxqm4qalGecSkV3WU9ih2A9X0=
+
+Name: assets/src/ui/ui/battle/BattleFail.luac
+SHA1-Digest: MEhIJ/ylSZxEWx9NWB6G9ZiACWs=
+
+Name: assets/res/image/formation.pvr.ccz
+SHA1-Digest: yAPS8eYDG1SAnFG4vlavhpuxUZU=
+
+Name: assets/res/sound/skillS/high templar (16).mp3
+SHA1-Digest: WLACHooFv+R0/UBeVxzsIfAkhrI=
+
+Name: assets/src/metadata/normalStage/normalStage300043.luac
+SHA1-Digest: CtJXh45810DZGffTDFK9X6VkJD0=
+
+Name: assets/res/image/soldier_name/flame.png
+SHA1-Digest: EnrBUYywhFX3mj9+lULmRvJV/XE=
+
+Name: assets/res/ccs/home/golden_finger/floor.png
+SHA1-Digest: 2WelZ1LLZdIFk9bJBEvOmB/ad/w=
+
+Name: assets/res/sound/uisound/unlock_card.mp3
+SHA1-Digest: 6MIthc4rQ6atoYEcLayHSfWIPVE=
+
+Name: assets/src/metadata/normalStage/normalStage300061.luac
+SHA1-Digest: dXGaAbtbhFUK8ebMRaWnR15xEaE=
+
+Name: assets/res/ccs/typeface/return_on.png
+SHA1-Digest: iB3o81wvdvXNUE88Jh6eCbhAFLw=
+
+Name: assets/res/ccs/image/return (2).png
+SHA1-Digest: PDWiIDjZXWvOwrKjrWqC4AZER2Q=
+
+Name: assets/res/ccs/new_army/detailed/floor_1.png
+SHA1-Digest: akzAZwkiW2FqjoHowen6tV0uyYc=
+
+Name: assets/res/sound/pzeDth00.mp3
+SHA1-Digest: yk+KfibQ2Z2W2l48ZvNhJc4+AVQ=
+
+Name: assets/res/ccs/formation/red.png
+SHA1-Digest: OEuQs+WhM4eiXVrnWTijzUwi8jc=
+
+Name: assets/res/ccs/new_army.json
+SHA1-Digest: ZnQfJzFgx+0FjCnXpcwKpM4B2YI=
+
+Name: assets/src/engine/cocos/network/NetworkConstants.luac
+SHA1-Digest: /AhvXSymqrThkjVTuAlqx2XXZaI=
+
+Name: assets/src/metadata/buffAttr/buff40001.luac
+SHA1-Digest: lfuehO6kwBZht7y4S9EoszQcXGI=
+
+Name: assets/res/image/soldier_name/scourge.png
+SHA1-Digest: /VlLdlUO+0peyQndJQ3sfORcV4c=
+
+Name: assets/res/ccs/manual.json
+SHA1-Digest: bCnSiwVz+PrM9i8vjUP6q/N00hY=
+
+Name: assets/src/ui/ui_module/extend/EditBox.luac
+SHA1-Digest: GNWl+5tX4Coq1Nc6cZmwiCWRbyE=
+
+Name: assets/src/metadata/normalStage/normalStage300070.luac
+SHA1-Digest: 8/HwpNsj3JHMOCFwaB3UMoTbmJY=
+
+Name: assets/res/ccs/typeface/recruit_ten.png
+SHA1-Digest: C+3SLkTUjvQ7Mkj9agu/2SB3l4g=
+
+Name: assets/src/engine/cocos/cocosbuilder/DeprecatedCocosBuilderClass
+ .luac
+SHA1-Digest: eBC+MbF/4+QZdcqrSF2RHWGHKz4=
+
+Name: assets/res/unit/lurker.plist
+SHA1-Digest: 8kUv6GfM/Y4nUH7rzCLHWSvnWsI=
+
+Name: assets/res/unit/medic.ExportJson
+SHA1-Digest: 2AbKw7x3WELSRtmfbOl61GAPTdU=
+
+Name: assets/res/ccs/typeface/elite_mode.png
+SHA1-Digest: kwgF2buC7l3qxD9h5vXqgV44PXM=
+
+Name: assets/src/metadata/normalStage/normalStage300084.luac
+SHA1-Digest: XWrMSBhKnWoD9nw2l08P/5sDvOI=
+
+Name: assets/src/combat/user/state/standby_normal.luac
+SHA1-Digest: ujUr0p1xfUbqVBbfJL028PWBFe8=
+
+Name: assets/res/ccs/endless/main_interface/star/floor.png
+SHA1-Digest: juYEyjqdumK/duhw874c76tSw7k=
+
+Name: assets/res/ccs/formation/canon.png
+SHA1-Digest: H4bNiersGWnW1w4rVkax5jGmxYQ=
+
+Name: assets/res/sound/deadS/hydralisk.mp3
+SHA1-Digest: /onglNA/HERFe8DIlYEwVlMoNjE=
+
+Name: assets/res/map/map302.tmx
+SHA1-Digest: m7UD5EG8Nyw5ARoi++9bFKm7jco=
+
+Name: assets/res/ccs/battle/pause/pause_board.png
+SHA1-Digest: F+AYfE4bW1e+qGgHA5ll+0Kz29I=
+
+Name: assets/res/ccs/canon.json
+SHA1-Digest: Xbq6sclvpMSwKs65UDnhUDQPr+Q=
+
+Name: assets/src/metadata/calc/diamondCalc.luac
+SHA1-Digest: FLJNRNN87y59lM7hYsVmYAd1lx0=
+
+Name: assets/src/ui/ui_module/UIClass.luac
+SHA1-Digest: rddDq2IJoNk6AiVeqkw1TzPNh20=
+
+Name: assets/src/metadata/normalStage/normalStage300093.luac
+SHA1-Digest: xt2lEZnMNo+E+zkWmyHhTQkdzc0=
+
+Name: assets/src/ui/ui_module/TipName.luac
+SHA1-Digest: bbmXkSrUjTDhhz9RGPYuRkBS8vw=
+
+Name: assets/res/image/plist/waitSprite.plist
+SHA1-Digest: dBnynz8Sh8J65KU0qItE+p9F6ps=
+
+Name: assets/res/ccs/unlock_card/halo.png
+SHA1-Digest: SBd2r1MG8ev7zEOT3lBe+qBdzb8=
+
+Name: assets/src/metadata/normalStage/normalStage300021.luac
+SHA1-Digest: vCVq5tWdmZHwDaescMKP5/4PbNg=
+
+Name: assets/res/ccs/formation/floor.png
+SHA1-Digest: pDbNHuJnaTzrhGoaJXRUB5NtWic=
+
+Name: assets/res/ccs/diamond_store/18.png
+SHA1-Digest: czLfS4DzGc34sz7utjaurueTb2w=
+
+Name: assets/res/unit/lurker.ExportJson
+SHA1-Digest: POEWHJBUHixBKxEYdnQJNOVMKEg=
+
+Name: assets/res/ccs/plot/floor_2.png
+SHA1-Digest: w9b1rIGwF8st/1+kocs6kYIWJWE=
+
+Name: assets/src/combat/api/actor/aim.luac
+SHA1-Digest: YzCn3xYtBmkZX+xDopbIX/ABvhs=
+
+Name: assets/src/combat/class/actor.luac
+SHA1-Digest: a/X1Zgiy/kYP0grcur8F+17NoUw=
+
+Name: assets/res/ccs/battle/heroic_rewards/blue_board_off.png
+SHA1-Digest: JtPtqVfTspLP0Pid/ZS2schDL8c=
+
+Name: assets/res/image/soldier_name/ghost.png
+SHA1-Digest: A8DpOlkLYimdShmzyDjLHcoGAIs=
+
+Name: assets/src/engine/cocos/ui/DeprecatedUIEnum.luac
+SHA1-Digest: iERDYaJgMTIxSAuppQf/pWmqxeI=
+
+Name: assets/src/ui/ui_pre/channel/channelGoogle.lua
+SHA1-Digest: wO6aUvSHkgdyg/+E47dK2VkuBow=
+
+Name: assets/res/ccs/background/architecture_tree.png
+SHA1-Digest: Gzo9RpBfTh4viXhRfKTK2h+FBxw=
+
+Name: assets/src/metadata/numDef.luac
+SHA1-Digest: fpmJU4rKwZpV3GVguseANpXhBeQ=
+
+Name: assets/src/combat/module/eventbox.luac
+SHA1-Digest: Huq3uNL28s9m2tvJHfCEWCbRSjI=
+
+Name: assets/res/particle/gas_disappear.png
+SHA1-Digest: yiWAe/Ew6awnHwZekkM1wGHidzA=
+
+Name: assets/src/library/AccountManager.luac
+SHA1-Digest: nZ7DCNT8uyYnC4ZC/fwl8DBVACU=
+
+Name: assets/res/ccs/formation/battle/X2.png
+SHA1-Digest: 9pC8hXq0rdMzY3Ci6Ir3yjV/W8Y=
+
+Name: assets/res/ccs/image/head_blue.png
+SHA1-Digest: OiG3pb26hV0EhI5Riw9lozZziq4=
+
+Name: assets/res/image/Equipment_mark.png
+SHA1-Digest: nwIimOwW+K2wpoTzg0T2BYlg4oA=
+
+Name: assets/res/ccs/typeface/play_on.png
+SHA1-Digest: ZTHp3TTpFb5nIaLrNvPIWShXuwk=
+
+Name: assets/src/main.luac
+SHA1-Digest: hip7rigTQ7lH/wcv1pfB+/vskL4=
+
+Name: assets/res/image/head.pvr.ccz
+SHA1-Digest: 2cbKJgX4a1s8sljcv6z2MuD86Zc=
+
+Name: assets/res/ccs/package/first/VIP.png
+SHA1-Digest: 7pwoZsyLAYeqjadPtsnMe8CSWa4=
+
+Name: assets/res/image/card/s_card_5.png
+SHA1-Digest: lwuLM1rNzIOunYBTkoCPCFbs5yo=
+
+Name: assets/res/ccs/checkpoint/level_introduction/sweep_volume.png
+SHA1-Digest: mHI85raKYBhRkdZu33deG3xEqmc=
+
+Name: assets/res/ccs/package/icon/vip_icon.png
+SHA1-Digest: Cu2r/wN2E2N09WhTZqXN5MLBhJU=
+
+Name: assets/res/image/achievement/1_off.png
+SHA1-Digest: BKTLt7YEfGkp0L4Vbbr9pSGS1EI=
+
+Name: assets/src/combat/user/skill/medic30004.luac
+SHA1-Digest: yg+1PIQ0aYuXww0KsrcqjRAelRI=
+
+Name: assets/src/metadata/novice/Trigger.luac
+SHA1-Digest: l30t3nJtXF1lP2+fVBRtUVriAdQ=
+
+Name: assets/src/enum/HmConst.luac
+SHA1-Digest: UNFh1SnGyR3GduVi107J6pEMwMA=
+
+Name: assets/res/sound/uisound/click_button.mp3
+SHA1-Digest: PftHgULSROH9+YAKw9CBFK2qIIg=
+
+Name: assets/res/image/eftui_djts.pvr.ccz
+SHA1-Digest: 2h5hOVWNsO8YpSyOZnNOXqtbW+A=
+
+Name: assets/src/ui/ui/endless/FightingWin.luac
+SHA1-Digest: /LQrX8FjEXVtKhwiXBY+iksAfHQ=
+
+Name: assets/res/ccs/formation/r_floor.png
+SHA1-Digest: imd4l7frNPrbydH2IqT5cw5o6fw=
+
+Name: assets/src/combat/module/skada.luac
+SHA1-Digest: YhiDcoNu88Czw0mQHBLRyqHi/Zg=
+
+Name: assets/src/combat/user/skill/cordial30100.luac
+SHA1-Digest: WjVOTqHx5ZfFUbalmGjtJDRFHtw=
+
+Name: assets/res/sound/uisound/tadUPD06.mp3
+SHA1-Digest: 9hN7TBPsI60/VR7EhtM6+ogF2X4=
+
+Name: assets/src/metadata/unitNum/unitNum101080.luac
+SHA1-Digest: +WhACJ0Z8zXzCmlyoeBhEZ3auZA=
+
+Name: assets/res/sound/SPOOGHIT.mp3
+SHA1-Digest: CSlcK6F0lGCneFaoy6BiKS+56Fg=
+
+Name: assets/res/ccs/typeface/unlock_on.png
+SHA1-Digest: pM8cMyBbKZ2DHmS3CyYcZYIXXy0=
+
+Name: assets/src/combat/class/actorDummy.luac
+SHA1-Digest: UQYlEsZsk0VsJ1CbG+3GSf4CnwA=
+
+Name: assets/res/ccs/sign_out/sign_out.png
+SHA1-Digest: SJuBBfX2yX0OI5PJsr++yGdq3mI=
+
+Name: assets/src/metadata/normalStage/normalStage300011.luac
+SHA1-Digest: JXjmysYaWaGJB5e9rGljBGX5O7o=
+
+Name: assets/src/ui/ui/home/Home.lua
+SHA1-Digest: zmQ/APiYuoAbeTAGFFusQJudk74=
+
+Name: assets/res/sound/TPhFi100.mp3
+SHA1-Digest: K8OswQmLaU17Tx6vB+Bbxmk4LoI=
+
+Name: assets/res/unit/zergling.ExportJson
+SHA1-Digest: CxuzRA9ZJUccae4shkXo3HSbC+0=
+
+Name: assets/res/unit/dragoon.pvr.ccz
+SHA1-Digest: CSvTyKhSvj5jhzZSgaDoGVae7BE=
+
+Name: assets/src/metadata/skillAttr/skillAttr30001.luac
+SHA1-Digest: DbAvh5DY+SfLlL08dw+alZ7N9Zo=
+
+Name: assets/res/unit/devourer.pvr.ccz
+SHA1-Digest: kcZlNfw0jkQHw5QbZJVB6OpGOP4=
+
+Name: assets/res/ccs/image/blue_board_off.png
+SHA1-Digest: OgMoB+gafri64gMpwd8pw8WOD9A=
+
+Name: assets/res/ccs/unlock_card/halo_light.png
+SHA1-Digest: PvzullsejpvZW/+PrZaUbY3ApOQ=
+
+Name: assets/res/sound/TPhFi200.mp3
+SHA1-Digest: nSrdw01IVhwQLBLFpYfynYaonyI=
+
+Name: assets/src/combat/module/attribute.luac
+SHA1-Digest: 9Ss4eBScCkxKfkChzkByA9H2WQA=
+
+Name: assets/res/unit/queen.plist
+SHA1-Digest: 3Ja+q8MSEI5tcQLQiGpBBY/l37U=
+
+Name: assets/res/ccs/battle_date.json
+SHA1-Digest: A5lAH/WjaR4TqPn/LZcU4H7WchE=
+
+Name: assets/src/combat/user/skill/mvspeeddown101062.luac
+SHA1-Digest: ubIK44QwFEIzH6iuk+E5yvlBF6s=
+
+Name: assets/src/metadata/normalStage/normalStage300066.luac
+SHA1-Digest: D5J7iwG4PllG+Clxu9ZDhFBKiLM=
+
+Name: assets/src/metadata/skillAttr/skillAttr30007.luac
+SHA1-Digest: T8QvUly8CvXwU7HhcQK3rmmBS7E=
+
+Name: assets/src/ui/ui/home/arsenal/Detailed.luac
+SHA1-Digest: h9Zqv6meIKOHEjRe6oEF5yay2Mk=
+
+Name: assets/res/sound/zmuDth00.mp3
+SHA1-Digest: 30goaCkgkrlII/uTNab0D0s4eGs=
+
+Name: assets/src/combat/module/gameData/dataNormal.luac
+SHA1-Digest: Y32lxMnig8oWl+QMck4VL9u0rus=
+
+Name: assets/src/engine/cocos/cocos2d/DrawPrimitives.luac
+SHA1-Digest: SdvPvw3EFykiqDmwpSPUgL9AFuU=
+
+Name: assets/res/language/config.json
+SHA1-Digest: u+YXIv4H0LKBWFh6gpxrn1bctD8=
+
+Name: assets/src/combat/module/gameData/dataEndless.luac
+SHA1-Digest: A1u0FMKl3crn7bOlZDNtPCQD8eY=
+
+Name: assets/res/ccs/battle/heroic_rewards/green_board.png
+SHA1-Digest: 4SLeqzZ7SdMPJQP84reboi3FNiE=
+
+Name: assets/res/ccs/image/yellow_button_on.png
+SHA1-Digest: StpLfRQZ2r7Bjzipb2HM/H0Fb8A=
+
+Name: assets/res/image/achievement/3_off.png
+SHA1-Digest: by6metMYQ2wemi2geHqNj7fcCJE=
+
+Name: assets/res/ccs/battle/pause/exit.png
+SHA1-Digest: aAaZnjwKXcPU4bWPUBuQJr/JtXQ=
+
+Name: assets/res/ccs/battle/failure/lv_up.png
+SHA1-Digest: F7LUh3/LTiox7tX6yo6MbmcM/9g=
+
+Name: assets/src/metadata/buffAttr/buff40006.luac
+SHA1-Digest: Eddi605RU9F1t0X+vKiN13e0HmA=
+
+Name: assets/res/ccs/background/architecture_star_war.png
+SHA1-Digest: yV0vdDBfVYpV7xUXMLAaYLUW7FM=
+
+Name: assets/src/combat/user/skill/corsair102042.luac
+SHA1-Digest: 88lW/Kyu4BZSGFJ7DeHXo6ntLEY=
+
+Name: assets/res/image/god_cd.png
+SHA1-Digest: z0A4gR8WtZGuQaOV8/K+AXIsEMA=
+
+Name: assets/res/image/card/c_card_6.png
+SHA1-Digest: OZFxV/yW9sB9eQYgyCYIiAKb7So=
+
+Name: assets/res/sound/TTaFi200.mp3
+SHA1-Digest: RNXjwJP5GiyYD7Qh2LgmCkLo0xg=
+
+Name: assets/src/metadata/skillAttr/skillAttr30002.luac
+SHA1-Digest: yrs9LEnljTEPUhklInBXqQjiM9s=
+
+Name: assets/src/engine/cocos/cocos2d/OpenglConstants.luac
+SHA1-Digest: he4H7JziMXciEHMZqxsY4e/rWEo=
+
+Name: assets/src/engine/cocos/cocosbuilder/CCBReaderLoad.luac
+SHA1-Digest: 8Xtqu/wTRn2P29Y8mep0I6KQV4Q=
+
+Name: assets/src/scene/HomeScene.luac
+SHA1-Digest: 7YbhaNsIBxGiVsyJKtq1A2uI++s=
+
+Name: assets/res/unit/queen.pvr.ccz
+SHA1-Digest: QIbjawScQP5IvHsKCvXdaM57CHg=
+
+Name: assets/src/metadata/skillAttr/skillAttr100121.luac
+SHA1-Digest: DtkbcFkaVC7qDYZf8x1diA1QyoQ=
+
+Name: assets/res/unit/zergling.plist
+SHA1-Digest: 1/7REFFYqGGg8iJ05z1nAfy+FBs=
+
+Name: assets/res/ccs/image/retry_off.png
+SHA1-Digest: Sh97mmPzunR2QGqyC/+NRuBYjQ0=
+
+Name: assets/src/metadata/scenePlot/scenePlot300091.luac
+SHA1-Digest: +n/qj7ZSwE172+a1XZpxsP8B9RE=
+
+Name: assets/res/image/chapter_point/3.png
+SHA1-Digest: KPGlgodJILP2Q+rJTck1o4kiJic=
+
+Name: assets/src/metadata/normalStage/normalStage300086.luac
+SHA1-Digest: bQ0kxqADesSw0b9nUegNE+ATiJM=
+
+Name: assets/res/image/soldier_name/mecha.png
+SHA1-Digest: oPPgtgpOwQPypwm2CM2SKYu6sTk=
+
+Name: assets/src/combat/module/sound.luac
+SHA1-Digest: fTXWj9S5kpUc0P+9tlXzZZkzFfY=
+
+Name: assets/src/metadata/unitNum/unitNum102010.luac
+SHA1-Digest: 6e84BzLqwds+WHJoqBrbHjxoJL4=
+
+Name: assets/res/particle/combo.plist
+SHA1-Digest: yl5SrV35y2HSq5e7aNaHwy+76yo=
+
+Name: assets/src/metadata/skillAttr/skillAttr90004.luac
+SHA1-Digest: JNEoDV76JlkbOhQNTOG+lDcT++k=
+
+Name: assets/res/ccs/shop/general_store/top_bar.png
+SHA1-Digest: xS6DReA7Jdo60MALYtUIfefypak=
+
+Name: assets/src/combat/user/skill/firebat30001.luac
+SHA1-Digest: 60JaJea3hpojQ0qSbOEvnupFOYQ=
+
+Name: assets/src/metadata/unitNum/unitNum100070.luac
+SHA1-Digest: o/rybg+dWV7oDJYanMkATGxRmqU=
+
+Name: assets/res/ccs/background.json
+SHA1-Digest: BSVsJG07vyhUcwkvScCY4WjRB/M=
+
+Name: assets/src/metadata/unitNum/unitNum100120.luac
+SHA1-Digest: hml63TjWJa3quoRjZ+g0Wab61r4=
+
+Name: assets/res/sound/deployS/goliath.mp3
+SHA1-Digest: k3Te325pEH/E7EA7YsaedX5gMwE=
+
+Name: assets/src/ui/ui/battle/BattlePause.luac
+SHA1-Digest: L1ntuiRJsfUneiW7ECEBidnORpI=
+
+Name: assets/src/combat/module/gameMethod/endlessJudge.luac
+SHA1-Digest: IhcZw+QB8x/g2uu3+J8RDiOAS2g=
+
+Name: assets/src/metadata/skillAttr/skillAttr100081.luac
+SHA1-Digest: kOyH4xsl9SmTYrITI35qw9xn/vU=
+
+Name: assets/src/metadata/skillAttr/skillAttr90001.luac
+SHA1-Digest: GA1VMDNoewAsGAoRQ64Io4s4RH8=
+
+Name: assets/src/metadata/scenePlot/scenePlot300028.luac
+SHA1-Digest: 8EYaDJxf4W/D/S4q1aiIdKSisOw=
+
+Name: assets/res/unit/queen.ExportJson
+SHA1-Digest: gpsCJRj3T9WkDJldMrXPaCwSYr0=
+
+Name: assets/src/engine/cocos/cocos2d/Opengl.luac
+SHA1-Digest: dPBoCK6pnWsObzx2rum6ofZf3Ss=
+
+Name: assets/res/sound/uisound/swishin.mp3
+SHA1-Digest: imm5ZLG60sx0Hb/Dx1euCsgmCXs=
+
+Name: assets/res/sound/deadS/wroith.mp3
+SHA1-Digest: qETz/KbxXC1Uet3gteYCbM3/zrg=
+
+Name: assets/src/engine/cocos/framework/package_support.luac
+SHA1-Digest: 53OtdykInEOAGoxAYqTkrjYbq5c=
+
+Name: assets/res/image/skllight.pvr.ccz
+SHA1-Digest: wtsxUBW4gFE43oT42uSlVVZABro=
+
+Name: assets/src/combat/api/actor/state.luac
+SHA1-Digest: W8m9xq9akg4Nz6dEcHkZwJXiN3k=
+
+Name: assets/src/dataeye/DCAgent.lua
+SHA1-Digest: Iod1RrczsjV4jnDeMF0Kja7Z8tg=
+
+Name: assets/src/metadata/unitNum/unitNum101060.luac
+SHA1-Digest: UE5u115FSHpL35rsMR9/2BgnE3Y=
+
+Name: assets/res/ccs/image/Plus.png
+SHA1-Digest: qAx6jsIG7uKp6rrx+0m5Hi0gAeI=
+
+Name: assets/res/ccs/ranking_list/1.png
+SHA1-Digest: YCDzsonDhiRJm+rrRm+Whp0JPJ8=
+
+Name: assets/res/ccs/typeface/upgrade_on.png
+SHA1-Digest: IvMtIMXb5gkQ8wF8YfSOQLVMdWg=
+
+Name: assets/res/ccs/typeface/modify_Avatar_off.png
+SHA1-Digest: I6KxD+TOGnW8aRdrPSRTFYMQNN0=
+
+Name: assets/res/unit/mutalisk.ExportJson
+SHA1-Digest: sYC4rjdxLxaSt9yidn8xa2thH4A=
+
+Name: assets/res/sound/uisound/skill_level_up.mp3
+SHA1-Digest: HwPV6ZJV2wSzSaQ30RiBNA2z9lA=
+
+Name: assets/src/combat/user/skill/goliath30008.luac
+SHA1-Digest: h6isyPGkzl4S27nQ1fKAC+F0piQ=
+
+Name: assets/src/metadata/achievement/achievemt.luac
+SHA1-Digest: XIOX9YgDmAVKzjl5TqZsSkUMvqI=
+
+Name: assets/res/ccs/battle/failure/title.png
+SHA1-Digest: zUo2YqtXt25WHIF/n8j88ev/YNE=
+
+Name: assets/res/ccs/typeface/baodian_on.png
+SHA1-Digest: 7GsIijte1zFu5Ov2aIaDeAS3dT8=
+
+Name: assets/res/ccs/shop/shop_package/physical_package.png
+SHA1-Digest: /IaHWcdQRD4a08aIryuYboXDC6M=
+
+Name: assets/res/ccs/typeface/stop_off.png
+SHA1-Digest: RK7mdejt8jAUxaKPDQw+wLbF0Kw=
+
+Name: assets/res/ccs/scientific_research/wenhao.png
+SHA1-Digest: eDQ/iy96PdtN6CZlMcCU+juWJ6Q=
+
+Name: assets/res/ccs/battle/heroic_rewards/green_board_on.png
+SHA1-Digest: BqeY3/R/wAherwulnv1HRDxHgr4=
+
+Name: assets/res/image/frame/head_purple.png
+SHA1-Digest: Wx1Lw6ujr+cFeAEYMCznDgiInAw=
+
+Name: assets/src/engine/cocos/framework/display.luac
+SHA1-Digest: aBAg/b5inXqlBewbnHwyhcE2Ugo=
+
+Name: assets/src/combat/auxlib/pipeline.luac
+SHA1-Digest: GMewWYtA9+4jZCZxifnb2zcNO8k=
+
+Name: assets/res/ccs/achievement/flag_2_off.png
+SHA1-Digest: xxWgHO5T9FS/PIixgHGQnc9e4vM=
+
+Name: assets/src/metadata/skillAttr/skillAttr102051.luac
+SHA1-Digest: RZ4PQEJcFA7gYZm5fZYvVqagSeU=
+
+Name: assets/res/image/soldier_name/scout.png
+SHA1-Digest: eKCmVGeOB/BLitYNfenlmGltASw=
+
+Name: assets/res/sound/TPhDth00.mp3
+SHA1-Digest: Eq2TrdDcBLY2piTSQbx0r2jgNXg=
+
+Name: assets/src/combat/user/ai/queen101060.luac
+SHA1-Digest: PUEBiDBVDomVt50ihVpT03bjES8=
+
+Name: assets/src/metadata/skillAttr/skillAttr5002.luac
+SHA1-Digest: J+zwPkt94NBchNgzPFKudj+RspI=
+
+Name: assets/res/ccs/image/retry.png
+SHA1-Digest: VIDtg/SP1yLq6UtU2qexYbdbiLE=
+
+Name: assets/src/metadata/normalStage/normalStage300041.luac
+SHA1-Digest: Poijo/3UjGTC8e+vRGSCGbOPOPA=
+
+Name: assets/res/image/frame/head_blue.png
+SHA1-Digest: C+qHKGHRo1gts313ugzerL1SYuU=
+
+Name: assets/src/ui/ui_module/Tip.luac
+SHA1-Digest: cZe/jYh9AP0zWqyxANAa2kozcqI=
+
+Name: assets/res/ccs/loading/Loading/miss.png
+SHA1-Digest: bD/eUZxazOozWphbf2GbcHIhqHk=
+
+Name: assets/src/combat/module/data.luac
+SHA1-Digest: xPKp+OG0UxSAOaOCDQ0TTgIGJ3s=
+
+Name: assets/res/ccs/image/under.png
+SHA1-Digest: qsgK5eG0bDn7bGe9jWlSAWz7jRc=
+
+Name: assets/src/ui/ui_pre/channel/channelAD.lua
+SHA1-Digest: qvKAvJnWLpxAMbze9riy4pE0kIg=
+
+Name: assets/res/image/Diamond.png
+SHA1-Digest: ukHBdAv06hgIi/bs2Y3YdrizyTU=
+
+Name: assets/res/image/frame/head_green.png
+SHA1-Digest: VQR9VTou6YuVdScoWqsKSx6gO1o=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: b5GQrhLtokzOiLClHhxwaqjUJrM=
+
+Name: assets/src/combat/api/actor/visual.luac
+SHA1-Digest: 95Vw3+6kapMAVq7Mk9SzgCdq+vw=
+
+Name: assets/src/metadata/scenePlot/scenePlot300024.luac
+SHA1-Digest: KhKr5d8fVeDQoVzJ/G0rM6m/vms=
+
+Name: assets/res/sound/backgroudSound/home.mp3
+SHA1-Digest: u2EpA3pc4Dny0hHyL3Z7z8BdLp8=
+
+Name: assets/res/image/rank_cnt/6.png
+SHA1-Digest: l9Fjk/LpiLhj64qAyji6EZGJpFI=
+
+Name: assets/src/auxlib/auxs.luac
+SHA1-Digest: BWM9kBe0tp2BKHpTsebLnJWIHAI=
+
+Name: assets/res/ccs/battle_failure.json
+SHA1-Digest: Lg4BpVCH+y/2Z7rRB/0G1lQwh/o=
+
+Name: assets/res/sound/uisound/battlefail.mp3
+SHA1-Digest: j0tibZQJ4QEfjXN544L6RL9O2qU=
+
+Name: assets/res/unit/dragoon.plist
+SHA1-Digest: 0zg15y5sAH5JQ4kFvLBawpjxbdA=
+
+Name: assets/res/ccs/image/Diamonds_iocn.png
+SHA1-Digest: HjYCdhAJONWgpCD3tEmNXBWTM6U=
+
+Name: assets/src/metadata/unitNum/unitNum100030.luac
+SHA1-Digest: wm3B9YaPcAFDBYfSuexyTcWO3do=
+
+Name: assets/res/fonts/labelatlasimg4.png
+SHA1-Digest: qu4gQLNF3CRw56deHIunf0Cg3cE=
+
+Name: assets/src/ui/ui/home/achievement/Achievement.luac
+SHA1-Digest: S9ApZU2jk5A8N5nUIXvij0YJRYM=
+
+Name: assets/res/ccs/background/architecture_barracks.png
+SHA1-Digest: 1vOOgq+QRQqI9kkOs2yBHRs8IkM=
+
+Name: assets/res/particle/bullet_circle.plist
+SHA1-Digest: FMhx3H4nB0lmtR5Yn+stKSlie+I=
+
+Name: assets/res/sound/TVuFir00.mp3
+SHA1-Digest: 02J32TCzBZf5RdjzEIzE3hPLkdA=
+
+Name: assets/res/ccs/battle/pause/volume_off.png
+SHA1-Digest: ZGCfWcaWfobkP8rjiOgM8OH54Rw=
+
+Name: assets/res/ccs/role_upgrade/zhujue.png
+SHA1-Digest: Vdu2n47YNqCuQfqarPwyE65cYSs=
+
+Name: assets/res/image/achievement/7.png
+SHA1-Digest: i/zOa/GWLWZRBmTpRsHzYRvkOe0=
+
+Name: assets/src/metadata/skillAttr/skillAttr102042.luac
+SHA1-Digest: iJWpVaFYj4q6+VfzpK41DczZBmQ=
+
+Name: assets/src/metadata/skillAttr/skillAttr30113.luac
+SHA1-Digest: 6+urXyUureVVwED9PLJwGYqhs/U=
+
+Name: assets/res/image/soldier_name/doctor.png
+SHA1-Digest: 5WXtPmUCRsZEOeXzBSqxujQutAk=
+
+Name: assets/src/ui/ui/battle/BattleTask.luac
+SHA1-Digest: X0Ai5WLIpoHseWm78zjAFSm4dAA=
+
+Name: assets/src/metadata/novice/TriggerTheatre.luac
+SHA1-Digest: cr8Wkxs3Z4tEqpYH1upwLWvxRCY=
+
+Name: assets/src/combat/user/skill/hydralisk30301.luac
+SHA1-Digest: kVlGKNOqkTbsmLijsGkMFgyPBTw=
+
+Name: assets/res/ccs/typeface/achievement.png
+SHA1-Digest: jhTI7kQFczlkShisiYzRnzWYPDU=
+
+Name: assets/res/image/plist/loadingSprite.plist
+SHA1-Digest: YqquOci/IX0qJEtN6xKW8nO4p/U=
+
+Name: assets/res/ccs/new_army/detailed/left_floor.png
+SHA1-Digest: llBSoK0htryzu/bn+/nvPQDutuM=
+
+Name: assets/res/image/rank_cnt/2.png
+SHA1-Digest: Ag7Nkiw8qDDGEW3l5xMfdDrCbRQ=
+
+Name: assets/res/image/achievement/8.png
+SHA1-Digest: Uiu/fOUTWS4kfrwkNuIgPWqc/EE=
+
+Name: assets/res/ccs/typeface/recruit_ten_on.png
+SHA1-Digest: D89RhDLHnTo8aBRQCKaiX3eBqd4=
+
+Name: assets/res/image/achievement/8_off.png
+SHA1-Digest: JefUjArUuNqmliLXy33X6w5jQG8=
+
+Name: assets/src/metadata/skillAttr/skillAttr30310.luac
+SHA1-Digest: 4lXW8VkEwKOgp0btScZUwdHHCNw=
+
+Name: assets/src/metadata/normalStage/normalStage300018.luac
+SHA1-Digest: hqfHGMPVmDqkKTaMdekuOKAWfUI=
+
+Name: assets/res/sound/deadS/queen.mp3
+SHA1-Digest: OF8X6z4PDhdha007PjITAmfNpdw=
+
+Name: assets/config.json
+SHA1-Digest: OOIOi2ceiQKko7tzz0qgrKSRVLc=
+
+Name: assets/src/metadata/scenePlot/scenePlot300023.luac
+SHA1-Digest: 5s+WEafCNsHgwFdD1d8uvTVW2Oc=
+
+Name: assets/res/ccs/nickname/dice_on.png
+SHA1-Digest: qJ7SVn1GO6KtFMhXYOhwZFgH/do=
+
+Name: assets/res/ccs/buff/attack.png
+SHA1-Digest: OciCKjylDaFpETnpY5hyoFhnLQA=
+
+Name: assets/res/image/wait_light.png
+SHA1-Digest: 1KVV3zFOMnDBWJr9lwS8+pDuff0=
+
+Name: assets/src/combat/user/skill/dogSpeedUp30310.luac
+SHA1-Digest: 8CvQAkc4KnHaeHRPA87wKrtHuw0=
+
+Name: assets/res/ccs/buff/life.png
+SHA1-Digest: J5VgZZkYD/Dn0zkaR5lE16QlzgY=
+
+Name: assets/src/ui/ui/home/shop/StoreRefresh.luac
+SHA1-Digest: /xIFnCpHfFOKGkWMn8B/Lx3q0/I=
+
+Name: assets/res/ccs/scientific_research/b_2.png
+SHA1-Digest: jah/cqes3PhhHi2nKp3adTtoHQ4=
+
+Name: assets/src/metadata/endless/endlessStar.luac
+SHA1-Digest: ZeaEHeGvB6PyULOwiJvxjeG/2Ks=
+
+Name: assets/src/metadata/filter_text.luac
+SHA1-Digest: wFzfajYXKywk786/x8Bg4OHrlqo=
+
+Name: assets/src/combat/api/actor/buff.luac
+SHA1-Digest: 8H8wE12Rus4ox64y4+S7PBnQZmc=
+
+Name: assets/src/metadata/normalStage/normalStage300049.luac
+SHA1-Digest: fWhTajkKS8rgEPHGt8ET06+aOMo=
+
+Name: assets/src/combat/user/skill/scourge30304.luac
+SHA1-Digest: DzX4STZbzg8Gn2J6jvk7+hlsQSU=
+
+Name: assets/src/metadata/buffAttr/buff5001.luac
+SHA1-Digest: oxevt0VSeOZQUPg/L5mhRsk/NLY=
+
+Name: assets/src/metadata/playerDef.luac
+SHA1-Digest: WJ4UUJrJlj+ZNFGou+/sSsKLzOE=
+
+Name: assets/src/combat/api/actor/skill.luac
+SHA1-Digest: K8KQ00bidIRjntlgoiTD298w0F8=
+
+Name: assets/src/combat/user/memory/memory_0standard.luac
+SHA1-Digest: j1LM6Y71zLs12tnyOGlrvW2lBhc=
+
+Name: assets/src/metadata/normalStage/normalStage300117.luac
+SHA1-Digest: C9UvZ4Fhud1fUB7o9PMTxn220pc=
+
+Name: assets/src/metadata/normalStage/normalStage300098.luac
+SHA1-Digest: IvusOXX/A8QPW/aCqYK7+GRDcYM=
+
+Name: assets/src/combat/user/skill/vulture30003.luac
+SHA1-Digest: p7HSA2q5fVJPBt/CYdtAcL2/g9M=
+
+Name: assets/res/ccs/shop/shop_package/+100.png
+SHA1-Digest: 2T9alzLJ+Y+eH+EA0hHG4o+5csI=
+
+Name: assets/src/engine/cocos/framework/components/event.luac
+SHA1-Digest: 19e0ygM0aWus4MhmlTA/YsHcTcA=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: Obp33/M1+A8GgrEdR4kpD3ZyEDM=
+
+Name: assets/src/combat/user/buff/buff40006.luac
+SHA1-Digest: CU0gZpQ8p1oqezzv599VAD8t6zo=
+
+Name: assets/src/metadata/skillAttr/skillAttr102071.luac
+SHA1-Digest: oYjXdPL/19MmoNYU/rQ9hyt99WE=
+
+Name: assets/res/sound/TTaDth00.mp3
+SHA1-Digest: eOJw8946Wex9RvASnQ9iyF6WVy8=
+
+Name: assets/src/metadata/headCfg.luac
+SHA1-Digest: JPfHxYBC8/l6gT4+P5XTT6UwGBs=
+
+Name: assets/res/ccs/shop/general_store/top_bar_3.png
+SHA1-Digest: 8gBf0BT2DW8S0w4Q1ZAUQUNFFp8=
+
+Name: assets/res/ccs/main_interface/music_on.png
+SHA1-Digest: /rNpKK5RCdVaA9ECZT5gwikX52s=
+
+Name: assets/res/image/soldier_name/queen.png
+SHA1-Digest: uq39JiH48ReusAty5sYIi74ZDco=
+
+Name: assets/src/combat/module/driver.luac
+SHA1-Digest: rbN/XpcsGqxNMXPPRBPu1muHvqI=
+
+Name: assets/src/ui/ui/common/CardInfo.luac
+SHA1-Digest: MGNQ6cXZ2TqZLd53VPlruwXNNQc=
+
+Name: assets/res/ccs/typeface/barracks.png
+SHA1-Digest: MHgnhSCvwd5Fw6m6Kt9vhwok3FI=
+
+Name: assets/src/ui/ui/common/Waiting.luac
+SHA1-Digest: SnxnNgRXFOI5ZGSU+4zmPkxwIXE=
+
+Name: assets/res/ccs/loading/Loading/loading.png
+SHA1-Digest: SLCXZyWZ3aErlWuikTmMxNlm9Js=
+
+Name: assets/res/image/soldier_name/machine_gun.png
+SHA1-Digest: /7l6wnPdpsuv0Yl6L4DlfwLadO4=
+
+Name: assets/res/unit/guardian.plist
+SHA1-Digest: ZlmnXDoJG5Qx9D1v2X3rZTkHOho=
+
+Name: assets/src/metadata/normalStage/normalStage300063.luac
+SHA1-Digest: 8jmPrYhRXeF4Yre4LyiPBxxudME=
+
+Name: assets/res/ccs/typeface/play_game_long.png
+SHA1-Digest: K9eS+DxSwD2POQiuxyZv16iaf6s=
+
+Name: assets/res/sound/deadS/battlecruiser.mp3
+SHA1-Digest: 0yxGqvdPMGd1ZMmQrIujBkfsfMQ=
+
+Name: assets/src/metadata/normalStage/normalStage300099.luac
+SHA1-Digest: +yVMGIHAf7aAbd+Xg+ecJytvqjY=
+
+Name: assets/src/metadata/normalStage/normalStage300067.luac
+SHA1-Digest: mv5areKYDhosiDTSsE9OqEhTJBI=
+
+Name: assets/res/image/sklup.pvr.ccz
+SHA1-Digest: o1hTnelpVIaVTJ3ziJTGx5p8So4=
+
+Name: assets/src/combat/module/effect.luac
+SHA1-Digest: CHRGtpWxytlz4xKWq8ltap+/YzU=
+
+Name: assets/res/image/frame/skill_frame.png
+SHA1-Digest: YWnamcXrIWjbxOtakKHvY6CKI/0=
+
+Name: assets/res/unit/vulture.plist
+SHA1-Digest: o474iNt1XSx/o9ct0jIEeJNgB9s=
+
+Name: assets/src/ui/ui_pre/audio.luac
+SHA1-Digest: hiZhfDq7M3E4M5PIHPLBBB5kABY=
+
+Name: assets/src/metadata/skillAttr/skillAttr30202.luac
+SHA1-Digest: x2VF+g/kOBOUtCI2nwdkTNJKFL8=
+
+Name: assets/src/ui/ui/home/shop/StoreFound.luac
+SHA1-Digest: 9xtj7fgBPsS191xSytwOYMYZjLc=
+
+Name: assets/src/metadata/accountInit/accountInit.luac
+SHA1-Digest: cDlMz4qzT7srkUEsjlSAr/rmuLs=
+
+Name: assets/res/image/frame/mask_skill.png
+SHA1-Digest: UcqPEYGvLB9IIVmp4//VcMMZpdE=
+
+Name: assets/res/ccs/endless/victory/floor.png
+SHA1-Digest: UxxDHYFEXwnJ/lGmrk9qrf4EmZs=
+
+Name: assets/src/metadata/calc/baseCalc.luac
+SHA1-Digest: eJVwSlAiFlK+FTy5tLar/16hBVo=
+
+Name: assets/src/engine/cocos/framework/extends/UIListView.luac
+SHA1-Digest: F4Vz5m3RlRtA6zsnB3jG+z4heZA=
+
+Name: assets/src/combat/user/skill/guardian30201.luac
+SHA1-Digest: BLTHPj5JCYhQXWFU/lFpusIw/WA=
+
+Name: assets/res/ccs/endless/main_interface/popup/button_on.png
+SHA1-Digest: argN1WyBJotTurJR+aESNAb6euI=
+
+Name: assets/res/ccs/background/architecture_mailbox.png
+SHA1-Digest: ZG/fDiJAEmzVB1zKQ44mMP6TRUY=
+
+Name: assets/src/metadata/normalStage/normalStage300055.luac
+SHA1-Digest: GsrDnxnn2u8DP2hg6+eSenaj/9g=
+
+Name: assets/res/ccs/typeface/easy_mode_off.png
+SHA1-Digest: lkEPWqO0rrM7vv6L2AuFY3naRjU=
+
+Name: assets/src/metadata/unitNum/unitNum100040.luac
+SHA1-Digest: Fx7uqCPPyegjnWtF5tMKvoZMcAk=
+
+Name: assets/src/ui/ui/common/CombatBible.luac
+SHA1-Digest: 60I0xhEWvpCsH5hCoZ5l9R2PNls=
+
+Name: assets/res/ccs/battle/pause/volume_on.png
+SHA1-Digest: rB7UxSQqj8tDuPD5Vviky5OpuGI=
+
+Name: assets/res/image/earthMap/3.png
+SHA1-Digest: zYlrDpxywuCNtxK6UbZZcefAT3s=
+
+Name: assets/res/sound/deadS/medic.mp3
+SHA1-Digest: H6GKf+QbAKNKEHdbXFcbcOPr5mM=
+
+Name: assets/src/engine/cocos/cocos2d/functions.luac
+SHA1-Digest: rETV11rx8mui5+tUARmT6Y8i5BI=
+
+Name: assets/res/ccs/checkpoint/congratulations/floor_1.png
+SHA1-Digest: dciQwGqalfNVn8VoPhw+W1z0n+w=
+
+Name: assets/res/sound/deployS/wroith.mp3
+SHA1-Digest: LvfCBl8EYfyg5NXFMxRNYufsmJo=
+
+Name: assets/res/ccs/typeface/star_store.png
+SHA1-Digest: gUb8GH0ub0MirfrjNTH6r8Vw5FA=
+
+Name: assets/res/ccs/typeface/sweep_once_on.png
+SHA1-Digest: rbQ0DeT3FSU4LjZ/SOc/RcL8s10=
+
+Name: assets/src/metadata/normalStage/normalStage300029.luac
+SHA1-Digest: kOk/A8Z6sNRjfrwN1WgdH8MVkGI=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: aZiFooc4QzcI2BWD6IJXYXmRM+Q=
+
+Name: assets/src/metadata/normalStage/normalStage300096.luac
+SHA1-Digest: DP6XW4YZ3P24j+ijQZy768mUfvs=
+
+Name: assets/res/ccs/image/start.png
+SHA1-Digest: kUhPBtWtaURDU3rcIqcHpOlvmBk=
+
+Name: assets/res/image/plist/skllight.plist
+SHA1-Digest: 0b+PiNZ59AMnqon0V9TT6nA6548=
+
+Name: assets/res/ccs/typeface/data_on.png
+SHA1-Digest: fGZQod6HeL3BQMGx/3UbEavIupY=
+
+Name: assets/src/enum/color.luac
+SHA1-Digest: 4MGymoMQ0kJp144JsTm4z342oJg=
+
+Name: assets/res/unit/reaver.plist
+SHA1-Digest: MLygDzlbrRsO3968745ynHBTE6s=
+
+Name: assets/src/combat/class/bullet.luac
+SHA1-Digest: TNH6vogbEUIqD+2uKj8vWP6Ov8Q=
+
+Name: assets/res/ccs/shop/shop_package/sd_package.png
+SHA1-Digest: zY4HmICqgaAOfgfga0f4br5nNVY=
+
+Name: assets/res/sound/backgroudSound/battle.mp3
+SHA1-Digest: lQidpSiE29WCznO2O3lnYkicru0=
+
+Name: assets/res/map/res/land_4.png
+SHA1-Digest: Rtno0fs3XIGS6Kd5iYXt50WLz6Q=
+
+Name: assets/src/engine/cocos/framework/extends/SpriteEx.luac
+SHA1-Digest: WRV+T9nBmuIYWWtGFYcbS7cRBJ8=
+
+Name: assets/src/metadata/normalStage/normalStage300048.luac
+SHA1-Digest: 0hQecHP0vYuxbuU6iz6K/djYB2k=
+
+Name: assets/src/metadata/normalStage/normalStage300080.luac
+SHA1-Digest: CAzeDDKpw6NpnlQ044SEvCdjzFM=
+
+Name: assets/res/ccs/new_army/button_off.png
+SHA1-Digest: sW1isI5u2/72fw2WaANVmWuHHxU=
+
+Name: assets/res/ccs/endless/main_interface/recruit/marine_corps.png
+SHA1-Digest: rcSnHoPl8zktdNnIlinJqbDJZv8=
+
+Name: assets/res/ccs/formation/life_buff.png
+SHA1-Digest: JDgPdFOOWSiByp9D4uHM7R+Z4vg=
+
+Name: assets/res/ccs/typeface/return_off.png
+SHA1-Digest: c+RwBlfVA+X4e2uVbH6PoZtDm1k=
+
+Name: assets/src/engine/cocos/framework/transition.luac
+SHA1-Digest: uT6Us2Yy3oPRjdlxbOuiLfBxlL4=
+
+Name: assets/src/combat/user/handler/handler.luac
+SHA1-Digest: 1EIvXnQ8LSDQijs53A21HgSlGAo=
+
+Name: assets/res/ccs/image/yellow_button_short_off.png
+SHA1-Digest: dpEc1qWDOc9FUygP3D7C4iW18SQ=
+
+Name: assets/src/ui/ui/home/arsenal/Recruit.luac
+SHA1-Digest: EpJDj54kOIO8pjUoWHECHM1nQcQ=
+
+Name: assets/res/image/achievement/2_off.png
+SHA1-Digest: 0czi4u1GisRXbSdW64y7jJfjWH0=
+
+Name: assets/src/combat/user/memory/memory_alertmode.luac
+SHA1-Digest: P3YE+sCCawwTCXds9MrFvUvR6uY=
+
+Name: assets/res/unit/mutalisk.plist
+SHA1-Digest: thJ3wFmRiSmBoQadJ7weBuFFYe0=
+
+Name: assets/src/metadata/techTree/techTree.luac
+SHA1-Digest: 9lvzPWufAG9wU+FkkKD/HMhjs6I=
+
+Name: assets/res/map/res/land_1.png
+SHA1-Digest: tLlZJdhPSM1yFd0mttxhcO2RrqQ=
+
+Name: assets/src/combat/module/damcalc.luac
+SHA1-Digest: q03AXnoyoVzb3LLUHsXOl/rYxcs=
+
+Name: assets/res/ccs/checkpoint/samsung_award/experience_bar.png
+SHA1-Digest: I8pGsEP1+Lpkt/csAdiDpzy1AQg=
+
+Name: assets/res/ccs/typeface/ranking1_list_off.png
+SHA1-Digest: MTFBjT9oSfJ1MHum2PwtTL9nWeg=
+
+Name: assets/src/metadata/normalStage/normalStage300076.luac
+SHA1-Digest: pd1DpVOWuRbyvBxAS3njn3PCA44=
+
+Name: assets/res/unit/guardian.pvr.ccz
+SHA1-Digest: AzV7nd1gaVJulPjO+qNgg8PdWYo=
+
+Name: assets/src/combat/user/skill/tank30112.luac
+SHA1-Digest: Ce63rD3OJz3yifmynJz+U7H2OvU=
+
+Name: assets/src/combat/module/surpport.luac
+SHA1-Digest: YnbuJgoaTHcszNs95xoS+fxSD7A=
+
+Name: assets/res/unit/valkyrie.pvr.ccz
+SHA1-Digest: S5aJMrKIQyQXVpbSK+uXjEgozoo=
+
+Name: assets/res/ccs/shop/shop_package/+2W.png
+SHA1-Digest: 7hAGiNyLsxHgBhSzct14eQKtLc8=
+
+Name: assets/res/ccs/typeface/baodian.png
+SHA1-Digest: B2/DNBehDKm8raSsS2XKm9Nh0k8=
+
+Name: assets/res/ccs/typeface/diamonds.png
+SHA1-Digest: tpNmWz/Je0Au2vmYRgqyYG0dLdM=
+
+Name: assets/src/metadata/normalStage/normalStage300038.luac
+SHA1-Digest: /yFzdMdmNnQrkXCUwFGr0WyCdFI=
+
+Name: assets/src/engine/cocos/cocos2d/DeprecatedCocos2dEnum.luac
+SHA1-Digest: Pjdv47kEiSQFBLzhiicICger2OY=
+
+Name: assets/res/sound/Tmedheal.mp3
+SHA1-Digest: 9GGSt/DJuGQMpfJYdZbeDjsEEQA=
+
+Name: assets/res/sound/deployS/tank.mp3
+SHA1-Digest: GXs/2QYvvV+WxiIMhPJNPUVjD5A=
+
+Name: assets/res/unit/dark.plist
+SHA1-Digest: jfYLxweEVRvYMDFewGOCUdaX5To=
+
+Name: assets/res/ccs/typeface/congratulations.png
+SHA1-Digest: GgpKcoqvZGaDcqa+1cj1x+lVa6c=
+
+Name: assets/src/metadata/normalStage/normalStage300040.luac
+SHA1-Digest: d+ApiKjVVyX8jA52zuYzludJrCk=
+
+Name: assets/res/sound/uisound/character_level_up.mp3
+SHA1-Digest: pyHuAqJX4PbLJGcBxwM4ryfOWRA=
+
+Name: assets/res/ccs/main_interface/sound_off.png
+SHA1-Digest: BvlapFWL/JBAvVY0Y59igkGXArc=
+
+Name: assets/src/metadata/skillAttr/skillAttr90003.luac
+SHA1-Digest: DqmLxorDNEYjgQyETVmigHfuaLw=
+
+Name: assets/res/ccs/image/general_background_1.jpg
+SHA1-Digest: it7I/a2YDDX6MRWp0llwQBpT1Vk=
+
+Name: assets/src/combat/user/skill/spiderbomb100121.luac
+SHA1-Digest: iIrLgg573yr4Vo6DYfxHKp68ARA=
+
+Name: assets/res/image/chapter_point/4.png
+SHA1-Digest: pKVk/WlFrBsb6Rqvl4yH6Kjevug=
+
+Name: assets/res/ccs/new_army/blue_button_on.png
+SHA1-Digest: Pu/vvvo4hsbA1fsmSukrfQhb2Yo=
+
+Name: assets/src/combat/api/bullet/ccnode.luac
+SHA1-Digest: 0cJZe56HGFXsKHAo4CD7AKbwdxo=
+
+Name: assets/src/combat/user/godskill/godskill1001.luac
+SHA1-Digest: 9l/cMvJ8iOTGarFLBSEKRYKmcYI=
+
+Name: assets/src/combat/user/skill/devourer30202.luac
+SHA1-Digest: /QVDSrfsFrNAs9TQ6Ngf7GUK0Ic=
+
+Name: assets/src/metadata/scenePlot/scenePlot300012.luac
+SHA1-Digest: 7I0jeSmFQSVrOEZqX4nSdgkV+ME=
+
+Name: assets/res/ccs/loading/Loading/loading_floor.png
+SHA1-Digest: G7qqTICSL5l3Fr/9P75Sahg8zbk=
+
+Name: assets/src/metadata/Enum.luac
+SHA1-Digest: EPaCHm7AKVVnH4RdIoHiIzaNgJQ=
+
+Name: assets/res/ccs/typeface/determine_y.png
+SHA1-Digest: IPRYlrWo/JtjuJu/MNLJpB58t6w=
+
+Name: assets/res/ccs/scientific_research/floor_r.png
+SHA1-Digest: zbCwDUl1Hj6YlRzutzIovNuPKXc=
+
+Name: assets/src/auxlib/roledatahangup.luac
+SHA1-Digest: qPlq0LOAqep++qEwhTcd4aJ+V10=
+
+Name: assets/res/ccs/image/name_floor.png
+SHA1-Digest: ++sT0vdztvuN3JexGysWEUygrAM=
+
+Name: assets/res/ccs/scientific_research/floor_b.png
+SHA1-Digest: doPFpZ9DrKzcmbaEN3MOSv26G9s=
+
+Name: assets/res/ccs/GUI/labelatlasimg3.png
+SHA1-Digest: V3wI69yv6GxNtwrPjOH8/qa04cs=
+
+Name: assets/src/metadata/normalStage/normalStage300022.luac
+SHA1-Digest: 4C19iYLSQa4dGTNoNRot8Ojzg4E=
+
+Name: assets/src/engine/cocos/network/DeprecatedNetworkFunc.luac
+SHA1-Digest: hqsyRCZeTZsTmJ91xm+3v7GecZA=
+
+Name: assets/res/ccs/battle/failure/add_lv.png
+SHA1-Digest: xpOGagR4WABNrBJDOALdvctX2to=
+
+Name: assets/res/ccs/endless.json
+SHA1-Digest: lhN6EXlr9zlDrrDUPfmt7GKwepE=
+
+Name: assets/src/metadata/normalStage/normalStage300052.luac
+SHA1-Digest: tL7nJp+jSBmTEu5suhbbm0T7eY4=
+
+Name: assets/src/dataeye/DCTracking.lua
+SHA1-Digest: SWuItQN9zBJghiSOQhbk/cD6hMc=
+
+Name: assets/res/ccs/shop/shop_package/sweep_volume_package.png
+SHA1-Digest: s1j3Ocv7FUDRennKgJ0q3Sv8/As=
+
+Name: assets/res/unit/corsair.plist
+SHA1-Digest: Z28PXZWQmtw5jy1ZD+63Kqg6ajY=
+
+Name: assets/res/ccs/formation/attack_buff.png
+SHA1-Digest: 9bUlps3t6wID055NdxXPJJ66ySw=
+
+Name: assets/res/ccs/typeface/star_award.png
+SHA1-Digest: O9rtvH5V7Vkdj3xnzW1GCmvm6WQ=
+
+Name: assets/src/enum/Enum.luac
+SHA1-Digest: gwO1D2ax9qSduE/NMFAl9+jDWUw=
+
+Name: assets/src/metadata/normalStage/normalStage300068.luac
+SHA1-Digest: PReuJp3zCQQ0W0NFUP1I7bV6mbY=
+
+Name: assets/res/ccs/image/short_button_off.png
+SHA1-Digest: wJV645ek81m5SmQsVCBnUxSDGRU=
+
+Name: assets/res/ccs/checkpoint/congratulations/skill_points.png
+SHA1-Digest: Vz5VlHRiRTjxvEcwnHbvR8hNYn4=
+
+Name: assets/res/ccs/typeface/ranking_list.png
+SHA1-Digest: Us4/zsMIKAzhgCDorQtb0nJi03M=
+
+Name: assets/res/ccs/endless/main_interface/recruit/floor_2.png
+SHA1-Digest: OnDQ5We2RVB5IkvoWY7dvr1tvOQ=
+
+Name: assets/res/ccs/scientific_research/z_2.png
+SHA1-Digest: TnL8SdfBEaR3vbOEZOCbdGmwvUg=
+
+Name: assets/res/ccs/image/map_title.png
+SHA1-Digest: teC6EWL2od61pd/d9Jb8EoiI40g=
+
+Name: assets/res/ccs/checkpoint_level_introduction_sweep.json
+SHA1-Digest: +moXkAvncrOHdicc4mBTweh7OD4=
+
+Name: assets/res/ccs/diamond_store/29.png
+SHA1-Digest: 9PDhxguPfwqj1bDr2ld0OQaTxio=
+
+Name: assets/res/ccs/golden_finger.json
+SHA1-Digest: lbbAN7yD8ltZmoLDGidopD9h1g0=
+
+Name: assets/res/ccs/background/architecture_star_ring.png
+SHA1-Digest: Rn3wH1tfI+RPOFjee0gsKqYKeKE=
+
+Name: assets/res/map/map303.tmx
+SHA1-Digest: UaJlQSeYxz0FHQkpabi6rCtYTKY=
+
+Name: assets/src/combat/user/buff/buff40005.luac
+SHA1-Digest: aSKmLN0R1gbe4pGULPwOFNLCmAU=
+
+Name: assets/res/ccs/endless/main_interface/recruit/floor.png
+SHA1-Digest: PR3FXc1Ek9Ft0Uhx7BzSMdnJtDo=
+
+Name: assets/src/metadata/dailyTaskCfg.luac
+SHA1-Digest: YHR6wOqX/IWDDpwHU081/S5gYzE=
+
+Name: assets/res/image/card/r_card_4.png
+SHA1-Digest: bIZzoIp2t1iIt4qrQwykSO+UgPA=
+
+Name: assets/res/sound/deadS/dark.mp3
+SHA1-Digest: eIBt2TwsgBkDFwawZ5yBG7SWe24=
+
+Name: assets/res/ccs/new_army/floor_2.png
+SHA1-Digest: lpv60Dlw21Z9/JwNBeGE9anBlqk=
+
+Name: assets/src/ui/ui_module/extend/listView.luac
+SHA1-Digest: sToaStFCaaM9tFfkbBSgytTqV9M=
+
+Name: assets/src/metadata/skillAttr/skillAttr30200.luac
+SHA1-Digest: 0nf7AV9wh5zRRv8YsY5T/Xch9SQ=
+
+Name: assets/src/ui/ui_module/Blood.luac
+SHA1-Digest: OWg1lWY64ygYlutmOXRC3dmJZ6w=
+
+Name: assets/res/ccs/shop/general_store/background.png
+SHA1-Digest: mOfXAXRDXCes0deNXtM/9wec4fc=
+
+Name: assets/res/ccs/checkpoint/level_introduction/sweep/floor_3.png
+SHA1-Digest: 4fa2CFv33B7ymdGMaR7VQK7/mJ4=
+
+Name: assets/src/engine/cocos/framework/extends/UIPageView.luac
+SHA1-Digest: axUeI3hhd8uMovStpsnKaU/lT18=
+
+Name: assets/res/ccs/formation/battle/button_off.png
+SHA1-Digest: cW2WwdzcP1Ccb4TBMGDml3vUVps=
+
+Name: assets/res/image/frame/goods_white.png
+SHA1-Digest: JFbZAoCFr2u+rZDD0c6ReaETGQw=
+
+Name: assets/src/metadata/normalStage/normalStage300081.luac
+SHA1-Digest: y6hGCFq/xmt+pOtDPbG6RqPC2U8=
+
+Name: assets/res/image/card/s_card_4.png
+SHA1-Digest: uoFSGH0tGMzfB1T2y+smzyAZKgc=
+
+Name: assets/src/combat/user/ai/corsair102040.luac
+SHA1-Digest: PXHzMBz0MlRJsI/poLEYpjbTrfg=
+
+Name: assets/res/unit/zergling.pvr.ccz
+SHA1-Digest: 0HYRlK0krSAwPgQ3HvaT0vTcCXM=
+
+Name: assets/src/ui/ui_pre/channel/channelLindong.luac
+SHA1-Digest: QOuUfs7m6Eqh/SENOLSMDvUD1hA=
+
+Name: assets/res/image/card/r_card_7.png
+SHA1-Digest: YgHENVvHfp/cgtCQq+h++hCZ1iE=
+
+Name: assets/res/image/rank_cnt/9.png
+SHA1-Digest: m7yNq9g875Ks2ETZXGLRamgrRWA=
+
+Name: assets/res/ccs/shop/shop_package/5.00.png
+SHA1-Digest: 4T0CNXyLlu6CU4+PiGVsQJhVJbM=
+
+Name: assets/res/unit/dark.ExportJson
+SHA1-Digest: MVPagMCvvBzBYLIyBadfS7uFOeI=
+
+Name: assets/src/combat/user/ai/0anti_stealth.luac
+SHA1-Digest: +lJ8jiS5hJOss5qsoI+Ux4HnMvs=
+
+Name: assets/res/ccs/formation/battle/II.png
+SHA1-Digest: zTb9rnAZGe4BehEPsxjEnBTf3Qo=
+
+Name: assets/src/metadata/normalStage/normalStage300047.luac
+SHA1-Digest: /6nqB9RKaqFS299eamy8dP18eog=
+
+Name: assets/src/metadata/BattleSpeed.luac
+SHA1-Digest: pku9zkmuWrf8i0fSLkdygR4McYY=
+
+Name: assets/res/ccs/package.json
+SHA1-Digest: SZoLWCSDom21Ix3OYKjCURDnABM=
+
+Name: assets/res/image/task/icon_3.png
+SHA1-Digest: lVeLPPtiAjFh1Gns216nVU3OSk0=
+
+Name: assets/res/map/res/land.png
+SHA1-Digest: BzKNwBXv8Xgnf3o3c4V3RDKE0s8=
+
+Name: assets/src/combat/user/memory/memory_medic.luac
+SHA1-Digest: XKzTmCsIIu3TVjr7pNZLioSlXkI=
+
+Name: assets/res/ccs/formation/battle/X1.png
+SHA1-Digest: tAR7l7AOPbPWqdts9D8zg0VI228=
+
+Name: assets/res/ccs/role_upgrade/light.png
+SHA1-Digest: ltMfqQP0szWALQHhGK1em+/4Pco=
+
+Name: assets/res/ccs/diamond_store/20.png
+SHA1-Digest: 7COpIkyvzLiMF4ckmRXis8nk5hk=
+
+Name: assets/res/ccs/formation/blue_button_on.png
+SHA1-Digest: w+5ZfFwHpIEt49F4meRobWC+R0Y=
+
+Name: assets/res/image/body.pvr.ccz
+SHA1-Digest: Rte01xrRg8GSm+Tx+hQJAf2Hut8=
+
+Name: assets/res/image/rank_cnt/4.png
+SHA1-Digest: vgW3QFiCcLX42qm5JUInUW8bP64=
+
+Name: assets/src/ui/ui/common/BackMask.luac
+SHA1-Digest: TgiQsLSVZQVesL7VIC1UJdggNF4=
+
+Name: assets/res/ccs/battle/heroic_rewards/light_effect.png
+SHA1-Digest: tAIVn4O141PmA6fYvMq5HIZGknk=
+
+Name: assets/res/ccs/checkpoint/level_introduction/floor_1.png
+SHA1-Digest: 6nyvvgfv/h9unfeAC21D8Ic/YF4=
+
+Name: assets/res/image/task/icon_1.png
+SHA1-Digest: /51+Ayxgzq7/xUiANiJaGTD/UYw=
+
+Name: assets/src/combat/module/gameMethod/normalJudge.luac
+SHA1-Digest: PBEoLKol4i5qpluH6cJsAmaLU8o=
+
+Name: assets/src/metadata/normalStage/normalStage300044.luac
+SHA1-Digest: QGmEgx9hzIgdam7nqrkIb+z8F5A=
+
+Name: assets/res/image/frame/goods_blue.png
+SHA1-Digest: imIXrNloK4zIqDEII9q2lT9kwRI=
+
+Name: assets/src/combat/user/skill/goliath30009.luac
+SHA1-Digest: 0+aBLSqX0Lpotb7BKMFtjb0Efqg=
+
+Name: assets/res/image/achievement/1.png
+SHA1-Digest: EwHqxdawXSq1z9myxaLIToKUSAQ=
+
+Name: assets/res/ccs/typeface/endless_star_off.png
+SHA1-Digest: sWhtyNTuBOe+MjxjuN0xDqkIwwY=
+
+Name: assets/src/metadata/skillAttr/skillAttr.luac
+SHA1-Digest: rQRePgIbex4yJo3ugEr6C7L7fl0=
+
+Name: assets/res/sound/deadS/reaver.mp3
+SHA1-Digest: WGdwlHxmu4J+BJvGnRStc1VCCtQ=
+
+Name: assets/src/metadata/normalStage/normalStage300075.luac
+SHA1-Digest: Ff7hW52hfY5IjUmNECssBEQj7og=
+
+Name: assets/res/image/achievement/5.png
+SHA1-Digest: BMhYk+vFLHgrCI90U8cwWPXX3tQ=
+
+Name: assets/res/ccs/image/start_off.png
+SHA1-Digest: OtsfWL5D6i+wq9JQA3mzgroBjIw=
+
+Name: assets/res/ccs/formation/population.png
+SHA1-Digest: zygVXGFW+zXJHR4Y4IQ11k0OXnc=
+
+Name: assets/src/combat/module/battleBuff.luac
+SHA1-Digest: HMF7K1zAOODI5J8kwEvKxR3oFB4=
+
+Name: assets/res/unit/medic.plist
+SHA1-Digest: siO5XwhuMFJnEGzLJdNgBRrR+GM=
+
+Name: assets/src/metadata/unitNum/unitNum102040.luac
+SHA1-Digest: omity+APrNdpkC6WpzKpNMZ9xzA=
+
+Name: assets/src/metadata/unitNum/unitNum101040.luac
+SHA1-Digest: a+i/58qa5cgaeyAmS8EIBeO0qHI=
+
+Name: assets/src/combat/user/state/stank.luac
+SHA1-Digest: TxzQYkn5J3XdwfrrEDbpfv/Ai+k=
+
+Name: assets/res/ccs/new_army/detailed/upgrade_on.png
+SHA1-Digest: ms3xgeT3/B6zJDaxlxCyfT03o88=
+
+Name: assets/res/ccs/background/white_point.png
+SHA1-Digest: I8g/KEdDc3cHmUixcQttIgE8/Ew=
+
+Name: assets/res/ccs/diamond_store/25.png
+SHA1-Digest: Wdc/JW86RyFtI2P8TMT+EVbrxSM=
+
+Name: assets/src/combat/api/bullet/attribute.luac
+SHA1-Digest: VO8Kth14O1Txlhb/RGP54w6lsE4=
+
+Name: assets/src/combat/module/gameMethod/mine.luac
+SHA1-Digest: xWMF5Lba/h6/+5PxFlqPFG9Xmh0=
+
+Name: assets/res/image/achievement/7_off.png
+SHA1-Digest: PjLlXMnWDtaPFpLjUqBbGHd2Fxo=
+
+Name: assets/res/ccs/scientific_research/small_technology.png
+SHA1-Digest: EZ6Pxto2xinQVHO4/Z8b90T0F9A=
+
+Name: assets/src/combat/user/state/standby_build.luac
+SHA1-Digest: exw9NcdemEklb7OAMKH59mRV4Pk=
+
+Name: assets/res/ccs/image/long_button_on.png
+SHA1-Digest: 95XGDbKtDrVwQvxirsEyQ3m1D+Q=
+
+Name: assets/res/ccs/unlock_card/dialog_box.png
+SHA1-Digest: FcRIapuvzMxXJKCaGyWUxulIISE=
+
+Name: assets/res/map/map301.tmx
+SHA1-Digest: 5mOrtgYVNV+QidlBWmJhFHD5mpc=
+
+Name: assets/src/scene/Loading.luac
+SHA1-Digest: 5+5T4U9edSU/z0tH3qxPc2pdNKA=
+
+Name: assets/res/ccs/diamond_store/floor.png
+SHA1-Digest: un2/JgBompgJ8DwUnGLgXzLIvIA=
+
+Name: assets/src/dataeye/DCConfigParams.lua
+SHA1-Digest: XA9ZOGaXpytN/9epeumDYBN1z9U=
+
+Name: assets/res/ccs/image/character_exp.png
+SHA1-Digest: WlyYyuIp4Zbou705l/zLkLKvqLA=
+
+Name: assets/res/ccs/formation/frequency.png
+SHA1-Digest: OYFQkpBV4ooeHLBwCPiUNAkfF88=
+
+Name: assets/src/combat/user/ai/spiderbomb100120.luac
+SHA1-Digest: w1donVzms8+d2osR6wPlyGJcx54=
+
+Name: assets/src/ui/ui_pre/channel.lua
+SHA1-Digest: 0zLwkdvvw86hJSmlOVv4IQ31aLc=
+
+Name: assets/res/map/map05.tmx
+SHA1-Digest: sUleaIaontVherDV3LKTQuxAF04=
+
+Name: assets/res/unit/goliath.pvr.ccz
+SHA1-Digest: 2VVvSumUGSV0KkDEU7DQDNNsNpo=
+
+Name: assets/src/combat/module/gameMethod/goldenJudge.luac
+SHA1-Digest: mjnhqOrCN8EhN9r/6OxHkVHMbyE=
+
+Name: assets/res/ccs/shop/shop_package/gold_package.png
+SHA1-Digest: NdMk0U6ZqkMPiFtMQwFPJ3xdQE0=
+
+Name: assets/res/image/earthMap/1.png
+SHA1-Digest: YzaymvHCwS/4bGGKP5qpH27/fIE=
+
+Name: assets/res/image/soldier_name/springtails.png
+SHA1-Digest: F4HPKmAeSwwFAa3wzzJJAtNP9+A=
+
+Name: assets/res/ccs/checkpoint/select_checkpoint/star.png
+SHA1-Digest: Wf7rije0NGNOmWDQm7P6CcbwsJQ=
+
+Name: assets/src/metadata/endless/endlessInvasion.luac
+SHA1-Digest: HgQtlo67islwXF7uqm6ZCZpc+RQ=
+
+Name: assets/res/ccs/scientific_research.json
+SHA1-Digest: /S9HwUViNB1vJMNDBNOSB85dQX0=
+
+Name: assets/src/engine/cocos/ui/GuiConstants.luac
+SHA1-Digest: KswMYPmYrisLRMvPOgNkQ4WA9Yw=
+
+Name: assets/src/combat/user/skill/reaver102071.luac
+SHA1-Digest: ZRkwt4db6W23lIN/XhKgXU/0UjQ=
+
+Name: assets/res/ccs/scientific_research/b_1.png
+SHA1-Digest: KyH3ajXPQbx+5DMfHnHagWmQMVc=
+
+Name: assets/res/ccs/diamond_store/12.png
+SHA1-Digest: WZ55DEQLLhHoMEkPOfjwuypA/AA=
+
+Name: assets/res/map/map07.tmx
+SHA1-Digest: nQz5bpqi3ee4Z2bNEvxRdWWoQgQ=
+
+Name: assets/src/metadata/normalStage/normalStage300089.luac
+SHA1-Digest: C4y8luhi9uiBrvaVEveSexSAI+Q=
+
+Name: assets/res/sound/ZQuHit00.mp3
+SHA1-Digest: DfRFAVYFQaDNEVgMo2n+YG1CGNk=
+
+Name: assets/src/metadata/normalStage/normalStage300090.luac
+SHA1-Digest: U6PINuGps8ZpcE+ip4PIidqs1W8=
+
+Name: assets/src/engine/cocos/cocos2d/bitExtend.luac
+SHA1-Digest: YMff3HsimIX0ewGwLbo1c+wJQoQ=
+
+Name: assets/src/engine/cocos/cocos2d/Cocos2dConstants.luac
+SHA1-Digest: FuZdhVCN/6gTGZ40cwZdkwAY/ik=
+
+Name: assets/res/ccs/typeface/play.png
+SHA1-Digest: CHQrzkAwCYnRGa7826PBIX8gHB8=
+
+Name: assets/res/particle/denglongyu2.plist
+SHA1-Digest: 917E3vEVnI/UvJafhWSBakznBBc=
+
+Name: assets/res/map/map09.tmx
+SHA1-Digest: YhvkkKML7dm6ciVoa+P9KSA+6/8=
+
+Name: assets/src/metadata/normalStage/normalStage300105.luac
+SHA1-Digest: gbvTbCc902vartS3cmSXMYIHbbQ=
+
+Name: assets/res/unit/ghost.pvr.ccz
+SHA1-Digest: 49QL+kILneZTcGIzzedAMhzrQDE=
+
+Name: assets/res/ccs/plot/floor.png
+SHA1-Digest: FOU7ZmAeNxPGSfbZpp2cIPByymg=
+
+Name: assets/res/ccs/scientific_research/galaxy_location_frame.png
+SHA1-Digest: WsEAjFiDg9mbTNB4Vr9dhbLgkB4=
+
+Name: assets/res/image/plist/blood.plist
+SHA1-Digest: a8wfm33gHpfrGIG1iqqkeDGfy4o=
+
+Name: assets/src/ui/ui_module/RedManager.luac
+SHA1-Digest: 0D+p3gRtgHZHUYNUxQYH+eGrm5w=
+
+Name: assets/res/ccs/endless/main_interface/star/y_2.png
+SHA1-Digest: wPed+yeI5gifB/jYONWqQdM+w3Q=
+
+Name: assets/res/ccs/typeface/sweep_title.png
+SHA1-Digest: u04kljfhsYhgDif9JBVjX4LGK2Y=
+
+Name: assets/res/fonts/labelatlasimg3.png
+SHA1-Digest: XaVQJiRBEUciawkM7cc7hudVoA8=
+
+Name: assets/res/image/soldier_name/lightning.png
+SHA1-Digest: me/X6c/lqKA2H2awYd2V16YDB+U=
+
+Name: assets/src/net/protocolPure.luac
+SHA1-Digest: NxNhw29yhH2to321pHBgLGAgHMg=
+
+Name: assets/src/metadata/normalStage/normalStage300106.luac
+SHA1-Digest: D0bK5yeRjlYlQdz5IIZ67JrHnSo=
+
+Name: assets/src/engine/cocos/cocosdenshion/DeprecatedCocosDenshionFun
+ c.luac
+SHA1-Digest: i2Qc75ibFzFwk2lbYrlwAupM1f0=
+
+Name: assets/src/combat/user/state/queen.luac
+SHA1-Digest: 5fWSkjKIsRi8mMaZiJQ1hIVUFy4=
+
+Name: assets/res/image/earthMap/4.png
+SHA1-Digest: 9hlJe+qIykETIpUZTQVlHUEFcVQ=
+
+Name: assets/res/ccs/typeface/sweep_ten_off.png
+SHA1-Digest: tD4pvryvQ2wtDR57LVnr2EgmyF8=
+
+Name: assets/res/sound/skillS/corsair (7).mp3
+SHA1-Digest: TfVUwxGmXvLDBAysUTT32+4ilvM=
+
+Name: assets/res/ccs/typeface/sweep_once.png
+SHA1-Digest: UNjeXZwriNyLm7V2/IFwbEV90OU=
+
+Name: assets/res/ccs/typeface/receive_on.png
+SHA1-Digest: 9ThUG/UaY/ZJUPFIilrrdX3dz4U=
+
+Name: assets/res/ccs/shop/shop_package/+1000.png
+SHA1-Digest: +1i3Ssp8J7jPlEuXlPAF/f5qtx8=
+
+Name: assets/res/image/earthMap/7.png
+SHA1-Digest: Fm8vuEJSgX625Baf2kaCxmphR7Y=
+
+Name: assets/src/metadata/normalStage/normalStage300094.luac
+SHA1-Digest: sAu4ORhFXBOBsBau3Vrd91Lzfs8=
+
+Name: assets/src/metadata/gameTool/gameTool.luac
+SHA1-Digest: iNPuyZjv2S01Pp4q93HIBdhFOo4=
+
+Name: assets/res/unit/scourge.ExportJson
+SHA1-Digest: zlwW+5KRzhHHrPZQ2aQb/s22FT0=
+
+Name: assets/res/ccs/typeface/golden_on.png
+SHA1-Digest: pjqdRsNhJmyuNVVA+ouE8IWixGE=
+
+Name: assets/res/ccs/background/name_floor_off.png
+SHA1-Digest: DXuxl3+6vV2Ph47sv2pH7BivaUI=
+
+Name: assets/res/ccs/endless/main_interface/star/t_2.png
+SHA1-Digest: 47g4Z1ZnEsXlceijhZhQD13neCE=
+
+Name: assets/res/image/plist/body.plist
+SHA1-Digest: 8k/DRd0oZuI4E28awKIIjwSY4S4=
+
+Name: assets/res/particle/bullet_circle.png
+SHA1-Digest: CBDrSpNpgXt2yz+X9bAGzLzF+OY=
+
+Name: assets/src/combat/api/actor/patrol.luac
+SHA1-Digest: IcSepoOlrua625vHPIBzpGnNQ/w=
+
+Name: assets/res/ccs/home/star_bg.jpg
+SHA1-Digest: fee5XoGkbSsf4X+fMElwLNBdd64=
+
+Name: assets/src/combat/user/state/standby.luac
+SHA1-Digest: w2i7gPbmNEAf5SFyO9o+TzGAxB0=
+
+Name: assets/src/engine/cocos/cocostudio/CocoStudio.luac
+SHA1-Digest: n0rQ/8+N29p0wsHk8PPpXpOrCP4=
+
+Name: assets/res/ccs/shop/shop_package/+25.png
+SHA1-Digest: 8DIFLavHMMAv4z88OFuPNLW0rsI=
+
+Name: assets/res/ccs/diamond_store/6.png
+SHA1-Digest: KxvvLlrQAVBbSHzvFOuFv/PeBWg=
+
+Name: assets/res/image/goods.pvr.ccz
+SHA1-Digest: on6n+BYJATyRXAlznH5LSiZ3qjg=
+
+Name: assets/src/combat/user/state/digmine.luac
+SHA1-Digest: xmBzBKc3XdUFaBd/2qFBwEhMoGk=
+
+Name: assets/res/ccs/package/icon/Acer_icon.png
+SHA1-Digest: 8Hd79WAYg6akxqHFM6B/WiHiv9M=
+
+Name: assets/res/ccs/nickname/floor_1.png
+SHA1-Digest: MhNZcFwDZR1pDBE62F7D7GVikHA=
+
+Name: assets/res/ccs/image/start_on.png
+SHA1-Digest: RfGPhfBmbbxRonYtLASeTrlyfgs=
+
+Name: assets/res/ccs/plot/floor_1.png
+SHA1-Digest: dQWEnVCq/d/NAtz2hZGMeF65N9U=
+
+Name: assets/res/sound/deployS/battlecruiser.mp3
+SHA1-Digest: WiPaMH6XTqKgD3d50mr1o2TrbXk=
+
+Name: assets/res/image/arrow_new_point.png
+SHA1-Digest: 38YlfvTAs45y/t3KSy11dQZLlOU=
+
+Name: assets/src/engine/cocos/framework/init.luac
+SHA1-Digest: 6jRg3vIsrezjH8mrIyJ+RajNmvo=
+
+Name: assets/src/ui/ui_module/extend/richText.luac
+SHA1-Digest: WKpPZEwQoLMl1ep2OR0jC7DReac=
+
+Name: assets/res/ccs/shop/general_store/commodity_floor.png
+SHA1-Digest: kPjJ9pyEeGkyDfnoSokQ8Qdft0M=
+
+Name: assets/res/ccs/audio_guide.json
+SHA1-Digest: BHudV4Wgy2dAHm9LsJ6/Tr7rKb4=
+
+Name: assets/res/ccs/endless/main_interface/recruit/icon_on.png
+SHA1-Digest: qXF85p3wpT3GWPfJ9jVuEi3WlJA=
+
+Name: assets/res/ccs/typeface/receive_1_off .png
+SHA1-Digest: oblpZ8Dyl9hq2FC3zuzJ1BeP7w8=
+
+Name: assets/res/ccs/nickname/dice.png
+SHA1-Digest: RlzjOtdDWAq3kfKZdLnq0baaIxc=
+
+Name: assets/src/engine/cocos/cocos2d/luaj.luac
+SHA1-Digest: 5/RC7hdW3PC0nbe5lw6AdKYdXS8=
+
+Name: assets/res/ccs/image/long_button.png
+SHA1-Digest: kr/MIdedGRZ0OflDZi23eNaK/mE=
+
+Name: assets/res/ccs/msg_box.json
+SHA1-Digest: uiI6w/1vcNKbZzlNOIaxse7rRxU=
+
+Name: assets/res/ccs/typeface/determine_on.png
+SHA1-Digest: w3mqJBMrZ0xUoW1OEOcl9Z/sjJg=
+
+Name: assets/res/sound/deadS/scout.mp3
+SHA1-Digest: o4emO3vqqD/6kF2xpl5mT2OIoRk=
+
+Name: assets/src/ui/ui_module/IconCreator.luac
+SHA1-Digest: cZCF2V5wpP7JS6/D1uO4K4Hjl0o=
+
+Name: assets/src/ui/ui_module/HeadCreator.luac
+SHA1-Digest: nqcoUbqNwxuoTHQKvIYHy+7LsV0=
+
+Name: assets/res/ccs/diamond_store/12_on.png
+SHA1-Digest: sautXH/tCzJdvbL+yA95OzmELec=
+
+Name: assets/res/ccs/diamond_store/20_on.png
+SHA1-Digest: VF53xuKVkpI8sym339CpE1GFzNs=
+
+Name: assets/src/metadata/skillAttr/skillAttr30008.luac
+SHA1-Digest: vI87NpvQu6/0sIOYYETw52+uUHY=
+
+Name: assets/res/sound/YouLose.mp3
+SHA1-Digest: B1k92l+Rqeutd2HIVLKkvLy6QK8=
+
+Name: assets/res/image/plist/skill_icon.plist
+SHA1-Digest: nJ7ECNBmEm0rgteHFywt+TRKMRg=
+
+Name: assets/src/metadata/normalStage/normalStage300042.luac
+SHA1-Digest: zz5TV+nE/Fpn7Vnfzd/oJb4EfgQ=
+
+Name: assets/src/ui/ui/home/arsenal/Arsenal.luac
+SHA1-Digest: A91X8YbtTwx/mETNovSHmRbFd5M=
+
+Name: assets/src/combat/user/ai/medic100030.luac
+SHA1-Digest: IB3BA14q278yzCL3wtEA89PvXJI=
+
+Name: assets/res/ccs/main_interface/change_button_off.png
+SHA1-Digest: jSQs2tAd83w3PAV56C32VPvQnWA=
+
+Name: assets/res/ccs/checkpoint/level_introduction/star_off.png
+SHA1-Digest: VJxmLezRYQFmo4qL9vhe+UWNfv8=
+
+Name: assets/src/combat/class/goldOre.luac
+SHA1-Digest: JExNNXOMXNBIhhwXKkNVIKvtUew=
+
+Name: assets/res/sound/tmaSti01.mp3
+SHA1-Digest: Gxtjirk/bJnBMD9jrIGLfynxZ2Y=
+
+Name: assets/src/metadata/normalStage/normalStage300072.luac
+SHA1-Digest: IcN6Hje8LeJz79IGsJ6TA639+l4=
+
+Name: assets/res/map/map03.tmx
+SHA1-Digest: FgRyhNqFNSZzXpn3xIN0AepxvAI=
+
+Name: assets/src/metadata/normalStage/normalStage300046.luac
+SHA1-Digest: cBxu5vKNucE52T7BVX7Aa2aTxXk=
+
+Name: assets/res/sound/pzeHit00.mp3
+SHA1-Digest: El5gvVYZpU5LufZoh+qCTowO8w0=
+
+Name: assets/res/ccs/typeface/xms_off.png
+SHA1-Digest: edb4lZm83xnBJC4zsqPjPIEef1o=
+
+Name: assets/res/ccs/achievement/floor.png
+SHA1-Digest: SAr66C14q19716Aaj3XpzxOklDY=
+
+Name: assets/res/image/floor_tip.png
+SHA1-Digest: vGUAPYoIq34ug8ZhqkmIU8ddB+M=
+
+Name: assets/res/ccs/checkpoint_star_award_con.json
+SHA1-Digest: PkzvjhpLlZmM29Hh4fxhqCCej6k=
+
+Name: assets/src/metadata/normalStage/normalStage300091.luac
+SHA1-Digest: Yw9pS/naP714PJlZP2sxnp/Gyiw=
+
+Name: assets/res/ccs/formation/blue_button.png
+SHA1-Digest: hbnhsDSvpGTXIlDyc6r2Kh06jA0=
+
+Name: assets/src/metadata/buffAttr/buff40007.luac
+SHA1-Digest: qSR5L8p7MDArR8Sd7Uq5cmHpSEQ=
+
+Name: assets/res/unit/hydralisk.ExportJson
+SHA1-Digest: qwdGlbw8hhBkND6ohCfGaP5oYDI=
+
+Name: assets/res/unit/guardian.ExportJson
+SHA1-Digest: SNzBZJBFsu7GYWO3ckPcZUMafdI=
+
+Name: assets/res/unit/hydralisk.plist
+SHA1-Digest: 5bFo3njBsQ6KP84DV/H7R4y9aTw=
+
+Name: assets/src/ui/ui/home/APPlus.luac
+SHA1-Digest: PY97R1xNh6ACHUsf55o4BIn7TKc=
+
+Name: assets/res/image/shop_point.png
+SHA1-Digest: j4mfApP1tUmQoysBJAJARixtNTI=
+
+Name: assets/res/unit/wroith.plist
+SHA1-Digest: yNNuElWI1WL0uVRCD1+EuoNyqSw=
+
+Name: assets/res/image/giftEffect.pvr.ccz
+SHA1-Digest: Cr+RhLx3VPJkq+saxSFLR8VyleA=
+
+Name: assets/src/combat/user/buff/buff40007.luac
+SHA1-Digest: Ut/HwEidJBBrjSrgYIa6w3nbAhY=
+
+Name: assets/res/image/plist/army.plist
+SHA1-Digest: WJ/vl9WgNwWbe1vXVKfasEBoJj4=
+
+Name: assets/src/metadata/buffAttr/buff40003.luac
+SHA1-Digest: w7TFhHlvPx8BcrDultLtbduqjwg=
+
+Name: assets/res/ccs/shop/general_store/commodity_floor_on.png
+SHA1-Digest: 8ZI/ewPANXlvyr+VSTcBdULadHE=
+
+Name: assets/res/sound/lose.mp3
+SHA1-Digest: LB1cAv//2MY9kifD7ieRA2TfSC8=
+
+Name: assets/src/metadata/scenePlot/scenePlot300018.luac
+SHA1-Digest: z8TXyKD0sIZ5YzOdlyy4LOULC2s=
+
+Name: assets/res/sound/pdrDth00.mp3
+SHA1-Digest: ARCLu6pFZ3YEFdK9sPLtTlsa//U=
+
+Name: assets/res/sound/HKMISSLE.mp3
+SHA1-Digest: VwJ6OA1/5wjsP9cgznVeVZi8zQ4=
+
+Name: assets/src/metadata/normalStage/normalStage300035.luac
+SHA1-Digest: uAeosPeTc3ixCoZabdEopBXpraU=
+
+Name: assets/src/metadata/novice/Step.luac
+SHA1-Digest: 68n9SvdaIavvLLpsvfTPpnCIWww=
+
+Name: assets/res/image/chapter_point/1.png
+SHA1-Digest: msTOR2BNoCFI7AXQ2B9QKjCtXEI=
+
+Name: assets/res/map/res/64_64.png
+SHA1-Digest: YX9+Qy7yXApgbTa4hCksiLP3atg=
+
+Name: assets/src/dataeye/DCCardsGame.lua
+SHA1-Digest: JXyAguEPmsJNSZldCDCfdpou6eM=
+
+Name: assets/src/metadata/skillAttr/skillAttr30302.luac
+SHA1-Digest: NK/0O4/MOY2hlLDXb3r7l4KQhTY=
+
+Name: assets/res/sound/deadS/zealot.mp3
+SHA1-Digest: 1FWvhFNC/Xumx483SNVtUePpWxs=
+
+Name: assets/res/unit/tank.ExportJson
+SHA1-Digest: JXA2E4Pr5VVeBmSST581YzDzanY=
+
+Name: assets/src/metadata/skillAttr/skillAttr30114.luac
+SHA1-Digest: B+OUiYy2n6+UNIn72NcfbnB0EeE=
+
+Name: assets/res/image/hpBar.png
+SHA1-Digest: 2BunMQp5lbuhDVOrCpw2k/5unOk=
+
+Name: assets/res/ccs/typeface/golden_ten.png
+SHA1-Digest: 7//XtydjlQUxBbMezx3FfcbJrlQ=
+
+Name: assets/res/ccs/battle/heroic_rewards/green_board_off.png
+SHA1-Digest: gNqv9EGG/PRxFOv9sAnTOWSK++o=
+
+Name: assets/res/ccs/formation/battle/floor_2.png
+SHA1-Digest: 8GQLd/aheRMKmNPRPN+dFmC1zHM=
+
+Name: assets/res/ccs/checkpoint/level_introduction/star.png
+SHA1-Digest: Xz65NunXnZ5BPnpYq58gY0BWif8=
+
+Name: assets/src/combat/api/actor/ccnode.luac
+SHA1-Digest: SBjT0waMkbBTbNMgOmxkJmzW5ws=
+
+Name: assets/res/ccs/image/short_button.png
+SHA1-Digest: bsVnWSJ0sa9lpg3uptQiaWzBGhw=
+
+Name: assets/src/ui/ui/home/shop/StoreDBuy.luac
+SHA1-Digest: 9BJ4Xi2X9PUzRENPBCrPGD5Glug=
+
+Name: assets/res/ccs/land/terran_invincible/logo.png
+SHA1-Digest: wpFtwoZ7oZSc8dZ+4yp9UYqWBKg=
+
+Name: assets/src/combat/module/gameMethod/endless.luac
+SHA1-Digest: QuUd8BvHKRt2rq7DkhfPiHoX31c=
+
+Name: assets/src/ui/ui/home/GoldCongratulation.luac
+SHA1-Digest: Qi27cnpghv64Oi4Uk8++SyYUDPk=
+
+Name: assets/src/ui/ui/common/AudioGuide.luac
+SHA1-Digest: 00sy8cbhbxUCH6gOG7EtM+jcueU=
+
+Name: assets/src/combat/module/mark.luac
+SHA1-Digest: 1eV/VaiVO5uQ0soAJfg9fUMoXJE=
+
+Name: assets/src/metadata/normalStage/normalStage300056.luac
+SHA1-Digest: 8ACCZ2Uk2fpLySR5CQ99HhEe0X4=
+
+Name: assets/res/ccs/typeface/sweep_ten.png
+SHA1-Digest: FykPEWGGJFIVfsAbpwRsyAFkwTo=
+
+Name: assets/res/ccs/loading/Loading/1/4.png
+SHA1-Digest: gX35iVDd+aYQUDcr+/3EqbIjz50=
+
+Name: assets/src/ui/ui_pre/channel/channel4Net.lua
+SHA1-Digest: Db0QK/xrDmphQJNBF/qnX68k6XE=
+
+Name: assets/res/unit/marine.pvr.ccz
+SHA1-Digest: PZI+UC6fRryotOqcduP91SLrG4M=
+
+Name: assets/src/metadata/skillAttr/skillAttr100091.luac
+SHA1-Digest: BQdk6zPxot/0c+SK0n5ZwFG08Tk=
+
+Name: assets/res/unit/firebat.plist
+SHA1-Digest: yD1LesCdDCeFNc+98HbP8e9ifO4=
+
+Name: assets/res/unit/medic.pvr.ccz
+SHA1-Digest: jb2JOvsLOd4DLNnVbY1giaxMzsk=
+
+Name: assets/res/ccs/typeface/use_on.png
+SHA1-Digest: l7mliLLOsYkQbWi42fKCRRu6jZo=
+
+Name: assets/res/ccs/image/white_box.png
+SHA1-Digest: Re4C6GWIlYevT40hEPPkI9HvJKE=
+
+Name: assets/res/ccs/checkpoint_star_award.json
+SHA1-Digest: Ut1Trcz0dT94iaHt2J70ingNSyk=
+
+Name: assets/res/ccs/package/first/join.png
+SHA1-Digest: 8tPec7E83z0qr50rhcLDOfFXPRY=
+
+Name: assets/src/combat/user/skill/darkTemplar102061.luac
+SHA1-Digest: pIEy94doRidpAoTDG7c7zOKF/t8=
+
+Name: assets/src/combat/user/ai/darkTemplar102060.luac
+SHA1-Digest: pcITjU8v52+jrV3tLYKzIxQIbwQ=
+
+Name: assets/res/ccs/new_army/blue_button_off.png
+SHA1-Digest: Ml7HhymvXVCIw3NJwyb+bydRkvY=
+
+Name: assets/res/ccs/typeface/garrison_on.png
+SHA1-Digest: HsfOxHtDLUzV/71y2fXdFWkBG70=
+
+Name: assets/src/metadata/skillAttr/skillAttr30300.luac
+SHA1-Digest: D+pXo7Lj2NKcMSxmT81SKeowgL4=
+
+Name: assets/res/image/sklulk_unlocker.png
+SHA1-Digest: ebXl6ZazR56IkOBAJSOOtC0Xdkk=
+
+Name: assets/src/engine/cocos/cocos2d/Cocos2d.luac
+SHA1-Digest: P7Vqv8qZbU/IZ/tqEEmM2GVQS3Q=
+
+Name: assets/src/combat/user/skill/vulture100041.luac
+SHA1-Digest: tftXuZ1cyOIrZ4fsH/j+DLZavCw=
+
+Name: assets/src/engine/cocos/init.luac
+SHA1-Digest: Q9cFvF20pqWWFHSTvOpjqG33cis=
+
+Name: assets/src/combat/user/state/follow.luac
+SHA1-Digest: BR6025FKYrpLiCw9yBN1laDOz4I=
+
+Name: assets/res/particle/combo.png
+SHA1-Digest: EoveFYQfWI5f1P0SSLJzGNZE+CU=
+
+Name: assets/res/ccs/battle/heroic_rewards/level.png
+SHA1-Digest: p1YzP9q+XZ19F7ApdTy58Lpqkco=
+
+Name: assets/res/sound/TMdDth00.mp3
+SHA1-Digest: q84Ny/EI5Z4iqDvZXGEzCxUTxrs=
+
+Name: assets/res/ccs/typeface/elite_mode_off.PNG
+SHA1-Digest: U7DLE8Utd61/8Dgm9sQ4bixGdt4=
+
+Name: assets/res/image/card_unlock_hg.pvr.ccz
+SHA1-Digest: zurcxmdXI2DlK2J0sDg3qnyQuDE=
+
+Name: assets/res/image/card/c_card_5.png
+SHA1-Digest: GviIt4Pq4g8IM6YvI/3CxXXn/V8=
+
+Name: assets/res/ccs/checkpoint/samsung_award/chest_off.png
+SHA1-Digest: 0f5wWI/G6YqaIoKihdB17Oszrbs=
+
+Name: assets/src/ui/ui_pre/uimanager.luac
+SHA1-Digest: Q0BXbdnSCShOn6/UlTXH4VgMc+A=
+
+Name: assets/src/ui/ui/home/checkpoint/CheckpointStarGot.luac
+SHA1-Digest: q5qIGJ9u/UJsVl5WGpBngmdPs6Y=
+
+Name: assets/res/ccs/loading/Loading/loading_light_effect.png
+SHA1-Digest: k/W96kcWT5FNoRIoOMpSykwfX40=
+
+Name: assets/res/ccs/GUI/image.png
+SHA1-Digest: OhIOlw5KBJRH9hjine+QylZLHcA=
+
+Name: assets/res/ccs/diamond_store/store.png
+SHA1-Digest: Q7WyE4MRJ5K/tAqYSOcZ56XDwTw=
+
+Name: assets/res/unit/marine.plist
+SHA1-Digest: 2ZT0ceLr53K8GcP27UeMK1bhvzA=
+
+Name: assets/res/ccs/typeface/shop.png
+SHA1-Digest: X4vlBnk5s1Y2Z1iLM4nmO4oq6KM=
+
+Name: assets/res/ccs/typeface/star_store_off.png
+SHA1-Digest: 85wMtryT4AQbp7F3hplhqXAGNAU=
+
+Name: assets/src/engine/cocos/framework/extends/UIEditBox.luac
+SHA1-Digest: xeUMMldzztSbwUEb83mx3vjY9lI=
+
+Name: assets/res/image/node_connection.png
+SHA1-Digest: L4vT5sg4qeh4Xl2LcEmqG8DW4Ww=
+
+Name: assets/src/metadata/unitNum/unitNum200000.luac
+SHA1-Digest: 9Fki7JTIZf/6bXaBIRD8dQUrEkE=
+
+Name: assets/res/map/map10.tmx
+SHA1-Digest: AZIPpBLo1iYEy2sIg9dL8IYDKsY=
+
+Name: assets/res/ccs/image/general_closure.png
+SHA1-Digest: mMM1BNO17WWbghW4BzqIUoGt7I8=
+
+Name: assets/res/ccs/battle/heroic_rewards/rewards_board.png
+SHA1-Digest: fZlmQgjYMGXc4yiEF8t8E0O8ZDk=
+
+Name: assets/src/combat/module/gameMethod/golden.luac
+SHA1-Digest: 4XgZjM0qR507D41cDrgdsiqnOYQ=
+
+Name: assets/src/engine/cocos/cocos2d/luaoc.luac
+SHA1-Digest: D21t3ZFlj9YjfIRzS/SKYrOSyBo=
+
+Name: assets/res/image/frame/goods_green.png
+SHA1-Digest: Rb0oEKXe3BViGuplEtClIvnzZHo=
+
+Name: assets/src/ShaderRes/grayFrag.luac
+SHA1-Digest: wsBmjuMiV/rMbMCYdcpp9dcPm/E=
+
+Name: assets/res/ccs/formation/exclamation_mark.png
+SHA1-Digest: B+D5uIO5rCm4ddr/2liTU4h/1C0=
+
+Name: assets/src/ui/ui/home/shop/StoreBuy.luac
+SHA1-Digest: AAA9OYROcsJLDTXP13NX3bX0A7U=
+
+Name: assets/res/sound/TGoFir00.mp3
+SHA1-Digest: jBHNL1u2sQV6EjLQLPC6juqmE/k=
+
+Name: assets/res/ccs/image/return.png
+SHA1-Digest: xZ7THoTshjSAMEi6jaBC+MTr1c8=
+
+Name: assets/src/metadata/skillAttr/skillAttr102061.luac
+SHA1-Digest: MXhqPKhYJfi6f0PDokyhX3NOq1w=
+
+Name: assets/res/sound/deadS/valkyrie.mp3
+SHA1-Digest: r/kheopz7LYTth2bN1t3nbmqPTc=
+
+Name: assets/res/ccs/image/yellow_button.png
+SHA1-Digest: dxEHDqkQjvB81V7SfhCJKE3N/vE=
+
+Name: assets/res/sound/skillS/lurker (14).mp3
+SHA1-Digest: mSLgFMvmqg9xINXUQoSArhqdPcM=
+
+Name: assets/res/image/army.pvr.ccz
+SHA1-Digest: 0ybV/H27WS0ADbm4OTJ5vFyy3pE=
+
+Name: assets/src/engine/cocos/cocostudio/DeprecatedCocoStudioClass.lua
+ c
+SHA1-Digest: MZhEZb9qKMnhLEXs9udVY4veSC4=
+
+Name: assets/src/metadata/normalStage/normalStage300108.luac
+SHA1-Digest: P/ABuvmRjF7Pr5JtIOOCax08bRk=
+
+Name: assets/res/sound/tanksetdown.mp3
+SHA1-Digest: n8OKIFLIzZk8e7E6mF/AkzVYoQI=
+
+Name: assets/src/metadata/skillAttr/skillAttr30201.luac
+SHA1-Digest: roldh4xkl0ybhJsxAkld3D+3yos=
+
+Name: assets/src/combat/class/buffInst.luac
+SHA1-Digest: NPZse6F7gcdDDkTVgFLooo4bZ1I=
+
+Name: assets/src/engine/cocos/network/DeprecatedNetworkEnum.luac
+SHA1-Digest: 0kf/e/luThRQFzd33ez5YBiJcnE=
+
+Name: assets/res/image/task/icon_4.png
+SHA1-Digest: fC2crlbwLuEEnzsd+HSt7I/SN/U=
+
+Name: assets/res/ccs/image/blue_board_on.png
+SHA1-Digest: A7Qj7Id01pqf6CGMwxh8Iz8LGWw=
+
+Name: assets/res/unit/high templar.plist
+SHA1-Digest: YgMMvCPVubHpljjEatzllNhzzuY=
+
+Name: assets/src/metadata/unitNum/unitNum100090.luac
+SHA1-Digest: FmYXbQSTiASavQqKdMAvHPcW4j4=
+
+Name: assets/src/ui/ui/common/AllTextRule.luac
+SHA1-Digest: vhFYbqqdV332d06IROdLvKH1awE=
+
+Name: assets/res/unit/zealot.ExportJson
+SHA1-Digest: pu/X/VnY6wccEmjpuNiGzokPi/Y=
+
+Name: assets/res/image/guide_finger.png
+SHA1-Digest: fhIm9SjkJG9AZay1SmmEn0eYvf4=
+
+Name: assets/src/combat/user/skill/0QuickenSpell.luac
+SHA1-Digest: /+cNtWmC2WGZLu47FUf6e90F1Nw=
+
+Name: assets/src/combat/module/world.luac
+SHA1-Digest: sGdoYV6vWCLuJPANHBoCg/4ox2M=
+
+Name: assets/res/image/soldier_name/hydralisk.png
+SHA1-Digest: kvZznQso5DjBWtqJVqhcRh4mybQ=
+
+Name: assets/src/metadata/normalStage/normalStage300037.luac
+SHA1-Digest: u0V1yeSFyujrHTqnk7MntNQoAbI=
+
+Name: assets/src/ui/ui_pre/channel/U8SDK.lua
+SHA1-Digest: XXAZ0+/GVGxrddnrKZdhd5HoKXA=
+
+Name: assets/res/ccs/image/right.png
+SHA1-Digest: Enm8rQjK5AX9jaAeKA2M+6wHQ44=
+
+Name: assets/res/ccs/top_banner.json
+SHA1-Digest: aP/lhb2Ru+VfqrlrnlrRB9cuNMI=
+
+Name: assets/res/ccs/home/base.png
+SHA1-Digest: kzZrMl4/q1DA8sCg0+9kVjhzuu8=
+
+Name: assets/src/combat/user/ai/0stealth.luac
+SHA1-Digest: +y9rlp7brURO9CMsytz4AyLKPrQ=
+
+Name: assets/src/metadata/scenePlot/scenePlot300019.luac
+SHA1-Digest: GX/K5SH2X7/l3FFybcidkMH7M7w=
+
+Name: assets/src/metadata/normalStage/normalStage300031.luac
+SHA1-Digest: bljbfs2EHViMUjABNV9X4AtqEME=
+
+Name: lib/armeabi/libcocos2dlua.so
+SHA1-Digest: HA9OjCdYGS53bN4J3tgFzGbYi4E=
+
+Name: assets/res/sound/DragBull.mp3
+SHA1-Digest: IDZLSw1jCneqgoj1LZgYe8zvTa4=
+
+Name: assets/res/image/chapter_point/12.png
+SHA1-Digest: UGtBPgTeV9GwW8Jqt0qml+jrQAg=
+
+Name: assets/res/image/soldier_name/reaver.png
+SHA1-Digest: 3oDuCCeQ91du2jEW8St1oJmkWOo=
+
+Name: assets/res/ccs/formation/yellow_button_off.png
+SHA1-Digest: TySFANnY0T2vUvXC+00sWdD4APw=
+
+Name: assets/res/ccs/new_army/detailed/floor_3.png
+SHA1-Digest: 3PUPCQwdwLclA36vMtgZQnwDBNk=
+
+Name: assets/src/auxlib/roledata.luac
+SHA1-Digest: Ii7M0HNcLJDr03FyW6lUZ7w2HnI=
+
+Name: assets/res/ccs/buff.json
+SHA1-Digest: YrEdRNtb7Z5myvy1jkF9YVqdr60=
+
+Name: assets/res/ccs/battle/heroic_rewards/star_off.png
+SHA1-Digest: BI0BDkFqJfsMxtEwBnNXlfoFflE=
+
+Name: assets/res/ccs/typeface/easy_mode.png
+SHA1-Digest: p6rPGkuKTd3mSjq1TKJoXsG5U1Y=
+
+Name: assets/res/map/res/land64_64.png
+SHA1-Digest: DqX70vXSU9QaJpFKaGKhR9EIqBw=
+
+Name: assets/res/ccs/formation/floor_2.png
+SHA1-Digest: Mm3rEML/tG50FommMQhG5C03W+8=
+
+Name: assets/src/combat/api/actor/changeTurn.luac
+SHA1-Digest: ZlRlSVj9KdC+yZKG9AHvs4iBOf0=
+
+Name: assets/res/sound/deadS/zergling.mp3
+SHA1-Digest: 6+CAJ7LbwyK6mKLDOLgb0NVRHSY=
+
+Name: assets/res/image/guilde_mark.png
+SHA1-Digest: Eo4RRw4Js0HDb2p5XagwkzqotPw=
+
+Name: assets/src/metadata/skillAttr/skillAttr30601.luac
+SHA1-Digest: B3MUH0oRSfaGeKxVcqeuyqw5U5c=
+
+Name: assets/src/combat/class/team.luac
+SHA1-Digest: AalP0KYTe/uJpWjlmj2GrPHlUsM=
+
+Name: assets/src/metadata/normalStage/normalStage300012.luac
+SHA1-Digest: /UKF8hauGusho8lAg+1etTGGYQM=
+
+Name: assets/src/net/protocolHandler.luac
+SHA1-Digest: 9FZM9Lv0aVe4QHUkdxeJhNVCYho=
+
+Name: assets/res/ccs/formation/battle/floor_Left.png
+SHA1-Digest: 9n7BiVtVdprhSPtM9gzIL8jAi5c=
+
+Name: assets/res/sound/deadS/mutalisk.mp3
+SHA1-Digest: 1xI47BtXk59dkkB7yVqS8TORMhM=
+
+Name: assets/res/ccs/battle/failure/team.png
+SHA1-Digest: vj8aWqcenPYUstt5P6OlKKDnN9w=
+
+Name: assets/res/particle/denglongyu2.png
+SHA1-Digest: 6K4gyo6825X4Gl9kz0Z3NXX05FU=
+
+Name: assets/res/image/plist/giftEffect.plist
+SHA1-Digest: cMQ5C9tn2hDdTcE2IVsrbQiajXM=
+
+Name: assets/res/ccs/sign_out/floor.png
+SHA1-Digest: pHkNIGdsGahenwfZ2GXbflwUtSQ=
+
+Name: assets/src/metadata/normalStage/normalStage300010.luac
+SHA1-Digest: qInnwNQbfnpbMX3KtkAhIMYw6B0=
+
+Name: assets/src/auxlib/cc.luac
+SHA1-Digest: uBlRz3qSNAhZJI1H6x27+Wr2tt4=
+
+Name: assets/src/metadata/skillAttr/skillAttr102031.luac
+SHA1-Digest: iTXBi++v9k09lHjQEpMZkIGgpjI=
+
+Name: assets/src/metadata/normalStage/normalStage300103.luac
+SHA1-Digest: vH1Sh2rM0jMTUK1WJgSdCPRePnk=
+
+Name: assets/src/ui/ui_pre/FO.luac
+SHA1-Digest: DD2gY6KI86BNJOWrnPzVk/eVhBg=
+
+Name: assets/src/metadata/unitNum/unitNum101030.luac
+SHA1-Digest: tpmKliJ1zvpeX8HcCWKqQtYrflY=
+
+Name: assets/res/image/node_connection_gray.png
+SHA1-Digest: 7FuMzVwtyhQFb9oUl/tzofYjj48=
+
+Name: assets/src/metadata/normalStage/normalStage300062.luac
+SHA1-Digest: l88qhaGeqS/Pns9sp7BRhvodPcY=
+
+Name: assets/res/unit/dark.pvr.ccz
+SHA1-Digest: iZEMK9PkJ1tJddsVEVhjmwnLzzM=
+
+Name: assets/res/ccs/image/exp.png
+SHA1-Digest: lpts9QcH4UFT6jcpwdEml/6bUKk=
+
+Name: assets/src/metadata/shop/shopSingle.luac
+SHA1-Digest: zC8neTxVh3YlvRhGc8iJl87fhc0=
+
+Name: assets/res/ccs/formation/battle/time_floor.png
+SHA1-Digest: mDo/QWnJivNdJIKkDLfPzIqTyj8=
+
+Name: assets/res/ccs/typeface/retreat.png
+SHA1-Digest: 3D70OcHgbsSsDOIdv9Z79PTMzaY=
+
+Name: assets/res/ccs/typeface/golden_finger.png
+SHA1-Digest: Y6cJY13o/46HeQQUIUwddvwnwSY=
+
+Name: assets/res/ccs/package/first/recharge.png
+SHA1-Digest: gcxXemzMB/l/7/geZYlOjwCwwJg=
+
+Name: assets/res/unit/reaver.pvr.ccz
+SHA1-Digest: qblzc/eHdPOduSdhgTE0k78PjmQ=
+
+Name: assets/src/engine/cocos/cocostudio/StudioConstants.luac
+SHA1-Digest: SRs1I1ecBVZ9haCpE9LtNDERw5Y=
+
+Name: assets/res/unit/devourer.plist
+SHA1-Digest: K1yaseg6Qnzut87J3TiTSPtv+1A=
+
+Name: assets/src/combat/module/dsaRes.luac
+SHA1-Digest: m6imJqal0jO92WjMpFmUYUTtUfM=
+
+Name: assets/res/ccs/achievement/icon_jb_off.png
+SHA1-Digest: xkKQtYbiwFvet56PgazrvD6Ko7U=
+
+Name: assets/src/metadata/skillAttr/skillAttr30203.luac
+SHA1-Digest: ywRDmEsSEiQiikayOx7KTt9jUrg=
+
+Name: assets/res/image/task/icon_2.png
+SHA1-Digest: Bk5DEXWOq2Pk/yo2PlvyxEvn4Cw=
+
+Name: assets/res/image/jiantou.png
+SHA1-Digest: RREhe67sQuTLp+eMJdqVMOB25c8=
+
+Name: assets/src/combat/api/actor/selfupdate.luac
+SHA1-Digest: YxPHWUe8zx8IpRSutsL0pML1B08=
+
+Name: assets/res/image/edit_normal.png
+SHA1-Digest: UTKwl4HZlYj7XyIuREK5oNgwIRo=
+
+Name: assets/src/combat/api/actor/movment.luac
+SHA1-Digest: p6BRYofQLHrhhigU+U09PAkvA2o=
+
+Name: assets/res/ccs/shop/shop_package/10.00.png
+SHA1-Digest: 6WVxWaYtyruSfGKaoVAbt5EYQOM=
+
+Name: assets/res/unit/hydralisk.pvr.ccz
+SHA1-Digest: Pj5ZcbbeonXBxJ2z2UZ3RZX33aA=
+
+Name: assets/src/engine/cocos/spine/SpineConstants.luac
+SHA1-Digest: riB/URk92Pl7Rkgq7bksiAQP/j4=
+
+Name: assets/res/ccs/image/return (2)_off.png
+SHA1-Digest: GpO76Ximi8jVGQY9G5LzlNLNj4M=
+
+Name: assets/src/metadata/normalStage/normalStage300083.luac
+SHA1-Digest: 9in4QTjWKQT8T65KJr/tgjhyCDU=
+
+Name: assets/src/combat/module/gameMethod/normal.luac
+SHA1-Digest: OQOPfiFstPg0BJ2kuoP04KnYNew=
+
+Name: assets/src/metadata/skillAttr/skillAttr100082.luac
+SHA1-Digest: Oyf1QPDTveiLeBowsUl4GpEOfxg=
+
+Name: assets/res/ccs/image/level.png
+SHA1-Digest: NoVkNxvaYTVHta4ZypA0s9/KFk0=
+
+Name: assets/res/ccs/endless/crystal.png
+SHA1-Digest: ckXR1qsin9tJPvzMteRX0npRIbY=
+
+Name: assets/res/ccs/battle/failure/board.png
+SHA1-Digest: ETCmnBc+Gw6AkZeFyUjxqsVhA00=
+
+Name: assets/src/metadata/normalStage/normalStage300065.luac
+SHA1-Digest: F0WLnTswbxeG3Cl47va/pRAamcI=
+
+Name: assets/res/ccs/new_army/detailed/skill_frame.png
+SHA1-Digest: /1w1Csu3oiaorh4kcIacXEUV050=
+
+Name: assets/src/ui/ui_module/extend/button.luac
+SHA1-Digest: Hn1a1ZPR9XFG3ZoKIyQ5DlMlT3o=
+
+Name: assets/res/sound/deployS/siencevessel.mp3
+SHA1-Digest: TaBivJ4G92HQ76KVFs5AdF9k4j8=
+
+Name: assets/res/image/edit_chat.png
+SHA1-Digest: BnfdKKNqOPN2EQaU5PpbNHBxbto=
+
+Name: assets/src/metadata/normalStage/normalStage300032.luac
+SHA1-Digest: 7YGQOluZp0SnTPjFYjp6iRFpo1Q=
+
+Name: assets/src/scene/SelectSvrScene.luac
+SHA1-Digest: sABwwf1IUckHgX1hKUn0zeBdl54=
+
+Name: assets/res/ccs/formation/start_fighting_on.png
+SHA1-Digest: llym7hoQFehDgn0aElJTKznuDZQ=
+
+Name: assets/res/ccs/checkpoint/select_checkpoint/background.png
+SHA1-Digest: 6hBr14FjQP4kDf6llp1L1jkTkbk=
+
+Name: assets/src/combat/user/memory/memory_tank.luac
+SHA1-Digest: l1oyf7Sf5umpawCfiJqc3n8JVVE=
+
+Name: assets/src/metadata/shop/shopMystTrigger.luac
+SHA1-Digest: BMc3Spmgr36Vc3ZOXtEoeDaF/fw=
+
+Name: assets/res/sound/TAdUpd07.mp3
+SHA1-Digest: goEyFjEkkszugkZPfYibVRBuPp4=
+
+Name: assets/res/ccs/formation/b_floor.png
+SHA1-Digest: gN9foVlx+Z4Gxey7A/gH7PlAPyM=
+
+Name: assets/res/unit/valkyrie.ExportJson
+SHA1-Digest: XKtGwud3F6EU8/pnf9UZGIy/Es8=
+
+Name: assets/src/ShaderRes/hueFrag.luac
+SHA1-Digest: NYO4QG4BtOdiJPxNsylZo0p7Co0=
+
+Name: assets/src/metadata/normalStage/normalStage300028.luac
+SHA1-Digest: d2wvAPDGtwDUZF2fZAOAnseb9H8=
+
+Name: assets/src/ui/ui/home/GiftConfirm.luac
+SHA1-Digest: sJWtwT5WXlzcOmWwT3oR4pJM+Yg=
+
+Name: assets/src/combat/class/trigger.luac
+SHA1-Digest: TJcag2WRw8YeUwihhXHphNxWxQU=
+
+Name: assets/src/combat/api/actor/attribute.luac
+SHA1-Digest: +qS9WyOrkFeqsmMnW5GSD7hKhjE=
+
+Name: assets/src/ShaderRes/darkFrag.luac
+SHA1-Digest: 01PRcucd1BMRRRA1Emhxh7ZzAM0=
+
+Name: assets/src/metadata/buffAttr/buff40005.luac
+SHA1-Digest: ZQZazaqcrTmWeOdNF0F0sqmWfeA=
+
+Name: assets/res/ccs/typeface/garrison.png
+SHA1-Digest: P7cA7aR+crgPDHs3tGWbQbpS6c4=
+
+Name: assets/src/metadata/unitNum/unitNum101050.luac
+SHA1-Digest: xC7KJll3cpNOHj1k2ga66v3ox5A=
+
+Name: assets/src/metadata/unitNum/unitNum101020.luac
+SHA1-Digest: Q6ZIei3g7SJQi7Mwtw/fJ/GNzug=
+
+Name: assets/res/ccs/typeface/shop_on.png
+SHA1-Digest: nYKMWXmrhoNN1gD0i4uI43ye+SI=
+
+Name: assets/src/metadata/normalStage/normalStage300074.luac
+SHA1-Digest: W5U4s7yCxD1RP3M8DpzsRWAwf28=
+
+Name: assets/res/ccs/typeface/y_continue.png
+SHA1-Digest: xQqmI4R+2BVpph7JJ2r68SXmIYg=
+
+Name: assets/src/combat/user/skill/corsair102041.luac
+SHA1-Digest: D9yTp+7n6p2kfWDifxLeQ5n+EWs=
+
+Name: assets/res/sound/deadS/SpiderMine.mp3
+SHA1-Digest: X50X8a6uJNvTq4F9zjuGwhGregM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: hrw2ZI1I0oaJeYUTNZLdhfihMnw=
+
+Name: assets/res/image/achievement/2.png
+SHA1-Digest: iHr8sWUT1mUQ3r/5g7QrV5XLQiM=
+
+Name: assets/src/combat/user/skill/scout102031.luac
+SHA1-Digest: TVi+/84XvhH5B2oRdHhNaBRybMc=
+
+Name: assets/res/image/soldier_name/guardian.png
+SHA1-Digest: RXP0PFkslkdbIBHhnxRKjXdlOhw=
+
+Name: assets/src/combat/user/skill/ghost100082.luac
+SHA1-Digest: ReWWPLQ7xto6HgY0L0HVoE6/1d4=
+
+Name: assets/src/metadata/buffAttr/buff40008.luac
+SHA1-Digest: TRrg+ZwrniVUBDfm8MFNBfnDPiA=
+
+Name: assets/src/combat/api/actor/detect.luac
+SHA1-Digest: tYef4BbrC84SRiIYLBxsre1F5+U=
+
+Name: assets/res/sound/deadS/tank.mp3
+SHA1-Digest: M2nItIhcvymbOgWjyplZLpQxrlU=
+
+Name: assets/res/ccs/plot/floor_3.png
+SHA1-Digest: S+Q/i+flSNM/YOcBj/GyjgXuhPc=
+
+Name: assets/res/sound/deadS/ghost.mp3
+SHA1-Digest: kV+4CGybOx59ZQU7eCib638W9ts=
+
+Name: assets/res/ccs/plot/arrow.png
+SHA1-Digest: Xnbo5LnxV5sTzZ2xTrDZC/FxHEQ=
+
+Name: assets/src/dataeye/DCTask.lua
+SHA1-Digest: M6Ril3tzGJHXtaTUheXIEYfaXXs=
+
+Name: assets/res/image/hpBar_box.png
+SHA1-Digest: WzSrZrnjcWYR8JSVIq26PJm0gFU=
+
+Name: assets/src/metadata/buffAttr/buff40002.luac
+SHA1-Digest: eZnMRxwLp8TMZ2kvUXm5NvSgVuw=
+
+Name: assets/src/metadata/skillAttr/skillAttr30009.luac
+SHA1-Digest: 1n33W0NnwTEWvp4NN1FvOMKAZY0=
+
+Name: assets/res/image/soldier_name/lurker.png
+SHA1-Digest: aFRXLIeI+RmCzY4LWXMtI9It7w8=
+
+Name: assets/res/particle/bigwin_blowout_2.plist
+SHA1-Digest: RFJQkZwd1ACkDuEEkmTNJ1vcF+k=
+
+Name: assets/src/fileList.luac
+SHA1-Digest: 8SprhF9IFrwY3CM04Ekt/+6RrOM=
+
+Name: assets/res/ccs/scientific_research/z_1.png
+SHA1-Digest: AMTIIr9emVpikO3luNZJxXl5LdY=
+
+Name: assets/src/combat/module/gameData/dataHelper.luac
+SHA1-Digest: p/ztxI1qIqyDpssVHFgzBFnyG8U=
+
+Name: assets/src/metadata/unitNum/unitNum102060.luac
+SHA1-Digest: 9UGu9KPEWzBfBunarFGB41nniD4=
+
+Name: assets/res/particle/baozhu.plist
+SHA1-Digest: aoXJuH53SF3MuF6Ua1/r4bZjchg=
+
+Name: assets/res/ccs/endless/main_interface/star/number.png
+SHA1-Digest: fwDBk4dqNwkQa50hKoy9kkn215I=
+
+Name: assets/src/combat/module/pipe.luac
+SHA1-Digest: kk1Eo85aDZaD7hEdOb3NvVTOrdw=
+
+Name: assets/res/image/rank_cnt/1.png
+SHA1-Digest: fFMaB9cIgV7ypc6YPAOAx7LDF3s=
+
+Name: assets/res/ccs/achievement/icon_jb.png
+SHA1-Digest: oZuGnUa5S22Ms2aLg1ejqB2Jbk8=
+
+Name: assets/src/combat/user/skill/queen30320.luac
+SHA1-Digest: DeDhCw2I3In64lrTStCJyr62FHk=
+
+Name: assets/res/ccs/checkpoint/samsung_award/experience_bar_floor.png
+SHA1-Digest: Yip6OEiVOaMRAt8k/XsiNFXXZk0=
+
+Name: assets/src/metadata/scenePlot/scenePlot300026.luac
+SHA1-Digest: kUCFUgCV/+rpsr+ueQGzy37pyFU=
+
+Name: classes.dex
+SHA1-Digest: PWsVjkRcaQnz4eQwmvtRgqT9Luk=
+
+Name: assets/res/ccs/new_army/research_floor.png
+SHA1-Digest: Cs9feBUrLFeC+lQnsRgQpLY74zk=
+
+Name: assets/src/metadata/normalStage/normalStage300077.luac
+SHA1-Digest: eA+M3TvizCwfXYGEdsHqxvE3dzY=
+
+Name: assets/res/ccs/background/name_floor.png
+SHA1-Digest: 3f9ne+FR8Jteu4YNvr3QWn5ZBH4=
+
+Name: assets/res/ccs/new_army/floor_3.png
+SHA1-Digest: RRs6GpCaYboRK+5fxRSDc7Uh6p4=
+
+Name: assets/res/ccs/package/icon/first_icon.png
+SHA1-Digest: Hy6r906NlqGAHCAlJaFSc9nHVdw=
+
+Name: assets/res/ccs/task/receive.png
+SHA1-Digest: 0Q0MFqteO5d4I1W41TOkqaMOH2s=
+
+Name: assets/res/sound/deployS/valkyrie.mp3
+SHA1-Digest: B9JLBG2G4gJk94JLjFSE+BcCF3c=
+
+Name: assets/res/ccs/land/terran_invincible/background.jpg
+SHA1-Digest: DMdYd6blX3o60wzGmLm96jr5T7s=
+
+Name: assets/src/combat/user/buff/buff40001.luac
+SHA1-Digest: fUeCaeSoFSUlgqtQdVhfv+GTpFo=
+
+Name: assets/res/image/sklLVUP.png
+SHA1-Digest: mnL2cDNDiOmIebIGdpMd0VRsfSo=
+
+Name: assets/res/ccs/loading/Loading/biology.png
+SHA1-Digest: 03juM1xarZEzttdj29wo4vI2ZAU=
+
+Name: assets/src/metadata/skillAttr/skillAttr30000.luac
+SHA1-Digest: Yi7ZNa0AvOhsy/mcN7NjjhqkYiQ=
+
+Name: assets/src/ui/ui/home/checkpoint/CheckpointMain.luac
+SHA1-Digest: +D+GsNKQcYr4akClazgSMChzWEM=
+
+Name: assets/res/image/soldier_name/dark_templar.png
+SHA1-Digest: 6RLSaDXy/v2+XsGjjy+BxIsL9EA=
+
+Name: assets/res/ccs/endless/victory/zlp.png
+SHA1-Digest: E/66HWVaduM+bhdS6MbdxdqjzF8=
+
+Name: assets/src/metadata/skillAttr/skillAttr101062.luac
+SHA1-Digest: G72OfvGNajl+uRZf2nJoZ96zSE4=
+
+Name: assets/src/ui/ui/home/checkpoint/CheckpointStarAward.luac
+SHA1-Digest: 8qDM6bdatM/0eQ+COE4ORf1uZbY=
+
+Name: assets/src/combat/module/physics.luac
+SHA1-Digest: z4DqcUyOo8H+b3DHg3toTZwI9XM=
+
+Name: assets/src/metadata/normalStage/normalStage300104.luac
+SHA1-Digest: /IheVIGVUMi4VVnJUqRMTz6kJzo=
+
+Name: assets/src/combat/api/0base/api.luac
+SHA1-Digest: kr0n+9/c5vx0FsNdieehaBaTQXA=
+
+Name: assets/src/ui/ui/endless/EndlessMain.luac
+SHA1-Digest: yU0CSYNF1PVreuuG2domb7dCl4M=
+
+Name: assets/res/ccs/typeface/item_shop_on.png
+SHA1-Digest: TRHRs47LtEhmsJcnQn3EsHOAkpk=
+
+Name: assets/src/metadata/unitNum/unitInstitute.luac
+SHA1-Digest: fTlaapsuOMLxZ7GOQsYNhoTiIhw=
+
+Name: assets/src/ui/ui_module/extend/scrollView.luac
+SHA1-Digest: huqknVITuBRSObBXZ2zALewAXJo=
+
+Name: assets/res/particle/datuowei.png
+SHA1-Digest: jhI2ZCo/dft0se3UnFdg9G84UN0=
+
+Name: assets/src/metadata/RedData.luac
+SHA1-Digest: nZ14NUSwJoufNf7smQv3mzZlNMQ=
+
+Name: assets/res/ccs/formation/yellow_button.png
+SHA1-Digest: lDWMgZm/k1l7g9z2Gf2sPbFZ4bQ=
+
+Name: assets/res/ccs/image/Arrow.png
+SHA1-Digest: szxX0xGYFpEiOZaSk64N1OiN77U=
+
+Name: assets/src/metadata/unitNum/unitNum.luac
+SHA1-Digest: G4lc1AETfmaAZF1acSxuVSTtnkA=
+
+Name: assets/src/metadata/normalStage/normalStage300054.luac
+SHA1-Digest: hQRKsKxU6HLtsvWPrSkMj0V6IOo=
+
+Name: assets/res/unit/zealot.plist
+SHA1-Digest: XGc+S33XhXnIYKHsH0ZsM8fyDnc=
+
+Name: assets/src/metadata/endless/endlessInvasionCfg.luac
+SHA1-Digest: 4KcwK55noiRHo4XDerMSmCiAhy4=
+
+Name: assets/res/ccs/formation/population_floor2.png
+SHA1-Digest: 3FcUeIsI8PvsDGod5chhrWX6zBk=
+
+Name: assets/src/metadata/gameTool/nickTool.luac
+SHA1-Digest: lTrHOGi+wWY/rZOIsTZDQ45ntTc=
+
+Name: assets/res/map/map08.tmx
+SHA1-Digest: rI9fdOMjRRHtwXvAGgxUJtimtFA=
+
+Name: assets/src/combat/api/actor/cmdstack.luac
+SHA1-Digest: 5ZLV5PaiihGoMV9GnW8i9/4EwSM=
+
+Name: assets/res/image/soldier_name/vulture.png
+SHA1-Digest: brgge+q39StJs1Psi4WonSXZLXA=
+
+Name: assets/src/metadata/normalStage/normalStage300045.luac
+SHA1-Digest: LjLze0bdfxqPuC2w3eW2DH8ypVo=
+
+Name: assets/res/sound/TFbDth01.mp3
+SHA1-Digest: WPyVFyVBLPk6fGRJYsquzZnhac4=
+
+Name: assets/res/unit/vulture.ExportJson
+SHA1-Digest: uVVdezbBw2auj2lgZHw91f2Eb/g=
+
+Name: assets/res/ccs/image/head_white.png
+SHA1-Digest: VHyf9toHFjoF7tdodlZbTUh0kN0=
+
+Name: assets/res/map/map02.tmx
+SHA1-Digest: YN3FrbvhWVGvklyDrK/unCOnPC4=
+
+Name: assets/src/combat/user/skill/dragoon30600.luac
+SHA1-Digest: ukuGW3LBUQ+xyK+EuIW/haxZiIY=
+
+Name: assets/res/image/card/s_card_7.png
+SHA1-Digest: UygOURTnK6WME39DTBnzy2HQmL8=
+
+Name: assets/src/engine/cocos/framework/extends/LayerEx.luac
+SHA1-Digest: msiBmHBNg8g2KvxPimMxLGXg5GY=
+
+Name: assets/src/engine/cocos/framework/extends/UISlider.luac
+SHA1-Digest: U6/XrE66JeXbAj+CxGAdb8HEqbQ=
+
+Name: assets/res/sound/TGoDth00.mp3
+SHA1-Digest: vzpgKxtN7yTrxYmXDIArGAJqga8=
+
+Name: assets/src/engine/cocos/controller/ControllerConstants.luac
+SHA1-Digest: Alj+crQtmg40veCtBzQZgITAu54=
+
+Name: assets/src/metadata/normalStage/normalStage300073.luac
+SHA1-Digest: YmfCCXXC6YHXtYdP+d/h/mdFWeM=
+
+Name: assets/res/ccs/battle/victory/exp.png
+SHA1-Digest: KSU/9fhlYz1apMy5qN57Dy2yIv8=
+
+Name: assets/res/image/frame/mask_fragment.png
+SHA1-Digest: QDsOPit5zxdT1Vfkhspa7DrBqoI=
+
+Name: assets/src/combat/api/actor/face.luac
+SHA1-Digest: Bpjr/bOz3+tgVqiIwHZyAeiDQjM=
+
+Name: assets/src/metadata/normalStage/normalStage300014.luac
+SHA1-Digest: BKpQlLxknRJ7oJkAE0ifV5rknRM=
+
+Name: assets/src/ui/ui/home/shop/Store.luac
+SHA1-Digest: EHtoPXVItFQbqSMo8PLEKnigNnc=
+
+Name: assets/res/sound/deployS/vulture.mp3
+SHA1-Digest: YWcs7MscV8icAcGyFg2U5IpwhDs=
+
+Name: assets/res/sound/uisound/close_button.mp3
+SHA1-Digest: HHPVrqzpkoLOfGn1Iqke2u/pZvU=
+
+Name: assets/src/metadata/normalStage/normalStage300111.luac
+SHA1-Digest: +knO1ezT8b6NJsDxToiv2lTdnQ0=
+
+Name: assets/res/unit/high templar.ExportJson
+SHA1-Digest: oEL5VMfmnTZ9Y6q/kysBIZbgxi8=
+
+Name: assets/res/ccs/image/Action_force_iocn.png
+SHA1-Digest: t3mDVTd7mt7r5WV9a3xuBCHNJ/U=
+
+Name: assets/res/ccs/land/terran_invincible/button_on.png
+SHA1-Digest: jaBZn15Lzlyn4eL6mNkRhLTWrhI=
+
+Name: assets/src/engine/cocos/cocosdenshion/DeprecatedCocosDenshionCla
+ ss.luac
+SHA1-Digest: xgqK8+AFM2lZlA2z5iZHoLge+j0=
+
+Name: assets/res/unit/valkyrie.plist
+SHA1-Digest: PPsDYrYTRn32aV01bRQwPml+Jyo=
+
+Name: assets/src/metadata/normalStage/normalStage300016.luac
+SHA1-Digest: gQMUT70URpKpwidZr2RxLhNqQKM=
+
+Name: assets/src/metadata/normalStage/normalStage300092.luac
+SHA1-Digest: EiSR+pZBNlDpnLKxUZ28amXe38I=
+
+Name: assets/res/map/map04.tmx
+SHA1-Digest: BKTEpSRTP00iwTOt9yIGicS5YlA=
+
+Name: assets/src/combat/class/skillInst.luac
+SHA1-Digest: tjOc9vwbeTplQnOwkYs2Fm373Zc=
+
+Name: assets/src/engine/cocos/framework/extends/UIWidget.luac
+SHA1-Digest: 0CvV6qtE431/mXPxCmELEbezvJ4=
+
+Name: assets/src/metadata/scenePlot/scenePlot300025.luac
+SHA1-Digest: oZLWsKYfVMASyQE4x1yt6l+jem0=
+
+Name: assets/res/ccs/new_army/detailed/upgrade.png
+SHA1-Digest: RUZjl+DWq27SYwpCjuqBYtBKJao=
+
+Name: assets/src/metadata/normalStage/normalStage300023.luac
+SHA1-Digest: xzVnFtD2FG+0fHM949aZt0/JKWQ=
+
+Name: assets/src/metadata/raceStage/raceStage390000.luac
+SHA1-Digest: aWMsiyknzLIgFIezvGnAiuYG4pA=
+
+Name: assets/res/sound/deadS/goliath.mp3
+SHA1-Digest: jYUq0buGQaLCSdEdQID3opsAk7Y=
+
+Name: assets/res/image/frame/fragment_white.png
+SHA1-Digest: Mgo5qudtO0B5f8IVhON1dB/+YCg=
+
+Name: assets/src/combat/user/state/guard.luac
+SHA1-Digest: TfLJlNJgE4YalsMbU87UGDex0T8=
+
+Name: assets/res/ccs/typeface/recruit.png
+SHA1-Digest: Xv24ieUezAkCblUAjIfi6cYDdzk=
+
+Name: assets/res/ccs/loading/Loading/floor.png
+SHA1-Digest: 85A4Mg4Rgy2LTKoGclysBPhWR+8=
+
+Name: assets/src/metadata/skillAttr/skillAttr30320.luac
+SHA1-Digest: 4DBEsUAPZ4UTKrInLgxUobyj9tI=
+
+Name: assets/res/ccs/scientific_research/p_1.png
+SHA1-Digest: II5BVN14O9m6G6Y/pZIU65uDcaM=
+
+Name: assets/res/particle/frozen.plist
+SHA1-Digest: kyeV+KvS1ryTpjEV/BHiDO4CACY=
+
+Name: assets/res/ccs/endless/main_interface/popup/button_off.png
+SHA1-Digest: BxoHbwoASj1fkO3G9WJKc5XzHO0=
+
+Name: assets/res/sound/deadS/guardian.mp3
+SHA1-Digest: 8kadiXvKzfyKLaL1dCM26jkRA5A=
+
+Name: assets/src/metadata/starBox/starBoxNormal.luac
+SHA1-Digest: zaAnb4aGn2UItGTHUG9I4a6CYZs=
+
+Name: assets/src/metadata/scenePlot/scenePlot300021.luac
+SHA1-Digest: Y5r3/GHLkvk4qXUvvzlzTljusXc=
+
+Name: assets/src/metadata/unitNum/unitNum101010.luac
+SHA1-Digest: C/82J9+i6/xcgdgAiRNpknycynk=
+
+Name: assets/src/engine/cocos/extension/DeprecatedExtensionClass.luac
+SHA1-Digest: 6tPBaDju36BgRYA2aE96tqh2qww=
+
+Name: assets/res/sound/TVuHit00.mp3
+SHA1-Digest: cWLLELYy1eUE3PI9n6ZbX8oeqJc=
+
+Name: assets/res/ccs/image/yellow_button_short.png
+SHA1-Digest: wVOmH9mYj4/xVI2PUbATErHT/p0=
+
+Name: assets/src/engine/cocos/cocos2d/DeprecatedOpenglEnum.luac
+SHA1-Digest: 2ywcdO3BgPcEcFCAfRWuR2F7EkE=
+
+Name: assets/res/ccs/diamond_store/double.png
+SHA1-Digest: a6LviLDSQanVJB9b+1ejDcxgWpQ=
+
+Name: assets/res/image/rank_cnt/3.png
+SHA1-Digest: eC5mZCSXIA4X38MoUaMIaCSVbEw=
+
+Name: assets/src/combat/user/skill/wroith30006.luac
+SHA1-Digest: CsS2GzgTFhv4ZHMqje1QAEGfS9A=
+
+Name: assets/src/combat/module/touch.luac
+SHA1-Digest: uyjS++VXXmsoswUF3ad6/W3jQL0=
+
+Name: assets/res/sound/Tfrshoot.mp3
+SHA1-Digest: 4aP3s78Ez8bcnA0dZJQorOFkKyw=
+
+Name: assets/res/image/earthMap/2.png
+SHA1-Digest: eJozd2LUnSStd+WwEn5Ah8hV5yM=
+
+Name: assets/src/metadata/buffAttr/buff40004.luac
+SHA1-Digest: EBP3yCp/f2l4FLM3VKWIj6HdD6k=
+
+Name: assets/res/ccs/image/exp_word.png
+SHA1-Digest: gX2llOqKZcc2lq8BxTbQcKHDXcU=
+
+Name: assets/res/ccs/checkpoint/samsung_award/floor.png
+SHA1-Digest: EB2+zfWfQeZLBKUvsCZl1sG7hiQ=
+
+Name: assets/src/combat/user/buff/buffcdf.luac
+SHA1-Digest: d50sj6bAlF+KpRD4g6L6yclFdTY=
+
+Name: assets/src/engine/cocos/network/DeprecatedNetworkClass.luac
+SHA1-Digest: Oq0ehuDGxSW6Z0hZ3NIEnV30/z4=
+
+Name: assets/src/metadata/normalStage/normalStage300113.luac
+SHA1-Digest: EPDnkAH0E86YconEUX5mumjuxwQ=
+
+Name: assets/src/metadata/normalStage/normalStage300036.luac
+SHA1-Digest: o+sz3Id4C2X5HbucLBJsQeZ9d7M=
+
+Name: assets/src/metadata/normalStage/normalStage300051.luac
+SHA1-Digest: 4CyK6vg9lY6wu0ipc9ShTaTx4PM=
+
+Name: assets/res/ccs/role_upgrade.json
+SHA1-Digest: 4mjjHa7iZ/0eKjy96iOhcbEC/H0=
+
+Name: assets/res/ccs/loading/Loading/energy.png
+SHA1-Digest: XF1jvyGlHunlmxUUdMHgnA6uaqc=
+
+Name: assets/res/sound/uisound/battlevictory.mp3
+SHA1-Digest: WsTH7y3x4sPQqURjoZeiDj7Hp5w=
+
+Name: assets/res/image/card/r_card_8.png
+SHA1-Digest: QSAkX509uuhPOvTebYdMAUM/uQ0=
+
+Name: assets/res/ccs/endless/victory/name.png
+SHA1-Digest: raWZ9VkKxMMr6HrlAhh62RaID7M=
+
+Name: assets/res/ccs/battle/heroic_rewards/star.png
+SHA1-Digest: 7Df0PcjlsJ7HPJjUHuuKhbO/APc=
+
+Name: assets/res/ccs/shop/shop_package/physical_strength.png
+SHA1-Digest: HER0ntmdxZOIDurrSNGXMOob8ro=
+
+Name: assets/src/ui/ui_pre/XLMath.luac
+SHA1-Digest: 4Nz3ei5uRwppZ/UdBbsSIOSePfM=
+
+Name: assets/res/ccs/image/long_button_off.png
+SHA1-Digest: Oa3xzpx2TOcoahywzD6eEfRsgcM=
+
+Name: assets/res/image/soldier_name/aircraft.png
+SHA1-Digest: iLyPaolcoaQqcSZpLcjdlWfxDLc=
+
+Name: assets/src/combat/user/buff/buff5001.luac
+SHA1-Digest: B6yc2Ot8hvZ/RidC7Q8eY9/9Lg8=
+
+Name: assets/src/ui/ui_pre/Shader.luac
+SHA1-Digest: 4kF+wNdh4sq/D6WdWz+cwlFHM9U=
+
+Name: assets/src/ui/ui/home/checkpoint/CheckpointInfo.luac
+SHA1-Digest: Gc/wQzZodpI1+Onrk+d2HmR9TLA=
+
+Name: assets/res/image/frame/head_orange.png
+SHA1-Digest: 9IIlQczXHP1OEfYDUVzBC5yinK8=
+
+Name: assets/res/ccs/GUI/labelatlasimg2.png
+SHA1-Digest: qgomt3TmOygX+7uSbVGCOO8JPCI=
+
+Name: assets/src/ui/ui/home/MoneyDuplicate/MoneyDup.luac
+SHA1-Digest: 0Z/sP+Xk99/XddmmEeOn5LNlHyA=
+
+Name: assets/res/image/plist/head.plist
+SHA1-Digest: nEh1OY3fqVgQ5fBidtEmvVAdZbw=
+
+Name: assets/src/metadata/normalStage/normalStage300087.luac
+SHA1-Digest: 1WWMIu+soESGe5M4LEIr4rbZhRY=
+
+Name: assets/res/sound/deadS/high templar.mp3
+SHA1-Digest: ezsw0Zf4MYCxEPvYDp5SkuKIn3Y=
+
+Name: assets/res/ccs/achievement.json
+SHA1-Digest: ++O8juwi3OQz34nT1ZyEVbucleM=
+
+Name: assets/res/ccs/new_army/floor_1.png
+SHA1-Digest: rj3JiaqCELcixJftdfaemVvfpTc=
+
+Name: assets/res/ccs/typeface/achievement1_off.png
+SHA1-Digest: /QgYwxPfiqMF2zAdyEpm1VLN1r0=
+
+Name: assets/res/sound/ZZeDth00.mp3
+SHA1-Digest: cDlcWzvoPOzfpitccWvruOwdsL4=
+
+Name: assets/res/image/gold.png
+SHA1-Digest: VBDs9bhPoyt5wU/7tI0GkVssJa4=
+
+Name: assets/src/ShaderRes/outlineFrag.luac
+SHA1-Digest: NOl1GCyQqQtiySRSh/YNmnX+4NI=
+
+Name: assets/src/combat/api/actor/mask.luac
+SHA1-Digest: DandPWAzMTwYdyb6/gvHZXRIzAo=
+
+Name: assets/res/ccs/formation/blue_button_off.png
+SHA1-Digest: 6Y1qjnN6yXGsKBgUvA6haA6WiFk=
+
+Name: assets/src/ui/ui/home/shop/StoreGift.lua
+SHA1-Digest: uYK3lMpqMixBlDZ2U3Okq4MN1MA=
+
+Name: assets/res/sound/deadS/firebat.mp3
+SHA1-Digest: FG2Bqy4aQKCqUJodU9JLrJamIVM=
+
+Name: assets/src/combat/user/memory/memory_goliath.luac
+SHA1-Digest: vuQsRS1TiOgMUzKEHBTuZtNvg1I=
+
+Name: assets/res/sound/TGhLas00.mp3
+SHA1-Digest: IaTD8pSptuqaoWR5KIbIBRTyJ+k=
+
+Name: assets/res/ccs/typeface/nickname_on.png
+SHA1-Digest: 9BObaBwO23JAHNVnQBQK5Qhj+SU=
+
+Name: assets/src/metadata/skillAttr/skillAttr99999.luac
+SHA1-Digest: TWJKQrClHcoMfAK23fjawBhmDeA=
+
+Name: assets/res/image/chapter/map_level_3.png
+SHA1-Digest: ke3W+vRq1/2Y6ktOkYr2YC8hVqM=
+
+Name: assets/res/image/earthMap/8.png
+SHA1-Digest: CFT53piOBouVzOdmOGjpMq6Xntc=
+
+Name: assets/src/metadata/FO/functionPlot.luac
+SHA1-Digest: zzYq/Tl65LF1sE+NB+20Wo4T7tU=
+
+Name: assets/src/metadata/normalStage/normalStage300015.luac
+SHA1-Digest: vh5ab5tUWndYg+dde5bNHFJlSdI=
+
+Name: assets/src/ui/ui/common/MsgBox.luac
+SHA1-Digest: FLvVGfJF2cnm4Sd8yOxEvOz2DZ0=
+
+Name: assets/src/ui/ui_pre/image.luac
+SHA1-Digest: 8HPAAhHZaN3f/oGPh/kn/2nR5d0=
+
+Name: assets/res/ccs/battle/data_statistics/board.png
+SHA1-Digest: MoVc7vnXTYt0z5CRF7WPwHdxCGA=
+
+Name: assets/src/metadata/normalStage/normalStage300095.luac
+SHA1-Digest: BvHwcixc2Wjq3zNMEPACmKhsiag=
+
+Name: assets/src/metadata/normalStage/normalStage300110.luac
+SHA1-Digest: pewXQxcbtf7SuLUOwjTQ2ZnQVhE=
+
+Name: assets/src/combat/user/skill/zergling30300.luac
+SHA1-Digest: YkbXnyB4sttLyBmNwZWA3myIuac=
+
+Name: assets/src/ui/ui_module/IconSlideBar.luac
+SHA1-Digest: 0SGLYIhIWPFGSADluObiMExXEWc=
+
+Name: assets/res/image/frame/goods_purple.png
+SHA1-Digest: dEO0E0QeTaUJ8j6B3HxNc64/OH0=
+
+Name: assets/src/metadata/normalStage/normalStage300039.luac
+SHA1-Digest: 1DkzKaiANTWyn1LtA/eMR67PoUU=
+
+Name: assets/src/metadata/normalStage/normalStage300116.luac
+SHA1-Digest: xJ+ZjNVOv0WCvTmD5zQU2ojKRGg=
+
+Name: assets/res/image/skill_icon.pvr.ccz
+SHA1-Digest: xj6MOmMUL5TyhpIUo5mP2nMDX1k=
+
+Name: assets/res/ccs/diamond_store.json
+SHA1-Digest: OYDwZ9tOMt+gaRLouFWdrnYQMHU=
+
+Name: assets/src/combat/module/godskill.luac
+SHA1-Digest: 48E1zINmqboSplfZnaE9eGsnkpI=
+
+Name: assets/src/metadata/normalStage/normalStage300085.luac
+SHA1-Digest: HhZh1MsuTXhaulUyfKXLq5jjUtw=
+
+Name: assets/src/metadata/skillAttr/skillAttr30003.luac
+SHA1-Digest: /MNhw5Lb9QYG+aW+YNExsXgZOlo=
+
+Name: assets/res/ccs/typeface/use.png
+SHA1-Digest: vDG7OCvxhA1ikS+Qb53fvyQHxdE=
+
+Name: assets/src/combat/user/skill/lurker30200.luac
+SHA1-Digest: 3siowMNBcJKiqqWPTAgEvPCBLrQ=
+
+Name: assets/res/ccs/typeface/purchase.png
+SHA1-Digest: f1QCi8tEs8Uk3/iJlA7r3/uoj7A=
+
+Name: assets/src/metadata/normalStage/normalStage300026.luac
+SHA1-Digest: MafjgakAGPFSVS1J3k28JmZLfXg=
+
+Name: assets/src/metadata/skillAttr/skillAttr30600.luac
+SHA1-Digest: V3R8JMAM9XHnrifWAtxszslJ728=
+
+Name: assets/res/ccs/modify_avatar/floor.png
+SHA1-Digest: aXvYGOhKmLH/qQ8gwxVzGU01h9k=
+
+Name: assets/res/image/card/r_card_9.png
+SHA1-Digest: +xxYWlGGZUuwuzyFwqr6lP34joM=
+
+Name: assets/res/ccs/shop/shop_package/purchase.png
+SHA1-Digest: Pt3t0wV8IuRbiGQLL8TNODIy4kc=
+
+Name: assets/res/unit/tank.plist
+SHA1-Digest: 9uXciqjuda5+/b9PLk10Ppx5A18=
+
+Name: assets/res/ccs/role_upgrade/floor.png
+SHA1-Digest: 2PwWK1M8GirYefhU8UvOI9YYcxI=
+
+Name: assets/res/sound/deadS/vulture.mp3
+SHA1-Digest: PrpohLC5oawaGVoh6noPgJIE2uY=
+
+Name: assets/res/ccs/checkpoint/samsung_award/chest_on.png
+SHA1-Digest: VFmOgJLL4D3NlczD1u1XwzXLMB0=
+
+Name: assets/src/metadata/normalStage/normalStage300013.luac
+SHA1-Digest: Zxi0M8SwVlBZuujljnQs3I5hfiI=
+
+Name: assets/res/sound/deadS/marine.mp3
+SHA1-Digest: CcA0/EnDYEDgUgt7URNaMDbWNZk=
+
+Name: assets/res/image/card/s_card_6.png
+SHA1-Digest: Jgbrew2lYubM51c2UEUZ1pkyh6g=
+
+Name: assets/src/metadata/normalStage/normalStage300053.luac
+SHA1-Digest: JuDneyqNX7tVOtv+cuFSAWmRUEQ=
+
+Name: assets/src/ui/ui/battle/BattleDamage.luac
+SHA1-Digest: iSy0B6JEsfuhGHExyB3YsXLz9lM=
+
+Name: assets/res/map/res/land_3.png
+SHA1-Digest: NOJuSKUCdgf5VUt41PMSmt0W5xU=
+
+Name: assets/res/image/chapter/map_level_1.png
+SHA1-Digest: 5cFnPoTrtspEa2+5xuHtitJzmBg=
+
+Name: assets/src/combat/user/skill/tank30113.luac
+SHA1-Digest: pV3VEhNqyDw/o+CV5X5TP0459oE=
+
+Name: assets/src/metadata/normalStage/normalStage300069.luac
+SHA1-Digest: 4tXjTK16LTOT6O3F7uAfE/YJtn4=
+
+Name: assets/src/ui/ui_module/SCParticle.luac
+SHA1-Digest: CLlrwSTgSH46qSW2gxcpf25kEqk=
+
+Name: assets/src/ui/ui_module/language.luac
+SHA1-Digest: k3+RNTVJlnbiFqXVg3cpCuHY72g=
+
+Name: assets/res/image/soldier_name/XX.png
+SHA1-Digest: ozULH5QRf4xozFqlfqsfTY4vVgc=
+
+Name: assets/src/metadata/itemData/itemData.luac
+SHA1-Digest: FVFGEDy568xL86/caq3/x0pV8Vg=
+
+Name: assets/res/ccs/package/first/first.png
+SHA1-Digest: SL8K04g8G+XEiyQsXq2Q534KEc8=
+
+Name: assets/src/combat/module/units.luac
+SHA1-Digest: WtUCnwkkmS5TFW6gntyy6nNQqaI=
+
+Name: assets/res/ccs/typeface/golden.png
+SHA1-Digest: Hn1XqZcnuLTtsnC9E/qC9UF07WQ=
+
+Name: assets/res/ccs/package/first/receive.png
+SHA1-Digest: oQwQ3n5EnnG0g3w7aiDVuCgRBow=
+
+Name: assets/src/combat/user/godskill/godskill1002.luac
+SHA1-Digest: czUM7JJ7/S8izQGyTsKxcAuSuXU=
+
+Name: assets/src/metadata/normalStage/normalStage300059.luac
+SHA1-Digest: g1LxRx8TOYHYHb8j2fWgzA9IK0k=
+
+Name: assets/res/ccs/formation/yellow_button_on.png
+SHA1-Digest: hP+/V3DY/vN0LbH1sV3SsvOE9Xk=
+
+Name: assets/res/ccs/diamond_store/18_on.png
+SHA1-Digest: IRXlt8JDfCPNIHkM7YHYb/ZUzkw=
+
+Name: assets/res/ccs/battle/data_statistics/data_bar_red.png
+SHA1-Digest: NYgMbErBzRD6PkraYS1XT/4jbGQ=
+
+Name: assets/src/metadata/normalStage/normalStage300017.luac
+SHA1-Digest: mDPNEyGWRE2I7T+bLNxubjU1Pn8=
+
+Name: assets/res/ccs/typeface/tree.png
+SHA1-Digest: wHGLDD2Ne7uWmx64rZqNTtaEIc8=
+
+Name: assets/res/ccs/battle/failure/add_team.png
+SHA1-Digest: 1xDk3dZVNzRa3cNeAtTOA4YTYWo=
+
+Name: assets/src/engine/cocos/3d/3dConstants.luac
+SHA1-Digest: xhpoQVn9QwAszZNZNifFsl+Z+xA=
+
+Name: assets/res/ccs/image/on.png
+SHA1-Digest: tizMoCYvcqg2/akdAzsOow1y0lk=
+
+Name: assets/src/ui/ui/login/LoginMain.luac
+SHA1-Digest: PwMNwIir6J0ViMPNqxH03aTI0fU=
+
+Name: assets/res/image/rank_cnt/8.png
+SHA1-Digest: JPr4YAacBeoEAmy5VFkdp2BlH24=
+
+Name: assets/src/ui/ui_pre/channel/channelHuawei.lua
+SHA1-Digest: 2u+NQ5z8cd+ibZvS9NpOj1Q3A4U=
+
+Name: assets/src/dataeye/DCAccount.lua
+SHA1-Digest: idVMf++fYbrYJ7RUEiKHzStC2Eg=
+
+Name: assets/src/metadata/normalStage/normalStage300064.luac
+SHA1-Digest: 7RmjxZM2BTRMv0fddpE5QkOstW8=
+
+Name: assets/res/unit/scout.plist
+SHA1-Digest: Y0tYcUEZ7PgSW38W2K05GsKKYM0=
+
+Name: assets/res/unit/vulture.pvr.ccz
+SHA1-Digest: 3edzyOC2UikNhElXWpwIOTkBxGw=
+
+Name: assets/res/ccs/achievement/flag_2.png
+SHA1-Digest: /DgD7ZQmGpRQqWboKwscQvIWfPI=
+
+Name: assets/src/ui/ui/home/rank/Rank.luac
+SHA1-Digest: glKv2pOOKI3EEihhf+0c0NbCekQ=
+
+Name: assets/res/ccs/image/yellow_button_off.png
+SHA1-Digest: d/XS5k3kjrSQZzvs/GrVY8ILvh4=
+
+Name: assets/res/unit/wroith.pvr.ccz
+SHA1-Digest: 0IYJ+yCmWdG33IkXSLDBDKhqYz4=
+
+Name: assets/res/ccs/formation/blue.png
+SHA1-Digest: EJRigywe/HXdq0+aU5FLq3lI0Wk=
+
+Name: assets/res/ccs/endless_recruit.json
+SHA1-Digest: 61AkH1sIu91mQl/Y4TxaqAKkFXM=
+
+Name: assets/res/ccs/diamond_store/6_on.png
+SHA1-Digest: 2lCdZY1vRdjWyDKheuWM77hQUG8=
+
+Name: assets/res/ccs/battle/data_statistics/data_board.png
+SHA1-Digest: s7Ffw/JG+mgY62KglgXRV1KIylE=
+
+Name: assets/src/engine/cocos/cocos2d/DeprecatedCocos2dClass.luac
+SHA1-Digest: kDpL+SvwecTRjGgPu7Q3sHWvJCQ=
+
+Name: assets/res/image/soldier_name/valkyrie.png
+SHA1-Digest: LTugMDJXmtO/b2BsebxTOSYmAqw=
+
+Name: assets/res/ccs/endless/main_interface/star/floor_2.png
+SHA1-Digest: zUhduaZRELJHUIkcr3ycu33xsAo=
+
+Name: assets/src/combat/module/gameMethod/mineJudge.luac
+SHA1-Digest: VtaY8X8em0qw4ijCfxAkj+S1qe0=
+
+Name: assets/res/image/rank_cnt/5.png
+SHA1-Digest: VbvArawm8b5ElaQVfD5rsR4zysg=
+
+Name: assets/src/combat/user/ai/tank100050.luac
+SHA1-Digest: hRhvoIyzy1VczKohZR2nL/qTC5E=
+
+Name: assets/src/combat/user/godskill/godskill1003.luac
+SHA1-Digest: bl6wHOa9s0CMOGTEmwk9MRVtUVQ=
+
+Name: assets/res/map/map10001.tmx
+SHA1-Digest: +wPA+iIZ8Udi+8YpsxsN6qHVRYs=
+
+Name: assets/res/ccs/main_interface/floor.png
+SHA1-Digest: X5c7kZ1+98bEbAsl57eFuX0FnKU=
+
+Name: assets/res/ccs/endless_victory.json
+SHA1-Digest: nFqIbsxm6s1pH+sj/xP67zMf/fs=
+
+Name: assets/src/ui/ui_pre/customMacros.luac
+SHA1-Digest: qDbvdslra2Up6hMCNNeFySt9BUU=
+
+Name: assets/res/ccs/achievement/flag.png
+SHA1-Digest: dVNOcRkFYnvPvL/2pZc1oa3hYrE=
+
+Name: assets/src/combat/module/skillagent.luac
+SHA1-Digest: 5sc6uSqLV8SneGurOCUQauYrd3Y=
+
+Name: assets/res/ccs/typeface/shop_off.png
+SHA1-Digest: TUDwII+OFNTeOkrvBNxF66YkEcc=
+
+Name: assets/res/image/soldier_name/tank.png
+SHA1-Digest: PobVwTJavTm1J8dCc8X8CPao8Jk=
+
+Name: assets/src/metadata/scenePlot/scenePlot300027.luac
+SHA1-Digest: kSUzPJHnXtu9qOCJCZkpoEeeXYo=
+
+Name: assets/src/metadata/sidCost.luac
+SHA1-Digest: eJnW2Gc8gnuxKkGb+tMVbjWv4nQ=
+
+Name: assets/res/ccs/endless/main_interface/star/t_1.png
+SHA1-Digest: J9gv3qm2FiejkgQpLAV5F+3twvY=
+
+Name: assets/src/combat/user/skill/0ballistic.luac
+SHA1-Digest: FLknUwXYPXKe20SZ4ssK3nfYegg=
+
+Name: assets/res/sound/zulHit00.mp3
+SHA1-Digest: wGr0jIc891C9NpZ8ULWra0B9Uv8=
+
+Name: assets/src/engine/cocos/framework/extends/UITextField.luac
+SHA1-Digest: eRR0TkxNijX5gJfT8yDxL+bTr/M=
+
+Name: assets/src/metadata/normalStage/normalStage300112.luac
+SHA1-Digest: ULZEkTqT72/ksVwWbnELmJeXRc4=
+
+Name: assets/res/unit/tank.pvr.ccz
+SHA1-Digest: xYirjyWZ6H7XTt942vNj4NCaHl4=
+
+Name: assets/res/image/chapter_point/5.png
+SHA1-Digest: yvgbcUiG50fMkRK2NkDiJd2c/C8=
+
+Name: assets/res/ccs/land/terran_invincible/button.png
+SHA1-Digest: yEEFXPclyTu8lrBYFx11oj9tTVk=
+
+Name: assets/res/ccs/achievement/progress_bar_floor.png
+SHA1-Digest: LaPW7MUUrNG++BH6a53hodETiog=
+
+Name: assets/res/ccs/new_army/detailed/upgrade_off.png
+SHA1-Digest: LB39h+DWpgMJH9zkvWJEVvYlbiM=
+
+Name: assets/src/combat/user/state/spider.luac
+SHA1-Digest: W+q/HmRqWoscsWufs5GUDJCBXRM=
+
+Name: assets/res/ccs/shop/shop_package/sweep_volume.png
+SHA1-Digest: svZrqZIRPM3FxKj+zQ7IZYuEbDc=
+
+Name: assets/res/ccs/background/exclamation_point.png
+SHA1-Digest: HaPjXnL+NUmi6C62UUWPsldMBr8=
+
+Name: assets/res/ccs/typeface/determine_y_on.png
+SHA1-Digest: lhSTCznIXlutbSNnOH6E3YH3nN8=
+
+Name: assets/src/combat/user/memory/memory_queen.luac
+SHA1-Digest: G5QNqF+svgEOANdGw4p5TcQ5gFw=
+
+Name: assets/res/ccs/nickname.json
+SHA1-Digest: Ym7u5OPzRU3dAxX43ngK3tK4XYY=
+
+Name: assets/src/engine/cocos/framework/extends/UIScrollView.luac
+SHA1-Digest: DEkVoEvxW3+fmzpeV2bIBP/qyn8=
+
+Name: assets/src/metadata/endless/endlessRecruit.luac
+SHA1-Digest: EML1bHPlXJPuDcbtnLgLcZI/Hnc=
+
+Name: assets/res/ccs/diamond_store/29_on.png
+SHA1-Digest: xP/6dH3LafHgKqVmscg9uVYJxh4=
+
+Name: assets/src/ui/ui_module/GuideNode.luac
+SHA1-Digest: bNZqdqE+T61770ykoU1W22CWMTU=
+
+Name: assets/res/unit/goliath.plist
+SHA1-Digest: 1u2UwgTdJQX3qwHiaxGrQXRN8+k=
+
+Name: assets/src/dataeye/DCLevels.lua
+SHA1-Digest: BExkdFWbqVxhffiLp8Ld+2+/L7M=
+
+Name: assets/res/unit/firebat.ExportJson
+SHA1-Digest: +aRtJA5Z6SIyms71BAqnM5MKwlk=
+
+Name: assets/res/ccs/select_svr.json
+SHA1-Digest: LRfiiIpoIUgsIcuFzViGpJRFWwQ=
+
+Name: assets/res/image/chapter_point/10.png
+SHA1-Digest: O9syXrvNjB4kwM9OjMAsqdFDAx0=
+
+Name: assets/res/ccs/image/general_one.png
+SHA1-Digest: c7eqzyascxVQtfbGXSRLF0t3r8s=
+
+Name: assets/src/combat/user/buff/buff40002.luac
+SHA1-Digest: 5PG5/71wP05WmLj8ThD5tpEGbs8=
+
+Name: assets/src/ui/ui/home/player/Rename.luac
+SHA1-Digest: mriod74xQeitzt4ZtG8GWyRsdwU=
+
+Name: assets/src/metadata/unitNum/unitNum100060.luac
+SHA1-Digest: asZS1eKZc4iRwdNHRSOofZgYDHQ=
+
+Name: assets/res/ccs/image/blue_box.png
+SHA1-Digest: 5pK7uq8X9nbQN7DjNupxFUlnCcs=
+
+Name: assets/src/combat/class/scarab.luac
+SHA1-Digest: EANty5IjVvj01Lv27NsGZ1oB9hU=
+
+Name: assets/src/metadata/skillAttr/skillAttr30301.luac
+SHA1-Digest: AujQ3HYJ3GkV+ciWbIRVVZMi18k=
+
+Name: assets/src/ui/ui/battle/BattleVictory.luac
+SHA1-Digest: 5FMjJcWDKLZoTs802CG4H9owBik=
+
+Name: assets/res/unit/zealot.pvr.ccz
+SHA1-Digest: LGwufiCg3VpIdh2P/SuguaQutus=
+
+Name: assets/src/ui/ui_module/GiveGold.luac
+SHA1-Digest: pRVEruAsMTbMJPUiqrUcPWBN6Es=
+
+Name: assets/src/engine/cocos/cocos2d/deprecated.luac
+SHA1-Digest: hyEzujl6kjLgjgLbQnYFc+uUhAE=
+
+Name: assets/src/auxlib/cfgMethod.luac
+SHA1-Digest: 9N8qyC6rBlLkhHltTFOFrryzsvU=
+
+Name: assets/res/ccs/shop/general_store/top_bar_2.png
+SHA1-Digest: VIbg/nEGfMLzfHuJ2NBYiicsoPU=
+
+Name: assets/src/metadata/normalStage/normalStage300115.luac
+SHA1-Digest: LMMG7t9Nzkak7LHlDPOb4lQF93g=
+
+Name: assets/res/sound/tfbFir01.mp3
+SHA1-Digest: 2QPL4YOZ3hflhzL6KpPfkJHX0C0=
+
+Name: assets/src/metadata/skillAttr/skillAttr30100.luac
+SHA1-Digest: 80+obFX1+JDSeQg2SW0npHek5Uk=
+
+Name: assets/src/ui/ui/common/Diamond.luac
+SHA1-Digest: wQC699hFXLQOUs6Una9o3Lgloos=
+
+Name: assets/res/unit/ghost.plist
+SHA1-Digest: RYNNC/pJuGxe5QYpeeZGDPRa4B4=
+
+Name: assets/src/ui/ui/home/checkpoint/BuffShop.luac
+SHA1-Digest: VBG7XOBqi6U1PZ3vNnrBJFZjDUk=
+
+Name: assets/src/metadata/scenePlot/scenePlot300022.luac
+SHA1-Digest: Xy/Zx6Bc28Xx3qdJouswMzI61RE=
+
+Name: assets/res/ccs/loading.json
+SHA1-Digest: 8/XffBQwK4q4BmM8ukc/T8q5b/M=
+
+Name: assets/src/ConfigManifest.lua
+SHA1-Digest: PhHhYOOjtphzmAAGGRgiZbvcnbU=
+
+Name: assets/src/metadata/scenePlot/scenePlot300020.luac
+SHA1-Digest: QD3d/7naVhCyR6YsMCdfpA9nAls=
+
+Name: assets/res/ccs/new_army/detailed/lv_msx.png
+SHA1-Digest: LzBZuMLhZr0CBDcWxnC2xeebFNg=
+
+Name: assets/res/image/card/r_card_1.png
+SHA1-Digest: QoFvyXEgM1a9voZwkimarONq+lE=
+
+Name: assets/res/ccs/out.json
+SHA1-Digest: rvbUsxBvDEV3bFNmo0DkgCzCc3k=
+
+Name: assets/res/image/blood.pvr.ccz
+SHA1-Digest: myHFMc78Mp8CkvqvDY/faRQI8aA=
+
+Name: assets/res/ccs/home/golden_finger/vip/view_vip_on.png
+SHA1-Digest: LWW/M2lfs7QEf74T68LHj3a3cvA=
+
+Name: assets/res/image/card/r_card_6.png
+SHA1-Digest: zu8ItL0M5aKIFc3hvdV99GL2q+w=
+
+Name: assets/res/ccs/formation.json
+SHA1-Digest: /gozZlb+9fy0/NCXOTRuFxBO664=
+
+Name: assets/res/image/achievement/4_off.png
+SHA1-Digest: cC6FMHhfMwt+uBiH0H7YgjQuTOc=
+
+Name: assets/res/image/card/c_card_8.png
+SHA1-Digest: ZfDi2HpRlcRpXSL6/+RysAseupg=
+
+Name: assets/src/net/protocolConnector.luac
+SHA1-Digest: gudR37lE8cBPK76Y4cmwIJxAbYM=
+
+Name: assets/res/ccs/detailed.json
+SHA1-Digest: PcO0m4MG0X5IfH8/RnALlGFpVQU=
+
+Name: assets/res/ccs/main_interface.json
+SHA1-Digest: D0GZOmATHLuOLBdXlNhHGdjTyKM=
+
+Name: assets/res/image/soldier_name/corsair.png
+SHA1-Digest: PIIIUgkIvOdr8DUmzfzdqrmu8OQ=
+
+Name: assets/src/combat/user/skill/scout102032.luac
+SHA1-Digest: AQCKl4Im9Fj18hwEuE/YTw+fRAI=
+
+Name: assets/src/metadata/normalStage/normalStage300109.luac
+SHA1-Digest: zfJ9ca7WMgY0FFBt73LcJchP3CE=
+
+Name: assets/res/map/map06.tmx
+SHA1-Digest: DQQP1VqAKk6Dz85qbUrYqMbPszU=
+
+Name: assets/src/net/protocolHostInfo.luac
+SHA1-Digest: SbzGyvIlGsDdZ47ALoTlnNslZ28=
+
+Name: assets/src/metadata/normalStage/normalStage300060.luac
+SHA1-Digest: kSg5V/mSaxMVQLONSBnICDMqeXQ=
+
+Name: assets/src/engine/config.luac
+SHA1-Digest: ib2QRdqh22gvvXU6BL8xfGku5B8=
+
+Name: assets/src/metadata/skillAttr/skillAttr30004.luac
+SHA1-Digest: oDs/zAbisMGc/pc9xsbfWqE6S+s=
+
+Name: assets/res/sound/deadS/dragoon.mp3
+SHA1-Digest: TBNCh6+Q6AbZUsn5SUHvrUQsw9k=
+
+Name: assets/src/combat/user/memory/memory.luac
+SHA1-Digest: 2qsisXpHQDEm8Zyb1KeLXJE0dIg=
+
+Name: assets/res/ccs/typeface/receive_1.png
+SHA1-Digest: bC0SyIVxdwu6fMuoQkIyDErORkA=
+
+Name: assets/res/ccs/scientific_research/medium_technology.png
+SHA1-Digest: iyzGLeO6q7JNR1juwqO3t0X3vX0=
+
+Name: assets/src/metadata/normalStage/normalStage300025.luac
+SHA1-Digest: 6l0Gh5qZNrpJT0LnKwU1qWidO4Y=
+
+Name: assets/src/metadata/skillAttr/skillAttr101061.luac
+SHA1-Digest: GR0WlMYrX71V9NFy1wMuZEBQYag=
+
+Name: assets/res/ccs/battle_pause.json
+SHA1-Digest: 3Mn0q620Qu6Ftp3bcpFwkUd1gzs=
+
+Name: assets/src/combat/user/state/generic.luac
+SHA1-Digest: YjMU+DuZZ+s/9kKgMBl+k6s+9b0=
+
+Name: assets/res/ccs/typeface/unlock.png
+SHA1-Digest: uXZK9AdJHFUGzvpvFDRP5y6K7UA=
+
+Name: assets/res/ccs/typeface/stop_on.png
+SHA1-Digest: MDEIRurKqA4L5g9I1Dk/PzZ+il4=
+
+Name: assets/res/ccs/new_army/blue_button.png
+SHA1-Digest: vm/VNfSRnWxTrQlFv+e7XPSZhFs=
+
+Name: assets/res/particle/baozhu.png
+SHA1-Digest: DLVucILTWMvBMet66sOeaVJOzs0=
+
+Name: assets/res/image/card/s_card_2.png
+SHA1-Digest: rIGAL30Clz/PPffZAQJ0fsFVh68=
+
+Name: assets/res/unit/goliath.ExportJson
+SHA1-Digest: RAM6gr5ApHy2xAE69te77vKjkiA=
+
+Name: assets/src/combat/user/ai/ai.luac
+SHA1-Digest: tunKWDFZCUuopqqfxzmFtZvVm0o=
+
+Name: assets/res/image/achievement/4.png
+SHA1-Digest: iC/m+Y9NiythSr8GC7Gakl4/wFU=
+
+Name: assets/res/ccs/typeface/sweep_ten_on.png
+SHA1-Digest: ig2I2GMg4HpdbhTQeUhgZu8QBug=
+
+Name: assets/res/sound/TMaFi.mp3
+SHA1-Digest: QgDrsbqghjk9DabHDXbkVsHd36w=
+
+Name: assets/src/metadata/shop/shopMoney.luac
+SHA1-Digest: oh7pa076sbqOfYlbqREirltN9X8=
+
+Name: assets/res/ccs/image/retry_on.png
+SHA1-Digest: f7oVqFW59qqsFsMv0OPerYFb+yo=
+
+Name: assets/res/image/m_arrow.png
+SHA1-Digest: rbnsI5SP27nHQUK8U3G9YyN+UhA=
+
+Name: assets/res/ccs/home/earth.png
+SHA1-Digest: TCY5l+68zqE+U2t4rW2IQhPEdpc=
+
+Name: assets/res/sound/TVuDth00.mp3
+SHA1-Digest: /eEnb58y9EalJe2rqK2qYWaj0cw=
+
+Name: assets/res/ccs/typeface/elite_mode_on.png
+SHA1-Digest: trTQu9s1Y0PbSNOS7NLHWR/bIls=
+
+Name: assets/src/combat/module/gameData/dataMine.luac
+SHA1-Digest: 97IDWmPh9UVo4ssbKoYReL8Xgv0=
+
+Name: assets/src/ui/ui/home/institute/Institute.luac
+SHA1-Digest: GygNP15JqjEIpD+HJyKk1dM6jQQ=
+
+Name: assets/res/ccs/formation/card_floor.png
+SHA1-Digest: iJU5kD3z/QP3mjuZujw7EqfV9vM=
+
+Name: assets/res/unit/dragoon.ExportJson
+SHA1-Digest: fVoUwp5/7xBG0qJRKAMUmCOGtto=
+
+Name: assets/res/image/achievement/3.png
+SHA1-Digest: I+ijQ7GI+E0sxQQ/LWi0Ce7rDxA=
+
+Name: assets/src/combat/user/ai/ghost100080.luac
+SHA1-Digest: H3EFPLf2uRDwXQbw6WaNuNN0p+g=
+
+Name: assets/res/ccs/checkpoint/samsung_award/floor_s.png
+SHA1-Digest: g1dvJKLHAroSzHuEqndhuPj27KI=
+
+Name: assets/src/dataeye/DCCoin.lua
+SHA1-Digest: VjZXmmhEWpd6Lvne43bba9BErvI=
+
+Name: assets/res/image/frame/goods_orange.png
+SHA1-Digest: er7s24ulbLfUly620T4aBzvAJpo=
+
+Name: assets/res/ccs/diamond_store/25_on.png
+SHA1-Digest: ORgJ8Oy2Ug6GsEf+dE+98YrNoo8=
+
+Name: assets/res/map/map304.tmx
+SHA1-Digest: 4hS6DqLZmTQpiLIfokXVWg+nM3c=
+
+Name: assets/res/ccs/shop/shop_package/floor.png
+SHA1-Digest: qxj9scoxLk3dJfMTFlmQZy3yIes=
+
+Name: assets/src/metadata/skillAttr/skillAttr30304.luac
+SHA1-Digest: U9IiDLg/jsTgrPbp7cNPRovK5I8=
+
+Name: assets/src/combat/user/state/assault.luac
+SHA1-Digest: Rb13WqS2rI3cmaRhM/0suVlrG6c=
+
+Name: assets/src/metadata/scenePlot/scenePlot300014.luac
+SHA1-Digest: tVKubOcylHnqB+nRCxuSh6mwv4k=
+
+Name: assets/res/ccs/gld_fig_congratulation.json
+SHA1-Digest: fTy3E5mswdKapV6lSIlO+2/yHPs=
+
+Name: assets/res/ccs/formation/start_fighting.png
+SHA1-Digest: nlgbG+/kHfG45VC/Z4+Q1iPxWTw=
+
+Name: assets/src/metadata/checkpointConfig/checkpointConfig.luac
+SHA1-Digest: vAw80QnaoNwbhrHr9MBlc5mln6Q=
+
+Name: assets/res/ccs/land/terran_invincible/button_off.png
+SHA1-Digest: tk/NP7vJ2e0RYPnTqf3Ea6U6fdc=
+
+Name: assets/src/metadata/FO/functionOpen.luac
+SHA1-Digest: IHzS8y/C8yqjoBhN42jDUYO2Hbc=
+
+Name: assets/src/ui/ui/common/RoleUpgrade.luac
+SHA1-Digest: 3l7c/lDWtF11ZJQp5sTeDiUMnAQ=
+
+Name: assets/src/ui/ui/home/checkpoint/CheckpointSweep.luac
+SHA1-Digest: O6c8zpWu5QyK3uGjwaycqM+Dank=
+
+Name: assets/res/ccs/battle/heroic_rewards/reward.png
+SHA1-Digest: voeFzW5jLl9fBy/HR8DrRJS/DhU=
+
+Name: assets/res/ccs/package/first/acer.png
+SHA1-Digest: MDqE4CG2cBNjsyGrZ0nA02EcTqI=
+
+Name: assets/res/ccs/package/first/button_on.png
+SHA1-Digest: xhbKb4TXEXOXFtFisGffOzaegOw=
+
+Name: resources.arsc
+SHA1-Digest: TrOTD9JDnMOyZXfajPkxQF5ln6o=
+
+Name: assets/res/ccs/formation/canon_icon.png
+SHA1-Digest: ePu+u4v/fqlTwKM0zfTgf0nk/p8=
+
+Name: assets/src/combat/api/actor/ui.luac
+SHA1-Digest: P9w4f5xOTrDtj9W/WPiy0cY4tGA=
+
+Name: assets/res/sound/skillS/lurker (52).mp3
+SHA1-Digest: SuJ9h6fQy9J4yvZ1xZLHCiw5v7c=
+
+Name: assets/src/combat/class/opNode.luac
+SHA1-Digest: jDSEyIUJ0vCyzRtrPjOSpcZ3IR0=
+
+Name: assets/res/ccs/checkpoint/level_introduction/floor_2.png
+SHA1-Digest: G/gwHTVkTKWADnEc7duWOVZmJRE=
+
+Name: assets/res/ccs/checkpoint/level_introduction/sweep/floor_2.png
+SHA1-Digest: shXzMbwuW4a7SzFHTzhCYjpR53Y=
+
+Name: assets/res/ccs/main_interface/sound_on.png
+SHA1-Digest: JruwGYwNRboaH6gGnxT+dk88KD0=
+
+Name: assets/res/ccs/typeface/play_game_on_long.png
+SHA1-Digest: mzZl/27V9+T58Szng4yi0TYlU5Y=
+
+Name: assets/res/sound/deadS/corsair.mp3
+SHA1-Digest: XJf+Eq3YkNUwPbfowEjLgNGsAXI=
+
+Name: assets/src/ui/ui/home/player/PlayerMain.luac
+SHA1-Digest: 2VsPtuvXEsyBV7Ka83EKbVWrvRY=
+
+Name: assets/res/image/rank_cnt/7.png
+SHA1-Digest: mi6JmUS0OxWjVCngX24CQRozkBE=
+
+Name: assets/res/ccs/new_army/detailed/right_floor.png
+SHA1-Digest: 1z+SB6kXRbSE3lQV+pmmcNsX4Gg=
+
+Name: assets/res/particle/bigwin_blowout_2.png
+SHA1-Digest: VDGKPY0RFJsicoyqIfeLLh76Dpg=
+
+Name: assets/res/image/loadingSprite.pvr.ccz
+SHA1-Digest: f8yfFfHW1wJfFhMIIQhbfLorNzE=
+
+Name: assets/res/ccs/home/golden_finger/vip/view_vip.png
+SHA1-Digest: dS4A45Tx4KPCon/QPxmnzIs87uY=
+
+Name: assets/res/ccs/typeface/chetui_on.png
+SHA1-Digest: OZYpI50/XhDrMRy5Dr+EZ62prxU=
+
+Name: assets/res/image/card/r_card_5.png
+SHA1-Digest: XBTYyPh4oa9YYI+sgDiRjJCN8s8=
+
+Name: assets/res/ccs/image/Gold_iocn.png
+SHA1-Digest: VKxLB/7Fp/ga1U31er2Hm/3Q4zc=
+
+Name: assets/res/unit/SpiderMine.pvr.ccz
+SHA1-Digest: UYMyaXXps5hZiq1Ir0xHHjmH7Rk=
+
+Name: assets/res/ccs/homeScene.json
+SHA1-Digest: GMTvay0PooBB6o64D+hHKRSUOck=
+
+Name: assets/src/ui/ui/common/out.lua
+SHA1-Digest: HnTPitOUSA67Wih7O34UShkd0uA=
+
+Name: assets/src/metadata/normalStage/normalStage300071.luac
+SHA1-Digest: 9MlBOPsXCLdBm6+jxubTtifo5/c=
+
+Name: assets/src/metadata/unitNum/unitNum100020.luac
+SHA1-Digest: dfue3MIJpEh4H8KLaS+Hh643Ihs=
+
+Name: assets/res/ccs/typeface/garrison_off.png
+SHA1-Digest: XKk8FNSoBc0z1TgictFqUpU+Jok=
+
+Name: assets/res/ccs/typeface/y_continue_on.png
+SHA1-Digest: aOJUpi4a+1XvLuw9tGCXsC/IMCM=
+
+Name: assets/src/combat/user/buff/buff40008.luac
+SHA1-Digest: +gzG0UMcLXlnmrNDUZR8fLRXbqo=
+
+Name: assets/res/ccs/image/exp_floor.png
+SHA1-Digest: bPQzGO+xf/9azAKW9rXQPVdXIBk=
+
+Name: assets/res/ccs/checkpoint/samsung_award/chest.png
+SHA1-Digest: wtSQw0tmqRuJhhNQn9eQV75vftw=
+
+Name: assets/src/metadata/unitNum/unitNum102050.luac
+SHA1-Digest: aoISv15nm5Hq+wYEfrahdcaO/fQ=
+
+Name: assets/src/metadata/normalStage/normalStage300078.luac
+SHA1-Digest: YPlwfm+0+cheq9CzurUEsvKhghk=
+
+Name: assets/res/fonts/skill_count.png
+SHA1-Digest: M2sfJA/sDxrRw9hE4b8Qg349/rE=
+
+Name: assets/src/combat/user/skill/0selfDestruction.luac
+SHA1-Digest: cnfiFoNLi1mkRt1m4sojl7Th34E=
+
+Name: assets/res/sound/PSaHit00.mp3
+SHA1-Digest: /GbF/aPFLrZGQehG9m0WWexn+kU=
+
+Name: assets/res/ccs/shop/general_store/floor_2.png
+SHA1-Digest: uGufTs3h+U+CCxvNMMNCbgXrjbQ=
+
+Name: assets/res/map/res/192_192.png
+SHA1-Digest: 2dmKXYCGQqOtbhMhdajoxAXccxY=
+
+Name: assets/src/combat/user/buff/buff40003.luac
+SHA1-Digest: +uEol3iRB9MN7wR7DoE0ifsZDIw=
+
+Name: assets/src/enum/Status.luac
+SHA1-Digest: zv1C/NHt4CYj3IujylEbPH3y4Yg=
+
+Name: assets/src/combat/auxlib/co.luac
+SHA1-Digest: llrSZjWu28xMyMBF7SLRb2DhMl4=
+
+Name: assets/src/metadata/normalStage/normalStage300079.luac
+SHA1-Digest: jSmAfwbsDx4+qhP9gGjQDfxYJgI=
+
+Name: assets/src/metadata/normalStage/normalStage300107.luac
+SHA1-Digest: lrm5q3a9GIdmDFxu7C3XK815yaY=
+
+Name: assets/res/unit/marine.ExportJson
+SHA1-Digest: XkXCif+DHitPAjOPPQukoEL3w9E=
+
+Name: assets/src/engine/cocos/framework/audio.luac
+SHA1-Digest: LhYRhDIZxx0c+aCpwbir/S7YGFg=
+
+Name: assets/src/preload.luac
+SHA1-Digest: WgXJy09shthAl9Ne7ZIE7eQvxV0=
+
+Name: assets/res/image/card/c_card_4.png
+SHA1-Digest: t0WQlZkdtqdBXJ8KhtJd24XNWbU=
+
+Name: assets/src/engine/cocos/framework/extends/UICheckBox.luac
+SHA1-Digest: D3Z3aq1HXIbqOP2jInCUQbkvnb8=
+
+Name: assets/src/metadata/unitNum/unitNum102020.luac
+SHA1-Digest: 9PH9h/Q7LJwRTO/OBWVLD/LTgnI=
+
+Name: assets/res/ccs/main_interface/music_off.png
+SHA1-Digest: nCT7Y5XqvcDCeTqNlm1B18EvWPE=
+
+Name: assets/src/ui/ui/home/GoldFinger.luac
+SHA1-Digest: L/tG5ZwhtQtwVQUKV0JpVplwrWQ=
+
+Name: assets/res/image/frame/mask_icon.png
+SHA1-Digest: qFFN3RgVT2pqAxdUmJDUlEeFwvA=
+
+Name: assets/src/metadata/normalStage/normalStage300100.luac
+SHA1-Digest: UEzUn/VD5vRVp5seYoNJG9ZUUMo=
+
+Name: assets/res/ccs/battle/data_statistics/data_bar.png
+SHA1-Digest: 3UDALR6nOwL6DtTMoZJojFNPJe0=
+
+Name: assets/res/ccs/image/general_background_mask.png
+SHA1-Digest: IY2iM3Xq73s2PU6fpqBl3PSd+Go=
+
+Name: assets/res/unit/SpiderMine.ExportJson
+SHA1-Digest: 6GVX1sE3Wg9/9scjvOZY9/sMws4=
+
+Name: assets/res/image/redACMT.png
+SHA1-Digest: 41PwzTK+kNEr3/Qevnm5c36fM4Q=
+
+Name: assets/res/image/soldier_name/ryuki.png
+SHA1-Digest: IrcsHSll7DbObWWXEUGpjxxxOak=
+
+Name: assets/src/metadata/TipText.luac
+SHA1-Digest: GWxE3BF2DfkEOOpVX5Au/BlHM2o=
+
+Name: assets/res/sound/deadS/siencevessel.mp3
+SHA1-Digest: hmhLS1jg2YPoTAh/LjdghbVyTuc=
+
+Name: assets/res/map/map01.tmx
+SHA1-Digest: Bvs0PnifE85rjPSbZZLvaQ5fgUQ=
+
+Name: assets/src/combat/class/airDrop.luac
+SHA1-Digest: O6HyX6aE3ZI0K1SaHMn47B+jU3w=
+
+Name: assets/src/metadata/normalStage/normalStage300050.luac
+SHA1-Digest: 0cNU28Sg0MqC4uKGVpcBb1RxRwc=
+
+Name: assets/res/ccs/typeface/item_shop.png
+SHA1-Digest: Ud7wXrDuDB67yAY5c6VYgVKLQAo=
+
+Name: assets/src/engine/cocos/extension/ExtensionConstants.luac
+SHA1-Digest: HKvkYh3r+Wu2fMGTb2LFvZ6UqSM=
+
+Name: assets/src/metadata/unitNum/unitNum100050.luac
+SHA1-Digest: cSbiLXFEYn4F3qolfNJhLHnC5K0=
+
+Name: assets/src/metadata/normalStage/normalStage300097.luac
+SHA1-Digest: pFx3J0sVRe+w4ESim/gk2faF4s4=
+
+Name: assets/res/ccs/image/left.png
+SHA1-Digest: c5ZBqjaVMynTUSqH+nNttlJmcYk=
+
+Name: assets/res/ccs/package/first/floor.png
+SHA1-Digest: DICuc4s1L5qvyyq5idsqbvvxa5k=
+
+Name: assets/src/combat/user/skill/mutalisk30302.luac
+SHA1-Digest: Plm8/1VLBxMmHuZJhWaDzY94608=
+
+Name: assets/res/image/chapter/map_level_2.png
+SHA1-Digest: +sMyFAV7VQjy+ydjwEDzLSbxDzU=
+
+Name: assets/res/ccs/typeface/upgrade_off.png
+SHA1-Digest: Z+ruHc1+2zcvBE1Dk4c1M8LUwUE=
+
+Name: assets/res/image/plist/goods.plist
+SHA1-Digest: GI2sc9pu0tqdR26Pi+cv0H3x4BE=
+
+Name: assets/src/engine/cocos/cocostudio/DeprecatedCocoStudioFunc.luac
+SHA1-Digest: QIIJFosM60c9sT+eu4mKrJC9/bs=
+
+Name: assets/res/sound/deadS/scourge.mp3
+SHA1-Digest: X+dbOXSemDBcY+OBDr24iJyJ63A=
+
+Name: assets/res/ccs/battle/pause/exit_off.png
+SHA1-Digest: awT/PBSGH1WRH7KbIsi0cPRumPc=
+
+Name: assets/res/ccs/new_army/research.png
+SHA1-Digest: V46jsT3RMaL6kHqgRShPgfnL+xI=
+
+Name: assets/src/combat/user/skill/queen101061.luac
+SHA1-Digest: 9zMotWOGbiqjz1IoL7UwsBF+J38=
+
+Name: assets/res/ccs/typeface/item_shop_off.png
+SHA1-Digest: LIJHMowp8sIOJaLGXUxSzJpFEtY=
+
+Name: assets/res/ccs/formation/battle/button_on.png
+SHA1-Digest: 7hSFiG8U7/6gng7TBuZ5gY2KPf4=
+
+Name: assets/res/ccs/battle/heroic_rewards/blue_board_on.png
+SHA1-Digest: HQTSExlzn5waSSxKKHvq52SagB8=
+
+Name: assets/res/image/chapter_point/11.png
+SHA1-Digest: HqSPe5r5TKltHWA532qopQrybDM=
+
+Name: assets/res/ccs/formation/attack_speed_buff.png
+SHA1-Digest: efsl+Av8eXHQ4ZrUKZvDpxmSTPs=
+
+Name: assets/src/metadata/skillAttr/skillAttr5001.luac
+SHA1-Digest: FucAIvONUVCdIfmofn3kJBw68yY=
+
+Name: assets/src/ShaderRes/vertDefaultSource.luac
+SHA1-Digest: j78rnAAPR0cQv4/XdCa/Y1L3c+8=
+
+Name: assets/src/combat/user/skill/nbomb99999.luac
+SHA1-Digest: zRSRD0+Q6JpU0SGPXjgxSxrBGeo=
+
+Name: assets/res/ccs/typeface/retreat_on.png
+SHA1-Digest: yMm0xpbu07tqkccQAchuGiM9FTs=
+
+Name: assets/res/ccs/typeface/buy_physical.png
+SHA1-Digest: /W5GTjBAf8m/+19Swr8vE3+Ea2o=
+
+Name: assets/res/ccs/typeface/modify_Avatar_on.png
+SHA1-Digest: nKkQ8oX3ChKxmq7mO+4Yh+FPNYQ=
+
+Name: assets/res/ccs/scientific_research/big_technology.png
+SHA1-Digest: siGc7jKR+V6f+6RDIgoZOcfHzyo=
+
+Name: assets/src/metadata/scenePlot/scenePlot300016.luac
+SHA1-Digest: n2Hpu1n7z1XjE3+zPUR5BhMW//U=
+
+Name: assets/res/ccs/scientific_research/p_2.png
+SHA1-Digest: No/1G/8apWM6/HXbk7/0MXtn6Lg=
+
+Name: assets/res/ccs/main_interface/LV.png
+SHA1-Digest: 6eQ29mLadCiRtFdEZkHLmoKrpNM=
+
+Name: assets/src/metadata/scenePlot/scenePlot300017.luac
+SHA1-Digest: NIsshKJVCKqUhEFVb2twbb0JPeg=
+
+Name: assets/res/image/achievement/5_off.png
+SHA1-Digest: 2MGyiGxY8c9BTFYd1lMhl8eomnw=
+
+Name: assets/src/ui/ui/battle/BattleMain.luac
+SHA1-Digest: 5XFEMnvHQThOZXMdSreyoNkRDkI=
+
+Name: assets/res/image/crit.png
+SHA1-Digest: migeeek0m9LvjiG9PXuw3kIEoCo=
+
+Name: assets/src/ui/ui/endless/EndlessRecruit.luac
+SHA1-Digest: Kh54QpkCAfOXBFxXzqZmPySKeII=
+
+Name: assets/src/ui/ui/home/GiftBag.lua
+SHA1-Digest: nYRj8e0iHsZC4U5sB0yDXeEHnUw=
+
+Name: assets/res/unit/reaver.ExportJson
+SHA1-Digest: 5iRoaO1WbR1x0wQPBF5ZIj6o3xs=
+
+Name: assets/src/metadata/normalStage/normalStage300082.luac
+SHA1-Digest: dG9fIPnTOjfx/o37SgKK3HnKtDY=
+
+Name: assets/res/sound/TTaFir00.mp3
+SHA1-Digest: D9kNJ34BL5fy7d+48Hz3Win4mVc=
+
+Name: assets/res/ccs/typeface/determine_off.png
+SHA1-Digest: aht4mJ/cCyqNNtKWgg7aZ7Bqyzg=
+
+Name: assets/res/unit/lurker.pvr.ccz
+SHA1-Digest: g8rtxx5IFDIC/agP8nVHOpiCY7A=
+
+Name: assets/res/ccs/endless/main_interface/star/dekaron.png
+SHA1-Digest: OWO9tKlu9kT8mQCDpr6Qo32TZ+I=
+
+Name: assets/res/ccs/manual/floor.png
+SHA1-Digest: xshfAMExFtiiL6uHKN7aaTpZqzE=
+
+Name: assets/res/sound/deployS/medic.mp3
+SHA1-Digest: 1SHMlo2RjbiCL4eiHWjTjdg+LeQ=
+
+Name: assets/src/net/protocol.luac
+SHA1-Digest: ISz9UMHolk18+iqxVKX7HY8WkmY=
+
+Name: assets/res/ccs/typeface/use_off.png
+SHA1-Digest: /12rBXOfgDBx1sQvkXPBlcMi5Zw=
+
+Name: assets/src/engine/cocos/framework/extends/NodeEx.luac
+SHA1-Digest: eDA/or2ybKp7sQVjXt7PsfbKDZ4=
+
+Name: assets/res/sound/Tfrhit.mp3
+SHA1-Digest: lifpciaWDUhclx87OCHc7wDEO8Q=
+
+Name: assets/res/ccs/main_interface/change_button.png
+SHA1-Digest: NvD+yIbybvUSdl4A7QKxwyaTgiI=
+
+Name: assets/res/ccs/unlock_card.json
+SHA1-Digest: n8UJaO6JUpiItVkwaKv9deWI8No=
+
+Name: assets/res/ccs/scientific_research/floor.png
+SHA1-Digest: 78Z0Pi4HE3eBRXDZasWvpPRI9Zk=
+
+Name: assets/src/ui/ui/home/checkpoint/ChapterTaskGift.luac
+SHA1-Digest: L9yeTo7qjA5iRZjEihFg3mzBhJI=
+
+Name: assets/src/combat/user/skill/valkyrie100091.luac
+SHA1-Digest: OUsFJ92KnCal+WN0HaiFnSl2czs=
+
+Name: assets/src/metadata/normalStage/normalStage300102.luac
+SHA1-Digest: JPOOCRu3rakyS/JHM9iUoYo2V9k=
+
+Name: lib/armeabi/gdbserver
+SHA1-Digest: gJxE9kzomHTlWtlBS6FjfMAq0Hk=
+
+Name: assets/res/image/card/c_card_2.png
+SHA1-Digest: GPdG+WHpIheeA4ePlqeroWtxSB8=
+
+Name: assets/res/image/soldier_name/dragon.png
+SHA1-Digest: mp7C94XJVdliL4DAa+YHwlbcRro=
+
+Name: assets/res/ccs/checkpoint_congratulations.json
+SHA1-Digest: GvW1qnFA+AHZmekxBo56XCIQQn4=
+
+Name: assets/src/metadata/normalStage/normalStage300030.luac
+SHA1-Digest: DDDz4DWLO0XUmqBFnA1CPxrkFjE=
+
+Name: assets/res/sound/deployS/ghost.mp3
+SHA1-Digest: beudNM575f31sL69+DRUaV4qFw0=
+
+Name: assets/res/image/waitSprite.pvr.ccz
+SHA1-Digest: hb0uthi7y2KWqe9wj4JWuSf7AXY=
+
+Name: assets/res/ccs/confirm_package.json
+SHA1-Digest: 3kV2eqIf5gYXbQHE4CglVT+1fxc=
+
+Name: assets/res/unit/scourge.pvr.ccz
+SHA1-Digest: 9ULzMi8cgSl22CygyIE4UlQbuCM=
+
+Name: assets/src/metadata/normalStage/normalStage300034.luac
+SHA1-Digest: +c1UK5ZTMJMK/nRnhAAgNuLAWf4=
+
+Name: assets/res/ccs/checkpoint/level_introduction/sweep/floor.png
+SHA1-Digest: IYktxNPyjftVxLn078zg9kI3Geg=
+
+Name: assets/src/ui/ui_pre/effect_manager.luac
+SHA1-Digest: rUt1VXmQTaw+N/QM3OKZF71rAOg=
+
+Name: assets/res/sound/PTeSto00.mp3
+SHA1-Digest: v4QeyUiTYIiP/2swa6f+ftSvLYs=
+
+Name: assets/res/ccs/checkpoint/select_checkpoint/box.png
+SHA1-Digest: 1vLjmX85102jMHFj2lZghsDgdMQ=
+
+Name: assets/res/image/card/c_card_7.png
+SHA1-Digest: h8OZXFsye1GZ2Cu3MYKNCq6GZAE=
+
+Name: assets/res/image/card/r_card_3.png
+SHA1-Digest: vIR6ma0F9hHnygjw07K3CsJMivg=
+
+Name: assets/src/metadata/unitNum/unitNum102030.luac
+SHA1-Digest: VqjjnOYDCBtUOmJ2xppodskq6D4=
+

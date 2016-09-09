@@ -1,0 +1,65 @@
+package com.u8.sdk.plugin;
+
+import com.u8.sdk.IAdvertising;
+import com.u8.sdk.PluginFactory;
+
+/***
+ * 广告插件
+ * @author OuZeBo
+ *
+ */
+public class U8Advertising {
+	private static U8Advertising instance;
+		
+	private IAdvertising adPlugin;
+		
+	private U8Advertising() {
+		
+	}
+	
+	public void init(){
+		this.adPlugin = (IAdvertising) PluginFactory.getInstance().initPlugin(IAdvertising.PLUGIN_TYPE);
+	}
+	
+	public static U8Advertising getInstance(){
+		if(instance == null){
+			instance = new U8Advertising();
+		}
+		
+		return instance;
+	}
+	
+	/**
+	 * 是否支持某个方法
+	 * @param method
+	 */
+	public boolean isSupport(String method){
+		if(adPlugin == null){
+			return false;
+		}
+		return adPlugin.isSupportMethod(method);
+	}
+	
+	
+	/***
+	 * 横幅广告接口
+	 * @param appID、appKey、unitID
+	 */
+	public void bannerAd() {
+		if(this.adPlugin == null){
+			return;
+		}
+		adPlugin.showBannerAd();
+	}
+	
+	/***
+	 * 插页广告接口
+	 * @param appID、appKey、unitID
+	 */
+	public void interstitialAd() {
+		if(this.adPlugin == null){
+			return;
+		}
+		adPlugin.showInterstitialAd();
+	}
+}

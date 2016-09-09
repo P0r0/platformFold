@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.morefun.xsanguo.vivo" platformBuildVersionCode="20" platformBuildVersionName="4.4W.2-1537038" android:installLocation="preferExternal" android:theme="@android:style/Theme.NoTitleBar">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true" />
+    <application android:allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.u8.sdk.U8Application">
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.u8.sdk.test.MainActivity" android:screenOrientation="nosensor">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data android:name="APP_MONITOR_APPID" android:value="b1002c" />        
+        
+        
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/vivo_app_name" android:name="com.vivo.sdkplugin.activity.LoginActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.ChangePassWordActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.BindQuestionActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.BindPhoneActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.GameInfoMoreListActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.vivo.sdkplugin.activity.AccountPersonalCenterActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.AccountAssistWebViewActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.FindpwdVerifyPhoneNumActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.LoginDialogActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.UserFeedBackActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.SetpwdActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.RegisterEmailActiviy" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.RegisterActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.PhoneRegisterCommitActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.RegisterOneKeyActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent" android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.VerifyPhoneNumActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.FindPasswordActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.SetPassWordActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.RegisterProtocolActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.CommitUserIdentifyActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.CommitUserContactActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.StrategyDetailActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.SubAccountActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.SubAccountEditActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.SubAccountEditCommitActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.vivo.sdkplugin.activity.SubAccountAddCommitActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.bbk.payment.dealRecord.VivoDealRecordActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.bbk.payment.dealRecord.VivoDealRecordDetailActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="" android:name="com.bbk.payment.PaymentActivity" android:screenOrientation="portrait" android:theme="@style/pop_full_view">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="" android:name="com.bbk.payment.PaymentRechargeActivity" android:screenOrientation="portrait" android:theme="@style/pop_full_view">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="" android:name="com.bbk.payment.SelectMoreChannelActivity" android:screenOrientation="portrait" android:theme="@style/pop_translucent_full_view">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="" android:name="com.bbk.payment.TicketActivity" android:screenOrientation="portrait" android:theme="@style/pop_translucent_full_view">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:allowTaskReparenting="true" android:configChanges="keyboardHidden|orientation" android:label="" android:name="com.bbk.payment.PaymentActionActivity" android:noHistory="true" android:screenOrientation="portrait" android:taskAffinity="com.bbk.payment.PaymentActionActivity" android:theme="@style/pop_view">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		
+		
+        <activity android:name="com.bbk.payment.CardActivity" android:screenOrientation="portrait" android:theme="@style/vivo_animation_transparent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bbk.payment.RechargeChoiceActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bbk.payment.PaySuccActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bbk.payment.JCardActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bbk.payment.DetectPayResultActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bbk.payment.PayContinueActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bbk.payment.RechargeFailActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bbk.payment.PaymentDetailsActivity" android:noHistory="true" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+        </activity>
+        <activity android:configChanges="orientation|keyboardHidden|screenSize" android:excludeFromRecents="true" android:name="com.unionpay.uppay.PayActivity" android:screenOrientation="portrait" android:windowSoftInputMode="adjustResize">
+        </activity>
+        <activity android:configChanges="orientation|keyboardHidden|navigation" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden">
+        </activity>
+        <activity android:configChanges="orientation|keyboardHidden|navigation" android:exported="false" android:name="com.alipay.sdk.auth.AuthActivity" android:screenOrientation="behind">
+        </activity>
+        <activity android:name="com.bbk.payment.tenpay.VivoQQPayResultActivity" android:screenOrientation="portrait" android:theme="@style/pop_view" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/bbk_app_name" android:name="com.bbkmobile.iqoo.payment.PaymentActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.bbkmobile.iqoo.payment.CardActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.bbkmobile.iqoo.payment.tenpay.VivoQQPayResultActivity" android:screenOrientation="portrait" android:theme="@style/pop_view" android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <service android:enabled="true" android:name="com.vivo.sdkplugin.accounts.LocalService" />
+        <service android:enabled="true" android:name="com.vivo.sdkplugin.accounts.LogWatcherService" />
+        <service android:exported="true" android:name="com.vivo.assist.AssistService">
+            <intent-filter>
+                <action android:name="com.vivo.assist_manager_service" />
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.vivo.sdkplugin.service.VivoAccountService">
+        </service>
+        <receiver android:name="com.vivo.sdkplugin.accounts.SendMsgReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.SENT_SMS_ACTION" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.vivo.sdkplugin.accounts.ManageAccountReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.vivo.plugin.aidl.LoginAccInfoService">
+            <intent-filter>
+                <action android:name="com.vivo.plugin.aidl.service" />
+            </intent-filter>
+        </service>
+     	<receiver android:name="com.vivo.sdkplugin.accounts.VivoApkInstallRecevier">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.vivo.sdkplugin.accounts.VivoIThemeChangeRecevier">
+            <intent-filter>
+                <action android:name="com.android.settings.font_size_changed" />
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="intent.action.theme.changed" />
+                <action android:name="android.intent.action.FONT_CONFIG_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.bbkmobile.iqoo.payment.util.ManagePamentReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        
+        
+    <meta-data android:name="ulog.level" android:value="DEBUG" /><meta-data android:name="ulog.local" android:value="true" /><meta-data android:name="ulog.remote_url" android:value="http://192.168.18.9:8080/" /><meta-data android:name="ulog.remote" android:value="true" /><meta-data android:name="ulog.remote_interval" android:value="1000" /><meta-data android:name="ulog.enable" android:value="true" /><activity android:exported="true" android:launchMode="singleTop" android:name="com.morefun.xsanguo.vivo.wxapi.WXPayEntryActivity" android:theme="@style/pop_view" android:windowSoftInputMode="stateAlwaysHidden" /><activity android:exported="true" android:launchMode="singleTop" android:name="com.morefun.xsanguo.vivo.wxapi.WXSPayEntryActivity" android:theme="@style/pop_view" android:windowSoftInputMode="stateAlwaysHidden" /><meta-data android:name="U8_LOGIN_GAME_URL" android:value="http://192.168.18.9:8080/user/loginServer" /><meta-data android:name="U8_ORDER_URL" android:value="http://192.168.18.9:8080/pay/getOrderID" /><meta-data android:name="U8_ORDER_SIGN_TYPE" android:value="RSA" /><meta-data android:name="U8_SECRET_KEY" android:value="7513a2c235647e3213538c6eb329eec9" /><meta-data android:name="U8_PRIVATE_KEY" android:value="MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAO0m9rBaOFCEj4ncScPeC+6H63XMHhs4xb08lR2TbthAPKIZV3jZB0cuh91M3XJcpdhlHUGbLhbWlmG5xKgN1Lt8Z+QoebfNEyyKM06I9YeDSykwRyEjhhOUgLjeIVV3NI8T/awhl+tb/0yyld+5aoXJKxOx/pzqolzoDRs0omEzAgMBAAECgYBGzwt5PHb0E6CIGS4tPW9ymULEuV2D4z+ncR9U5WCDUSrJe6eSfbqellYazYiRTPh31DkYDa2FRC1CoKUHSJnrjeNR2TMw0WUBFvNcqYe2qOJZg3iOhyUDhIChhQiWWC9VrzAvqSU6tuyKGMy5rAWbfTneEnL7NHsTgRRDC+0JAQJBAPlRGW6T4TnRBtbOpRcMU+jdCyJAK3zwuRO13alhexDLq105D1osg2uP1d3+XvTQudwCGo1qRfBSp/W72fynz5kCQQDzgmLyxGzO1rugtJNMLQTqsRGg8ZUoUPmsEVGbmnHwRzd2OGHWbT1JuIEEb+ivrZV3PfeEObv7fDAT6qIhyiarAkAcd4ka2iG+U0KfpkqtXgf6r7qEt6T/iBDp0js0CuBdY5P2efxpxGlhD7RQu6ml9Gs0Vr0nZnoD3bw1z7QtKBAJAkBiqBjesqZCxs0NtxtWaYbsbwDta/M6elQtWnbtzA0NhEz8IKvC7E9AZvgejBiB1JoRzZFSiPGYWiBAcXduqTAxAkEAqG24ePhjesKoF1Us2ViqgJC7zDd96v+LI5eausw3TfKjO4jj5oMoQiyc+hZFxHYlkyZRfA6XEraF1Rdgngf65w" /></application>
+<uses-permission android:name="com.bbk.account.permission.READ_ACCOUNTINFO" />
+    <uses-permission android:name="com.bbk.account.permission.WRITE_ACCOUNTINFO" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES" />
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.REAL_GET_TASKS" />
+    <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES" />
+    <uses-permission android:name="android.permission.REORDER_TASKS" /> 
+        
+    </manifest>

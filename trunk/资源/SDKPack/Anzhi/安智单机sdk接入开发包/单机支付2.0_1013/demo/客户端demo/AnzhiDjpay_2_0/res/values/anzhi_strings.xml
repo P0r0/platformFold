@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">单机支付2</string>
+    
+    
+    <!-- SDK 所需要的 -->
+    <string name="azdj_cancle_pay">取消支付</string>
+    <string name="azdj_goon_pay">继续支付</string>
+    <string name="azdj_pay_content">支付未完成，是否要退出？</string>
+    <string name="azdj_pay_tip">提示</string>
+    <string name="azdj_pay">支付</string>
+    <string name="azdj_Com_name">商品名称：</string>
+    <string name="azdj_Com_amount">商品金额：</string>
+    <string name="azdj_alipay_pay">支付宝支付</string>
+    <string name="azdj_union_pay">银联支付</string>
+    <string name="azdj_weixin_pay">微信支付</string>
+    <string name="azdj_choose_pay">请选择支付方式</string>
+    <string name="azdj_lm_pay">立即支付</string>
+    <string name="azdj_title_pay_center">安智支付中心</string>
+
+</resources>

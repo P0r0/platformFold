@@ -1,0 +1,8 @@
+步骤：
+1.替换游戏libs目录中的com.gionee.game.offlinesdk.jar文件
+2.替换游戏assets\gionee目录中的Amigo_Play.apk文件
+
+解决不了的问题请在接入讨论组发出来。
+
+
+**请厂商务必及时升级为最新版，否则可能导致审核不通过**

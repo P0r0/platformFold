@@ -1,0 +1,13 @@
+步骤：
+1.替换游戏libs目录中的com.gionee.gsp.jar文件
+2.替换游戏assets\gionee目录中的Amigo_Play.apk文件
+
+注意：
+升级unity3d引擎开发的游戏时，请将com.gionee.gsp.jar解压，将assets目录下的文件拷贝到游戏的assets目录下。
+
+
+重要：
+1.升级sdk只需替换com.gionee.gsp.jar和Amigo_Play.apk，不用修改代码。
+2.接过老版本SDK的游戏（使用了userId作为用户唯一标识的游戏），务必不要动老的接口，如果动了，会导致老用户数据丢失。
+
+**请厂商务必及时升级为最新版，否则可能导致审核不通过**

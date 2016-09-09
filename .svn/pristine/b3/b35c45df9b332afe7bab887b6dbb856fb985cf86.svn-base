@@ -1,0 +1,7 @@
+1、我们目前采用的是3DES加密中的ECB模式，在我们demo中有java语言、PHP语言、C#语言写的加解密样例。
+2、如果游戏服务端是PHP开发的，则需要安装 php mcrypt模块，这是一个封装好的加密解密扩展库；
+3、3DES的加密 key，是我们分配给应用的app secret，app secret 与app id一一对应。
+4、CBC模式下，需要IV，IV值设定为空字符串即可。
+5、c++ 3DES加解密事例参考：http://blog.csdn.net/fengbingchun/article/details/42611875
+
+注：代码里面包括加密解密函数的实现；

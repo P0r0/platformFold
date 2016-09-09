@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btn_pay_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0.02元" >
+    </Button>
+
+    <Button
+        android:id="@+id/btn_pay_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1元" >
+    </Button>
+
+    <Button
+        android:id="@+id/btn_pay_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2元" >
+    </Button>
+
+    <Button
+        android:id="@+id/btn_pay_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5元" >
+    </Button>
+    <Button
+        android:id="@+id/btn_pay_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10元" >
+    </Button>
+    <Button
+        android:id="@+id/btn_pay_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="不定额支付" >
+    </Button>
+
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="azdj_494949">#494949</color>
+    <color name="azdj_6e6e6e">#6e6e6e</color>
+    <color name="normal_color">#ffffff</color>
+    <color name="azdj_2b2b2b">#2b2b2b</color>
+    <color name="azdj_999999">#999999</color>
+    <color name="azdj_b2b2b2">#b2b2b2</color>
+    <color name="azdj_cfcfcf">#cfcfcf</color>
+    <color name="azdj_e5e5e5">#e5e5e5</color>
+    <color name="azdj_00000000">#00000000</color>
+    <color name="azdj_5ac6f6">#5ac6f6</color>
+
+</resources>

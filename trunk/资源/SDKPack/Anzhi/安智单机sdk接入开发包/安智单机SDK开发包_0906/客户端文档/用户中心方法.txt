@@ -1,0 +1,83 @@
+
+名词解释 ：退出游戏 ：用户退出游戏本身操作，退出游戏不需退出账号；
+           退出账号 ；退出当前的安智账号，是当前的安智账号处于下线状态，下线之后该账号无法执行上传得分等操作，
+		      退出账号分为主动退出和被动退出。
+	   主动退出 ：用户主动退出当前账号；触发方式在个人中心页面点击切换账号；
+	   被动退出 : 不同的设备重复登陆引起的登录状态的失效
+
+
+/ *
+  * 用户中心初始化，完成用户中心的初始化操作。
+  * @param activity 游戏主Activity，用于承载SDK的页面元素（悬浮球、文字链）；
+  * @param mCpInfo  接入的方的基本信息类，会包含一个接入厂商最基本的一些参数；
+  * @param back     初始化回调接口，当SDK完成初始化之后，会向厂商发出一个回调，
+  *                 厂商可以在这个回调中完成某些必要的操作。比如（登录）；
+  * @param azInter  退出游戏的接口，游戏方直接在这个方法中，退出自己的游戏；
+  *
+  * 初始化中涉及到页面VIEW的加载，有以下两个注意点（1）、需在主线程调用；（2）、需要游戏页面加载完成后调用
+  /
+void azinitSDK(Activity activity, CPInfo mCpInfo, InitSDKCallback back, AzOutGameInter azInter) {}；
+
+
+
+/ *
+  * 用户中心账号登录方法；
+  * @param context Android 上下文参数；
+  * @param check   预留参数，传true；
+  *
+  /
+  void login(Context context, boolean check) {}；
+
+
+/ *
+  * 用户中心账号退出方法；
+  * @param context Android 上下文参数；
+  * @param check   预留参数，传true；
+  *
+  /
+
+  void logout(Context context) {}；
+
+
+
+
+
+ /*
+  * 隐藏悬浮窗口，厂商在某些页面需要隐藏这个悬浮窗时，可以调用此方法，
+  * 调用本方法后，悬浮球不会消失。
+  */
+  void dismissFloaticon() {}；
+
+
+
+ /*
+  * 显示悬浮窗口方法；
+  *
+  /
+  void showFloaticon() {}；
+
+
+
+ /*
+  * 移除悬浮窗，移除悬浮窗口后，悬浮窗口不会在出现
+  */
+  void removeFloaticon(Context context) {}；
+		  
+
+ /*
+  * 个人中心的接口；
+  */
+  void viewUserInfo(Context context) {}；
+
+
+/*
+ * 双击退出账号方法，厂商在 back 键需要可以触发该方法；
+ *
+ /
+  void azoutGame() {}；
+
+
+/*
+ * 上传游戏信息(必接)
+ */
+submitGameInfo(final Context context, final UserGameInfo gameInfo) {}；

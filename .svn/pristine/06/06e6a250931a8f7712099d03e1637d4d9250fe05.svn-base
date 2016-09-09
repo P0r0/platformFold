@@ -1,0 +1,72 @@
+2016-08-23 10:35:15,655: Curr Python Version::2.7.12
+2016-08-23 10:35:17,875: current selected game is game1(测试游戏1)
+2016-08-23 10:35:21,453: now hava 1 channels to package...
+2016-08-23 10:35:21,453: the base apk file is : D:/SDKProject/trunk/client/U8SDKTool-Win-P34/games/game1/u8.apk
+2016-08-23 10:35:21,483: now to package oppo...
+2016-08-23 10:35:24,937: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/jre/bin/java" -jar -Xms1024m -Xmx1024m "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/apktool2.jar" -q d -b -f "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/temp.apk" -o "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/decompile" !!!exec success!!! 
+2016-08-23 10:35:24,937: now to check the u8.apk is correct?
+2016-08-23 10:35:24,953: check u8.apk successfully
+2016-08-23 10:35:24,953: the new package name is com.u8.sdk.test.nearme.gamecenter
+2016-08-23 10:35:24,953: the channel oppo has no supported plugins.
+2016-08-23 10:35:27,703: D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/jre/bin/java -jar -Xms1024m -Xmx1024m "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/lib/dx.jar" --dex --multi-dex --output="D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/sdk/oppo"  D:/SDKProject/trunk/client/U8SDKTool-Win-P34/config/sdk/oppo/u8sdk_oppo.jar D:/SDKProject/trunk/client/U8SDKTool-Win-P34/config/sdk/oppo/libs/android-support-v4.jar D:/SDKProject/trunk/client/U8SDKTool-Win-P34/config/sdk/oppo/libs/gamesdk-20160806.jar !!!exec success!!! 
+2016-08-23 10:35:29,796: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/jre/bin/java" -jar "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/baksmali.jar" -o "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/decompile/smali" "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/sdk/oppo/classes.dex" !!!exec success!!! 
+2016-08-23 10:35:29,796: The sdk manifest file is D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/sdk/oppo\SDKManifest.xml
+2016-08-23 10:35:29,812: merge manifest file success.
+2016-08-23 10:35:29,828: the copyFrom D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/sdk/oppo\root is not exists.
+2016-08-23 10:35:29,875: the channel oppo of game game1 do not config icon in config.xml,no icon mark.
+2016-08-23 10:35:29,875: the channel 150 special res path is not exists. D:/SDKProject/trunk/client/U8SDKTool-Win-P34/games/game1/channels/150
+2016-08-23 10:35:29,921: the copyFrom D:/SDKProject/trunk/client/U8SDKTool-Win-P34/games/game1/res\libs is not exists.
+2016-08-23 10:35:29,921: the copyFrom D:/SDKProject/trunk/client/U8SDKTool-Win-P34/games/game1/res\res is not exists.
+2016-08-23 10:35:29,921: the develop info is OPPO_APPSECRET=e2eCa732422245E8891F6555e999878B
+app_key=c5217trjnrmU6gO5jG8VvUFU0
+is_offline_game=true
+debug_mode=false
+U8_SDK_VERSION_CODE=200
+U8_Channel=150
+U8_APPID=1
+U8_APPKEY=f32fdc02123a82524eb4ea95e1383d0b
+U8_SDK_SHOW_SPLASH=false
+U8_AUTH_URL=http://192.168.18.10:8080/user/getToken
+
+2016-08-23 10:35:29,969: The manifestFile meta-data write successfully
+2016-08-23 10:35:29,969: the meta-data node ulog.enable repeated. remove it .
+2016-08-23 10:35:29,969: the meta-data node ulog.level repeated. remove it .
+2016-08-23 10:35:29,969: the meta-data node ulog.local repeated. remove it .
+2016-08-23 10:35:29,969: the meta-data node ulog.remote repeated. remove it .
+2016-08-23 10:35:29,969: the meta-data node ulog.remote_interval repeated. remove it .
+2016-08-23 10:35:29,969: the meta-data node ulog.remote_url repeated. remove it .
+2016-08-23 10:35:29,969: -----------log config--------------
+2016-08-23 10:35:29,969: ulog.level = DEBUG
+2016-08-23 10:35:29,969: ulog.local = true
+2016-08-23 10:35:29,983: ulog.remote_url = http://192.168.18.9:8080/
+2016-08-23 10:35:29,983: ulog.remote = true
+2016-08-23 10:35:29,983: ulog.remote_interval = 1000
+2016-08-23 10:35:29,983: ulog.enable = true
+2016-08-23 10:35:29,983: -----------log config--------------
+
+2016-08-23 10:35:30,030: now to execute post_script.py of game game1 
+2016-08-23 10:35:30,125: now to modify game name ....
+2016-08-23 10:35:30,125: now no game name modify
+2016-08-23 10:35:30,125: the minSdkVersion targetSdkVersion maxSdkVersion must configed all or configed zero
+2016-08-23 10:35:30,141: generate R:the temp path is D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/temp
+2016-08-23 10:35:30,530: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/aapt" p -f -m -J "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/temp/gen" -S "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/temp/res" -I "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/android.jar" -M "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/decompile/AndroidManifest.xml" !!!exec success!!! 
+2016-08-23 10:35:31,421: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/jre/bin/javac" -source 1.7 -target 1.7 -encoding UTF-8 "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/temp/gen/com/u8/sdk/test/nearme/gamecenter/R.java" !!!exec success!!! 
+2016-08-23 10:35:31,733: D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/jre/bin/java -jar -Xmx1024m -Xms1024m "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/lib/dx.jar" --dex --output="D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/temp/classes.dex" "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/temp/gen" !!!exec success!!! 
+2016-08-23 10:35:32,016: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/jre/bin/java" -jar "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/baksmali.jar" -o "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/decompile/smali" "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/temp/classes.dex" !!!exec success!!! 
+2016-08-23 10:35:32,030: now to check split dex ... 
+2016-08-23 10:35:32,983: the total func num:6963
+2016-08-23 10:35:32,983: split dex success. the classes.dex num:1
+2016-08-23 10:35:32,983: now to recompileApk....
+2016-08-23 10:35:41,171: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/jre/bin/java" -jar -Xms1024m -Xmx1024m "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/apktool2.jar" -q b -f "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/decompile" -o "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/output.apk" !!!exec success!!! 
+2016-08-23 10:35:41,233:  'gametest.txt'...
+ 'subroot/gametest.txt'...
+
+2016-08-23 10:35:41,233: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/aapt" add "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/output.apk" gametest.txt subroot/gametest.txt !!!exec success!!! 
+2016-08-23 10:35:41,250: the keystore file is games/game1/keystore/unisdk.keystore
+2016-08-23 10:35:47,016: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/jre/bin/jarsigner" -digestalg SHA1 -sigalg SHA1withRSA -keystore "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/games/game1/keystore/unisdk.keystore" -storepass "123456" -keypass "123456" "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/output.apk" "demokey.keystore"  !!!exec success!!! 
+2016-08-23 10:35:47,030: the output apk format string is xxxxx.apk
+2016-08-23 10:35:47,030: the versionCode is 8;versionName is 2.6.0
+2016-08-23 10:35:47,094: "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/tool/win/zipalign" -f 4 "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/workspace/game1/oppo/output.apk" "D:/SDKProject/trunk/client/U8SDKTool-Win-P34/output/game1/oppo/xxxxx.apk" !!!exec success!!! 
+2016-08-23 10:35:47,094: channel oppo package success.
+2016-08-23 10:35:47,094: << success num:1; failed num:0 >>
+2016-08-23 10:35:47,094: << all nice done >>

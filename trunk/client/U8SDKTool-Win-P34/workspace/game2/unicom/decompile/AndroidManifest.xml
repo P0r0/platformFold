@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.u8.sdk.test" platformBuildVersionCode="22" platformBuildVersionName="5.1.1-1819727" android:installLocation="preferExternal">
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true" android:xlargeScreens="true" />
+    <application android:allowBackup="true" android:debuggable="false" android:icon="@drawable/app_icon" android:isGame="true" android:label="@string/app_name" android:name="com.u8.sdk.U8Appliction4Unicom" android:theme="@style/AppTheme">
+        <meta-data android:name="DC_APPID" android:value="7619F19985095D0803F05408BCE39762" />
+        <meta-data android:name="DC_CHANNEL" android:value="DataEye" />
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:launchMode="singleTask" android:name="com.u8.sdk.U8UnityContext" android:screenOrientation="landscape">
+            </activity>
+    <activity android:configChanges="keyboardHidden|screenSize|navigation|orientation" android:label="@string/app_name" android:name="com.unicom.dcLoader.welcomeview" android:screenOrientation="sensor" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+            <meta-data android:name="UNICOM_DIST_ACTIVITY" android:value="com.u8.sdk.U8UnityContext" />
+        </activity>
+
+        <activity android:configChanges="screenSize|orientation" android:exported="true" android:name="com.unicom.wostore.unipay.paysecurity.SecurityActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+        </activity>
+        
+        <service android:name="com.unicom.wostore.unipay.paysecurity.SecurityServiceFramework" /> 
+        <service android:name="com.unicom.wostore.unipay.paysecurity.UpdateService" android:process=":unicomuptsrv" />
+				
+        <activity android:configChanges="orientation|keyboardHidden|navigation" android:exported="false" android:name="com.alipay.sdk.app.H5PayActivity" android:screenOrientation="behind">
+        </activity>
+        
+        <activity android:configChanges="orientation|keyboardHidden|navigation" android:exported="false" android:name="com.alipay.sdk.auth.AuthActivity" android:screenOrientation="behind">
+        </activity>
+
+    <meta-data android:name="wostore_billing_otherpay" android:value="true" /><meta-data android:name="wostore_billing_chinaunicom" android:value="true" /><meta-data android:name="wostore_billing_chinamobile" android:value="true" /><meta-data android:name="wostore_billing_chinatele" android:value="true" /></application>
+    <uses-feature android:glEsVersion="0x20000" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
+<uses-permission android:name="android.permission.SEND_SMS" />
+        <uses-permission android:name="android.permission.READ_CONTACTS" />
+        <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+        <uses-permission android:name="android.permission.GET_TASKS" />
+        <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+        <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+        
+
+    </manifest>

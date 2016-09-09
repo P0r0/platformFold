@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+    
+    
+    <dimen name="ebpay_bind_card_input_height">44dp</dimen>
+    
+    <dimen name="ebpay_bind_card_txt_left_padding">15dp</dimen>
+    
+    <dimen name="ebpay_bind_card_input_txt_size">16sp</dimen>
+    
+    <dimen name="ebpay_bind_card_left_title_width">57dp</dimen>
+    
+    <dimen name="ebpay_bind_card_user_ccv2_height">18dp</dimen>
+    
+    <dimen name="ebpay_bind_card_info_below_height">18dp</dimen>
+    
+    <dimen name="ebpay_bind_card_user_below_height">42dp</dimen>
+    
+    <dimen name="ebpay_bind_card_scroll_head_height">18dp</dimen>
+    
+    <dimen name="ebpay_bind_card_scroll_head_height_onecents">40dp</dimen>
+ 	
+    <dimen name="ebpay_bind_card_cashback_msg_height">6dp</dimen>
+   	
+    <dimen name="ebpay_bind_card_head_msg_height">26dp</dimen>
+   	
+    <dimen name="ebpay_bind_card_head_cashback_height">7dp</dimen>
+ 
+    
+    <dimen name="ebpay_bind_card_info_discount_height">38dp</dimen>
+    
+    <dimen name="ebpay_bind_card_head_discount_height">26dp</dimen>
+    
+    <dimen name="ebpay_bind_card_bank_info_height">10dp</dimen>
+     
+    <dimen name="ebpay_bind_card_bank_info_height2">5dp</dimen>
+    
+    <dimen name="ebpay_bind_card_button_left_margin">17dp</dimen>
+    
+    <dimen name="ebpay_bind_card_icon_width">14dp</dimen>
+	
+    <dimen name="ebpay_bind_card_info_safepic_height">18dp</dimen>
+    
+    <dimen name="ebpay_bind_card_onecents_txt_size">12sp</dimen>
+
+</resources>

@@ -1,0 +1,35 @@
+<config>
+ 
+    <params>
+        <param name="YYH_APPID" value="5001003331" required="1" showName="appID" desc="接入支付必选参数，appID支付参数设置" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="YYH_PRIVATEKEY" value="MIICWwIBAAKBgQCDWkz2bU6JjgLYVgH+wnuAsRohmsZzU5iV4412vw8MDfQ4FV8tQoE6pKjSRd2tmx2IpshLHcKdEBewz554ZoeAIvQF6yGg3Wy//3IBkyvT8bonzvhkd3ca+L2Fvszv9L3y3vEHSHovLNegELn2oNY+blZXJ4z0k36sTS6M9nwCxwIDAQABAoGAEnu0dMCw2n5XPCXuJfEr+9HwAWaMIlJTGFRq5ZjA/0s/YFzxhabkFGJzNxOJvBIlt8LwUFGhvwQysTil7f9Pda6MlR0BmcrjZiX/p6PT2CHS7jxIv2Jv5zCvAK+qwXD4mx6tA1pjR1qtKpaTDmaBYq731e9yBP7PjgVmdIRQHBECQQDMT+wkvofjRIFmsWj0xd5Ny03xGSKOQoIoGWG1+X998Tmx3yl0CaRpO+BXo+TtpZxPgXbmSJcwb9TQ8VTpEUtDAkEApJU7GRdYz5ikfdS0SCKrzwrGkVbMyaJ67eUBQr+IWFF3vRVdCpvo7R9Zr33AmShFufA41A/GkrvfZeg4lhaYLQJAG2GOpTH/ph6VNP0Lstodu9FGRcx3jBcvuE4GgUvJoUhF0ie1N37fUNccbsJhONQcCa+xDpWl5XDnVYUyOvX9XwJACQxXQmrhLBCVQoG2I50cWvaZshXWjmNLZNbJOfUztr9L2O5aviGSLa8ijB5av1DSfIVzal0vqpN/laetrLqzRQJAItePAMxcSlqUVvU+h6AytHdoKvbrPm0bM7e3pQ/fUWBcsLzJvzijxvaFl7xlAXm5s9TwcV+/dgliBEK/Mah+aw==" required="1" showName="privateKey" desc="接入支付必选参数，privateKey支付参数设置" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="YYH_PUBLICKEY" value="MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXoSHmZTb163xcDO+LSr/2ziZElS9a/C+wPZOGcsJLU2KDFNFpG7o6AHlnsXPU8ySmyhUjSuferf3Cf8JKlBC42eILTqtZXEcXzEwWuCVKCcynbTT6MaYpdjrN9fzmuanix7pnxEpNjEY/eQOf4iNQPHCxC75yB15LYNmeZf8UrwIDAQAB" required="1" showName="publicKey" desc="接入支付必选参数，publicKey支付参数设置" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="YYH_LOGINID" value="11759" required="1" showName="loginID" desc="接入登录必选参数，loginID应用汇账号体系参数" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="YYH_LOGINKEY" value="Odt5Qbh95qC4Z2WN" required="1" showName="loginKey" desc="接入登录必选参数，loginKey应用汇账号体系参数" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="YYH_CPPRIVATEINFO" value="商户私有信息" required="1" showName="cpPrivateInfo" desc="商户私有信息，支付完成后发送支付结果通知时会透传给商户" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="YYH_NOTIFYURL" value="http://192.168.0.140:8094/monizhuang/api?type=100" required="1" showName="notifyUrl" desc="可选参数，支付结果通知地址，商户服务端接收支付结果通知的地址" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="YYH_WARESNAME" value="元宝" required="1" showName="waresName" desc="商品名称" bWriteInManifest="0" bWriteInClient="1" /> 
+    	<param name="YYH_PRODUCTID" value="1" required="1" showName="" desc="商品ID" bWriteInManifest="0" bWriteInClient="1" /> 
+    	<param name="YYH_PRICE" value="2" required="1" showName="" desc="商品价格" bWriteInManifest="0" bWriteInClient="1" /> 
+    </params>
+ 
+    <operations>
+        <operation step="1" type="mergeManifest" from="SDKManifest.xml" to="AndroidManifest.xml" />
+        <operation step="2" type="copyRes" from="assets" to="assets" />
+        <operation step="3" type="copyRes" from="libs" to="lib" />
+        <operation step="4" type="copyRes" from="res" to="res" />
+        <operation step="5" type="copyRes" from="root" to="" />
+    </operations>
+ 
+    <plugins>
+        <plugin name="com.u8.sdk.YingYongHuiUser" type="1" desc="用户登录接口" />
+ 		<plugin name="com.u8.sdk.YingYongHuiPay" type="2" desc="用户支付接口" />
+    </plugins>
+    
+    <version>
+        <name>应用汇</name>
+        <versionCode>1</versionCode>
+        <versionName>V7.0.2</versionName>
+    </version>
+ 
+</config>

@@ -1,0 +1,204 @@
+/*
+ * File Name: AnzhiUcActvity.java 
+ * History:
+ * Created by Administrator on 2015-5-19
+ */
+package com.anzhi.sdk.demo;
+
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.KeyEvent;
+import android.view.View;
+import android.view.View.OnClickListener;
+
+import com.anzhi.sdk.demo.util.Des3Util;
+import com.anzhi.sdk.middle.manage.AnzhiSDK;
+import com.anzhi.sdk.middle.manage.GameCallBack;
+import com.anzhi.sdk.middle.util.MD5;
+
+public class GameActvity extends Activity implements OnClickListener {
+
+    private String Appkey = "1378375366Az26xatNyDOD5EM6D2ys";//
+    private String AppSecret = "ug2KMdLi2JSr4naOE48XmL3h";//
+
+    private AnzhiSDK midManage;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.game);
+        findViewById(R.id.btn_pay).setOnClickListener(this);
+        // -----------SDK初始化部分--------------------
+        midManage = AnzhiSDK.getInstance();
+        midManage.init(this, Appkey, AppSecret, callback);
+        // --------------------------------------
+    }
+
+    // SDK回调接口
+    GameCallBack callback = new GameCallBack() {
+
+        @Override
+        public void callBack(final int type, final String data) {
+            Log.i("Anzhi_SDK_TEST", "code: " + type + ", result: " + data);
+
+            JSONObject json = null;
+            switch (type) {
+            case GameCallBack.SDK_TYPE_INIT: // SDK初始化回调
+                midManage.login(GameActvity.this); // 调用登录操作，需要在SDK初始化完成后调用
+                break;
+            case GameCallBack.SDK_TYPE_LOGIN: // 登录状态回调
+                try {
+                    json = new JSONObject(data);
+                    if (json.optInt("code") == 200) { // 登录成功
+                        String uid = json.optString("uid"); // 用户唯一ID
+                        String sid = json.optString("sid"); // 登录session
+                        String nickName = json.optString("nickName"); // 用户昵称
+                        midManage.subGameInfo(getGameInfo()); // 上传用户游戏角色信息
+                        midManage.addPop(GameActvity.this); // 登录成功后添加游戏悬浮气泡
+                    } else { // 登录失败
+                        String desc = json.optString("codeDesc");
+                    }
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                break;
+            case GameCallBack.SDK_TYPE_PAY: // 支付回调
+                try {
+                    json = new JSONObject(data);
+                    int status = json.optInt("payStatus"); // 支付状态
+                    if (status == 1) { // 支付成功
+                        String anzhiOrderId = json.optString("orderId"); // 安智订单号
+                        String cpOrderId = json.optString("cpOrderId"); // 游戏方订单号
+                        String cpCustomInfo = json.optString("cpCustomInfo"); // 游戏方自定义信息
+                    } else if (status == 2) { // 支付中状态
+
+                    } else { // 支付失败
+
+                    }
+                } catch (JSONException e) {
+                }
+                break;
+            case GameCallBack.SDK_TYPE_CANCEL_PAY: //取消支付回调
+                break;
+            case GameCallBack.SDK_TYPE_EXIT_GAME: // 退出游戏回调
+                finish();  //退出程序代码根据游戏自身而定
+                if (data != null) { //如果游戏退出使用System.exit(0)方式可忽略以下代码
+                    try {
+                        json = new JSONObject(data);
+                        boolean killSelf = json.optBoolean("killSelf");
+                        if (killSelf) { // 是否为完全退出，如果为true需要游戏方以杀进程方式退出
+                            midManage.closeSDKActivity();
+                            System.exit(0);
+                        }
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                }
+                break;
+            case GameCallBack.SDK_TYPE_CANCEL_EXIT_GAME: // 取消退出游戏回调
+                break;
+            case GameCallBack.SDK_TYPE_LOGOUT: // 注销登录回调
+                break;
+
+            }
+        }
+    };
+
+    // 提示用户游戏角色信息
+    private String getGameInfo() {
+        JSONObject gameInfoJson = new JSONObject();
+        try {
+            gameInfoJson.put(AnzhiSDK.GAME_AREA, "服务区1");
+            gameInfoJson.put(AnzhiSDK.GAME_LEVEL, "99级");
+            gameInfoJson.put(AnzhiSDK.ROLE_ID, "123");
+            gameInfoJson.put(AnzhiSDK.USER_ROLE, "xy");
+        } catch (Exception e) {
+        }
+        return gameInfoJson.toString();
+    }
+
+    // 游戏方支付数据，由游戏服务端组装数据，具体格式请参考接入文档
+    private String createPayData() {
+        JSONObject json = new JSONObject();
+        try {
+            json.put("cpOrderId", "CP_" + System.currentTimeMillis()); // 游戏方生成的订单号,可以作为与安智订单进行关联
+            json.put("cpOrderTime", System.currentTimeMillis()); // 下单时间
+            json.put("amount", 10); // 支付金额(单位：分)
+            json.put("cpCustomInfo", "游戏方自定义数据"); // 游戏方自定义数据(非json格式)，支付回调数据中会返回该数据
+            json.put("productCount", 1); // 商品数量
+            json.put("productName", "宝石"); // 游戏方商品名称
+            json.put("productCode", "0001"); // 游戏方商品代码
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        return json.toString();
+
+    }
+
+    @Override
+    public void onClick(View v) {
+        if (v.getId() == R.id.btn_pay) {
+            String data = createPayData();
+            // 调用支付操作
+            AnzhiSDK.getInstance().pay(Des3Util.encrypt(data, AppSecret), MD5.encodeToString(AppSecret));
+        }
+    }
+
+    @Override
+    public boolean onKeyUp(int keyCode, KeyEvent event) {
+        if (keyCode == KeyEvent.KEYCODE_BACK) {
+            midManage.exitGame(this); // 退出游戏必须调用SDK的方法
+            return true;
+        }
+        return super.onKeyUp(keyCode, event);
+    }
+    
+
+    @Override
+    protected void onNewIntent(Intent intent) {
+        super.onNewIntent(intent);
+        AnzhiSDK.getInstance().onNewIntentInvoked(intent); // 必加项
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        AnzhiSDK.getInstance().onResumeInvoked(); // 必加项
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        AnzhiSDK.getInstance().onPauseInvoked(); // 必加项
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        AnzhiSDK.getInstance().onStartInvoked(); // 必加项
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        AnzhiSDK.getInstance().onStopInvoked(); // 必加项
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        AnzhiSDK.getInstance().onDestoryInvoked(); // 必加项
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        AnzhiSDK.getInstance().onActivityResultInvoked(requestCode, resultCode, data); // 必加项
+    }
+
+}

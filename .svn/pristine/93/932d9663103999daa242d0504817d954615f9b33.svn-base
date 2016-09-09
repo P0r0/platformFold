@@ -1,0 +1,22 @@
+
+# Do not change the name, only modify the values on the right of "=" symbol 
+
+#define button's color(normal and press status)
+GREEN_COLOR = #ffff6600
+GREEN_COLOR_PRESS = #ffe86006
+
+#WHITE_CONER_COLOR = #ffd3d3d3
+#WHITE_COLOR_PRESS = #fff9f9f9
+
+#YELLOW_COLOR = #fff38331
+#YELLOW_COLOR_PRESS = #ffed7e2d
+
+#define customer service phone NO.
+CUSTOMER_SERVICE_PHONE = 020-66311900
+
+#define logo.png file path, you must put your file in "assets/" subdirectory (default logo is in "assets/logo.png" )
+#example: 
+#if your "logo.png" full path is "assets/pp/logo.png",
+#then you can difine as(don't add "assets/" prefix):
+#CUSTOMER_LOGO_PATH = pp/logo.png
+#CUSTOMER_LOGO_PATH = jy/cn.uc.paysdk.logo.png

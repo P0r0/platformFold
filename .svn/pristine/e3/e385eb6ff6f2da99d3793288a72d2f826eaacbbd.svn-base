@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+    <declare-styleable name="dk_ViewPagerIndicator">
+        <attr format="reference" name="dk_vpiIconPageIndicatorStyle" />
+        <attr format="reference" name="dk_vpiTabPageIndicatorStyle" />
+    </declare-styleable>
+
+</resources>

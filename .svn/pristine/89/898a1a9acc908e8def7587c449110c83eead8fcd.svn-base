@@ -1,0 +1,28 @@
+<config>
+ 
+    <params>
+        <param name="XM_APPID" value="2882303761517239138" required="1" showName="appID" desc="appID由开发者后台申请得到" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="XM_APPKEY" value="5691723970138" required="1" showName="appKey" desc="appKey由开发者后台申请得到" bWriteInManifest="0" bWriteInClient="1" /> 
+    	<param name="XM_PRODUCTCODE" value="com.demo_1" required="1" showName="productCode" desc="商品代码,开发者 申请获得(不为空)" bWriteInManifest="0" bWriteInClient="1" /> 
+    	<!-- XM_PRODUCTCODE（商品代码,开发者 申请获得(不为空)）: com.demo_1(0.01)、com.demo_2(0.05)、com.demo_3(0.1)、com.demo_4(1)、com.demo_5(0.5) -->
+    </params>
+ 
+    <operations>
+        <operation step="1" type="mergeManifest" from="SDKManifest.xml" to="AndroidManifest.xml" />
+        <operation step="2" type="copyRes" from="assets" to="assets" />
+        <operation step="3" type="copyRes" from="libs" to="lib" />
+        <operation step="4" type="copyRes" from="res" to="res" />
+    </operations>
+ 
+    <plugins>
+        <plugin name="com.u8.sdk.XiaoMiUser" type="1" desc="用户登录接口"/>
+ 		<plugin name="com.u8.sdk.XiaoMiPay" type="2" desc="用户支付接口" />
+    </plugins>
+    
+    <version>
+        <name>小米</name>
+        <versionCode>1</versionCode>
+        <versionName>4.6.11</versionName>
+    </version>
+ 
+</config>

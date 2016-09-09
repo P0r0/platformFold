@@ -1,0 +1,10 @@
+script_versionCode=1
+script_versionName=2.0
+tool_versionCode=1
+tool_versionName=2.0
+jdk_heap_size=1024
+updateID=3
+updateKey=6b56ec8f0ef16c5d8530b93f10b96494
+sdk_update_url=http://192.168.18.9:8080/user
+use_u8_auth=1
+u8_auth_url=http://192.168.18.9:8080/user/getToken

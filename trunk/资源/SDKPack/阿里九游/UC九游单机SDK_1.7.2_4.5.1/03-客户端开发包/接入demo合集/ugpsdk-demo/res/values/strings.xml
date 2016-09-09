@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">谁删谁小狗-Test-zt</string>
+    <string name="title">Information</string>
+    <string name="no_sdcard_message">No sdcard</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="message">Are you sure to quit the game?</string>
+    <string name="update_now">马上更新</string>
+    <string name="down_failed">下载失败，请确保网络通畅后重试。</string>
+    <string name="update_force_msg">您当前游戏加速引擎版本太低，需要更新，请点击马上更新重新下载并安装。</string>
+    <string name="res_update_msg">您当前游戏大厅版本过低，系统将为你下载最新版本游戏大厅?</string>
+    <string name="init_failed">程序初始化失败，请确保手机和内存卡存储空间充足！若多次初始化失败请确认安装包是否正确下载！</string>
+    <string name="next_remind">下次提醒</string>
+    <string name="updating">正在更新中......</string>
+    <string name="loading">正在验证......</string>
+    <string name="logining">正在加载......</string>
+    <!--  打包时需要修改以下参数 ！！！！
+		apkVersion: 客户端安装后显示的版本号，如果覆盖安装且版本号未增加不会覆盖游戏资源；
+		debug_mode: 包壳环境标识符，true表示连接测试环境，false表示生产环境，具体连接地址请参看com.ucweb.h5runtime.utility。ConfigUrl类；
+		channel:    壳发行（统计）渠道号，更新确认值是否正确请找运营同学；
+    -->
+    <string name="apkVersion">1.0.0.520</string>
+    <string name="debug_mode">true</string>
+    <string name="channel">XC_1</string>
+</resources>

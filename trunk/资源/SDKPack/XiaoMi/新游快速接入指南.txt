@@ -1,0 +1,19 @@
+所有文档都在小米应用开发者文档站上。
+
+*应用内支付接入：http://dev.xiaomi.com/docs/gameentry/%E6%89%8B%E6%9C%BA&pad%E6%B8%B8%E6%88%8F%E6%8E%A5%E5%85%A5%E6%96%87%E6%A1%A3/%E5%BA%94%E7%94%A8%E5%86%85%E6%94%AF%E4%BB%98%E6%8E%A5%E5%85%A5%E6%8C%87%E5%8D%97/
+
+*米聊社交游戏接入：http://dev.xiaomi.com/docs/gameentry/%E6%89%8B%E6%9C%BA&pad%E6%B8%B8%E6%88%8F%E6%8E%A5%E5%85%A5%E6%96%87%E6%A1%A3/%E7%B1%B3%E8%81%8A%E7%A4%BE%E4%BA%A4%E6%B8%B8%E6%88%8FAPI/
+
+*小米平板：http://dev.xiaomi.com/docs/gameentry/%E6%89%8B%E6%9C%BA&pad%E6%B8%B8%E6%88%8F%E6%8E%A5%E5%85%A5%E6%96%87%E6%A1%A3/%E5%B0%8F%E7%B1%B3Pad%E6%B8%B8%E6%88%8F%E9%80%82%E9%85%8D%E5%BB%BA%E8%AE%AE%E5%8F%8A%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/
+
+该压缩包的demo里面有示例，可以装到安卓手机上体验整体流程，demo的代码存放于"DEMO工程"中。
+
+温馨提示：
+1、SDK接入问题：若接入过程遇到问题请邮件发送至game-support@xiaomi.com 我们将在1-3个工作日内给予回复；
+2、接入完成及更新版本：请自测后将游戏包发送至game-op@xiaomi.com申请我方测试签名，请务必提前1-2个工作日提供给我们，此外运营计划、开服信息、新闻、活动方案等均发到game-op@xiaomi.com，会有相应同事进行跟进处理。
+3、申请上线：收到签名包后请上传小米开发者后台，并回复game-op@xiaomi.com告知我们具体的上线时间及上线形式。若未提前告知我们具体的信息，将影响到游戏的正常上线，此后果由游戏厂商自行负责；
+4、小米开发者中心：如有有其他常见问题或者建议，请访问小米游戏开发者中心查询问题或提供您宝贵的建议：
+开发者站：http://dev.xiaomi.com
+开发者文档站：http://developer.xiaomi.com/doc
+开发者论坛：http://www.miui.com/forum-426-1.html
+

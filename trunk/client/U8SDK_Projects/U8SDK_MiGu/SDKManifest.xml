@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <permissionConfig>
+        
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+	<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+        
+    </permissionConfig>
+    
+    <applicationConfig keyword="cn.cmgame.billing.api.GameOpenActivity" proxyApplication = "com.u8.sdk.CmgameApplication">        
+        
+        <meta-data
+            android:name="APP_MONITOR_APPID"
+            android:value="b1002c" />        
+        
+        <!-- vivo activity support portrait and landscape begin -->
+        <activity 
+            android:name="cn.cmgame.billing.api.GameOpenActivity"
+			android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+			android:configChanges="orientation|keyboardHidden|screenSize"
+			android:screenOrientation="sensor">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+			<intent-filter>
+				<action android:name="android.intent.action.CHINAMOBILE_OMS_GAME" />
+				<category android:name="android.intent.category.CHINAMOBILE_GAMES" />
+			</intent-filter>
+		</activity>
+        <!-- vivo  end -->
+        
+    </applicationConfig>
+    
+    
+    
+</manifest>

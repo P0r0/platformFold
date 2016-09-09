@@ -1,0 +1,7 @@
+疯狂果蔬城
+修改
+包名	com.hele.qqbubble.nearme.gamecenter
+App类型	游戏
+AppID	6697
+AppKey	ECYuZ47gLb4ggG4kGOCW044co
+AppSecret	2908c5c177FAb48bF1e9d98612243145

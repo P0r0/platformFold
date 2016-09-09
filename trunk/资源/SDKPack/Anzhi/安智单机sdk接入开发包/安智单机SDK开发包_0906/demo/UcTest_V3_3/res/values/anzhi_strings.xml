@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">安智单机sdk</string>
+   <!-- <string name="app_name">3.4_测试c</string> -->
+   <!-- <string name="app_name">3.4_伪现网网游</string> -->
+   <!-- <string name="app_name">3.4_测试单机</string> -->
+
+</resources>

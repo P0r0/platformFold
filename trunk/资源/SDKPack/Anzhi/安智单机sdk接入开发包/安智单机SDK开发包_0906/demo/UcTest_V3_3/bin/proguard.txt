@@ -1,0 +1,123 @@
+# view AndroidManifest.xml #generated:121
+-keep class com.anzhi.usercenter.sdk.AccountSafeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:175
+-keep class com.anzhi.usercenter.sdk.AccountSafeWindowActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:261
+-keep class com.anzhi.usercenter.sdk.AnzhiGameBbsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.anzhi.usercenter.sdk.AnzhiMessageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class com.anzhi.usercenter.sdk.BindEmailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.anzhi.usercenter.sdk.BindTelActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:318
+-keep class com.anzhi.usercenter.sdk.DownloadReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:303
+-keep class com.anzhi.usercenter.sdk.ForgetPwdwebActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:238
+-keep class com.anzhi.usercenter.sdk.GameRankActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:191
+-keep class com.anzhi.usercenter.sdk.GameReminderActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:221
+-keep class com.anzhi.usercenter.sdk.GiftBagActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:228
+-keep class com.anzhi.usercenter.sdk.GiftDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:208
+# view AndroidManifest.xml #generated:275
+-keep class com.anzhi.usercenter.sdk.GiftDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:199
+-keep class com.anzhi.usercenter.sdk.LoadingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:214
+-keep class com.anzhi.usercenter.sdk.LoginFailDailogActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:64
+-keep class com.anzhi.usercenter.sdk.LogoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:268
+-keep class com.anzhi.usercenter.sdk.MessageActivitty { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class com.anzhi.usercenter.sdk.MessageDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:245
+-keep class com.anzhi.usercenter.sdk.ModifyPwdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:233
+-keep class com.anzhi.usercenter.sdk.MoreGiftbagActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:287
+-keep class com.anzhi.usercenter.sdk.NewLoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class com.anzhi.usercenter.sdk.NoticeActivtiy { <init>(...); }
+
+# view AndroidManifest.xml #generated:253
+-keep class com.anzhi.usercenter.sdk.NoticeDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:140
+-keep class com.anzhi.usercenter.sdk.OpenLoginforQQActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.anzhi.usercenter.sdk.OpenLoginforWeiboActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:281
+-keep class com.anzhi.usercenter.sdk.OutGameAdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.anzhi.usercenter.sdk.PwdSettingClearActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:295
+-keep class com.anzhi.usercenter.sdk.SettingNicknameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:161
+-keep class com.anzhi.usercenter.sdk.UnbindEmailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:133
+-keep class com.anzhi.usercenter.sdk.UnbindTelActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:101
+-keep class com.anzhi.usercenter.sdk.UpdateNickActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.anzhi.usercenter.sdk.UpdateQQActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.anzhi.usercenter.sdk.UpdateStarActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class com.anzhi.usercenter.sdk.UserCenterStandaloneActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:82
+-keep class com.anzhi.usercenter.sdk.UserDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:308
+-keep class com.anzhi.usercenter.sdk.WebRegisterActivity { <init>(...); }
+
+# view res/layout/azuc_message_detail.xml #generated:36
+# view res/layout/azuc_message_list_item.xml #generated:55
+# view res/layout/azuc_strategy_item.xml #generated:35
+-keep class com.anzhi.usercenter.sdk.WordBreakTextView { <init>(...); }
+
+# view AndroidManifest.xml #generated:313
+-keep class com.anzhi.usercenter.sdk.control.NetListenerReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.example.usercentertest.GameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.example.usercentertest.UploadScoreActivity { <init>(...); }
+

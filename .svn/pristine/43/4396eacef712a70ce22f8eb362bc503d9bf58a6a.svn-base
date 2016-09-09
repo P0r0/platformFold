@@ -1,0 +1,55 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: FO2aDOgi4+iEJT8VH3pSdcKx1Ks=
+Created-By: 1.0 (Android)
+
+Name: AndroidManifest.xml
+SHA1-Digest: 44T8pztKpB9G6EqxD1H7aatKTg0=
+
+Name: res/drawable-xhdpi-v4/ic_action_search.png
+SHA1-Digest: ZxytrmZ5wcH/PkyOi+ZV2RT8ifA=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: uFmu1cP2unLm75ymnYdb1QLQw/Q=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: UAolGnDOEa1PFy0O4QeeNO7KC4c=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: mbbH1U7+PBIVA9e4N1rKj5VBhfc=
+
+Name: res/drawable-hdpi-v4/myprogress_style.xml
+SHA1-Digest: fJPANUmQHpXu36k6Usgqozw8TcI=
+
+Name: android-support-multidex.version.txt
+SHA1-Digest: IyAB6sI0eoVKg/Sqfxt1cEbCDq4=
+
+Name: res/layout/activity_test.xml
+SHA1-Digest: 61IB6pQmJLP9FTitdJ8EpNj6WHU=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: plXTdv4lelklK3cTXPleip9OcWc=
+
+Name: res/layout/my_progress.xml
+SHA1-Digest: cLuI0W2XEEMWAeEKvD7X4mBpT/s=
+
+Name: res/drawable-hdpi-v4/ic_action_search.png
+SHA1-Digest: xete6xuDAKJmL0UpawJvF+ZQTe8=
+
+Name: res/drawable-mdpi-v4/ic_action_search.png
+SHA1-Digest: 40Nu/gqu+9R8gz4doK3A7d67ypI=
+
+Name: res/menu/activity_splash.xml
+SHA1-Digest: DPWUThqsus/o9DKzK49O3Z40TRo=
+
+Name: res/layout/activity_splash.xml
+SHA1-Digest: lKm4ZvNjqSKvxJEFgHHRyX6wqGc=
+
+Name: resources.arsc
+SHA1-Digest: gNdI51xLen3deSBIl/nzs+K815Q=
+
+Name: classes.dex
+SHA1-Digest: fMbqkXxGLz7Gjl+9GN8yC/x6qtg=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: GBH+IPG0wzZLK+BcaEWYR6nOPFs=
+

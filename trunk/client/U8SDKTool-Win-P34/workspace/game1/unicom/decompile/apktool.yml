@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: temp.apk
+compressionType: false
+doNotCompress:
+- arsc
+- PNG
+- ccz
+- luac
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '9'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.1.0
+versionInfo:
+  versionCode: '2'
+  versionName: 2.0.0

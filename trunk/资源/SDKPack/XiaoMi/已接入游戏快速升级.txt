@@ -1,0 +1,5 @@
+版本号：v4.6.11
+
+1.替换最新的jar包SDK_TY_4.6.11.jar包
+2.替换游戏assets目录中的MiGameCenterSDKService.apk文件
+**请厂商务必及时升级为最新版**

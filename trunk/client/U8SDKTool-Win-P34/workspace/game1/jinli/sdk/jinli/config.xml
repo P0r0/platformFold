@@ -1,0 +1,25 @@
+<config>
+ 
+    <params>
+        <param name="JL_APIKEY" value="F966820B69514B28A4036A799E7FE8BE" required="1" showName="appId" desc="apiKey由开发者后台申请得到" bWriteInManifest="0" bWriteInClient="1" />
+        <param name="JL_PRIVATEKEY" value="MIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBAN2Rk4OMH8mmOhF9Nvv4qWpSIABUAEUk4FS5crdcoTyDIG0AGJzg7jNr+64YfuOAxgxpSgCqcHzQWkhjfC6wstCF9HpY7wUB56DbPsdw0/9JfvKLeyJNQYldjDoV0kNwvyKOjgfEDv+cj2PNCf3/isCFW9oY6jEZZU2LbJrWNTe9AgMBAAECgYEAh5S4RqvtG7C7Ic6UYdWEncnJSUodrDHnkBC20Ns+0s+OfQStCvpc6FxwctUMeFxpVFjtbsDc+pNoW5l8+PkpQWrOP2bwX3SVI4EnoxRasoM87A9AKrcT6S6QPP6YrH3vwz44qDo0JQS9Xq+cD7qgouxk1LNjsAG4rqYxmqf6yoECQQD1JMLIYug30FFBnL67beQp54+NALk01LJ/oxHO5CgMv8ACmPxkueHury+uSzbOdK+kpAp0QK7cNh+LUQN0vVGdAkEA52GKtMaFAFj4wZsc3I6ap5WAa9IdUIhdFAWEFIPNDDJK7xt6G+NFIwFbat1LtckNFfVfosUnRuoyUQYx0IU0oQJBANKJQNRSxbdxrOeZ0+Eq7uLiYdIqheWOqsKd7WRvZMoWQLS6aUGktxqD0IJzTF2hr1vKGsRe7Q5pWUwQRtSS560CQQCQfas+5NHdu7HsRU8qtKsDiCrgKiBAUEe/3wnyPbRor2d4FfKVQ8HC8HAENhm3dcwEMGz+mpvCfzHYw0OMcgLBAkB4b7qt8P0RHzH5ThUQVNQgb8ILxGsABbEYdPBxcPP8JvzeXwZwpZUS6bF8Rguzq8CjONpG8MOIru8Cy17SnUzZ" required="1" showName="appKey" desc="privateKey由开发者后台申请得到" bWriteInManifest="0" bWriteInClient="1" /> 
+    </params>
+ 
+    <operations>
+        <operation step="1" type="mergeManifest" from="SDKManifest.xml" to="AndroidManifest.xml" />
+        <operation step="2" type="copyRes" from="assets" to="assets" />
+        <operation step="3" type="copyRes" from="libs" to="lib" />
+        <operation step="4" type="copyRes" from="res" to="res" />
+    </operations>
+ 
+    <plugins>
+ 		<plugin name="com.u8.sdk.JinLiPay" type="2" desc="用户支付接口" />
+    </plugins>
+    
+    <version>
+        <name>金立</name>
+        <versionCode>1</versionCode>
+        <versionName>V3.1.6d</versionName>
+    </version>
+ 
+</config>

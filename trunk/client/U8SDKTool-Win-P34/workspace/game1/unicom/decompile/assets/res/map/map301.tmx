@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="staggered" renderorder="right-down" width="28" height="54" tilewidth="64" tileheight="32" staggeraxis="y" staggerindex="odd" nextobjectid="1">
+ <tileset firstgid="1" name="land64_64" tilewidth="64" tileheight="64" tilecount="40" columns="40">
+  <tileoffset x="0" y="28"/>
+  <image source="res/land64_64.png" width="2560" height="64"/>
+ </tileset>
+ <tileset firstgid="41" name="64_64" tilewidth="64" tileheight="64" tilecount="40" columns="40">
+  <image source="res/64_64.png" width="2560" height="64"/>
+ </tileset>
+ <tileset firstgid="81" name="192_192" tilewidth="192" tileheight="192" tilecount="40" columns="20">
+  <tileoffset x="-64" y="32"/>
+  <image source="res/192_192.png" width="3840" height="384"/>
+ </tileset>
+ <tileset firstgid="121" name="320_320" tilewidth="320" tileheight="320" tilecount="6" columns="6">
+  <tileoffset x="-128" y="64"/>
+  <image source="res/320_320.png" width="1920" height="320"/>
+ </tileset>
+ <tileset firstgid="127" name="bolck" tilewidth="64" tileheight="32" tilecount="10" columns="10">
+  <image source="res/bolck.png" width="640" height="32"/>
+ </tileset>
+ <tileset firstgid="137" name="land" tilewidth="1865" tileheight="883" tilecount="1" columns="1">
+  <image source="res/land.png" width="1865" height="883"/>
+ </tileset>
+ <layer name="192" width="28" height="54">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMw6A6n/XJyAMK2AAAAAA6VwcAIPKSyQCA
+  </data>
+ </layer>
+ <layer name="64" width="28" height="54">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7A5xzoW9pGQVkETAD6Z6wAAAAAAlQXqUACA
+  </data>
+ </layer>
+ <layer name="64-2" width="28" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt1kENAAAIxLBzjnVMkBBCq2DPJVxV2wEAAIzydwAA8EsD6qgA/w==
+  </data>
+ </layer>
+ <layer name="192-2" width="28" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt0jENAAAIBLF3jnVEMBBCq+CGS7iotgN4z4MAAAAAMNOVgAD/
+  </data>
+ </layer>
+ <layer name="320" width="28" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt1sEJAAAIA7Fu7uouIQglmeCel3BhvgMAAKjkMwEAoNcCGlcA/w==
+  </data>
+ </layer>
+ <layer name="320-2" width="28" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt10ENAAAIxLBzjnVMkBBCq2DfJVxT2wEAAADwkB8HYFoDICoA/w==
+  </data>
+ </layer>
+ <layer name="land" width="28" height="54">
+  <data encoding="base64" compression="zlib">
+   eJztzkERAAAIA6DVt7UpdvqABCQAAAAAAPDPXAfKFo+AAIo=
+  </data>
+ </layer>
+ <layer name="block" width="28" height="54">
+  <data encoding="base64" compression="zlib">
+   eJzt1zENAAAMw7AyL/Ux2DftsaWASJNUkqTnAAAA4ML370pbA5EZI8Q=
+  </data>
+ </layer>
+</map>

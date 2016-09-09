@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="transparent">#00000000</color>
+	<color name="translucent">#C0000000</color>
+	<color name="translucent_0">#60C6C6C5</color>
+	<color name="progressBg">#ffffff</color>
+	<color name="white">#ffffff</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">U8SDK_360</string>
+    
+    <string name="get_user_title">获取Qihoo UserInfo</string>
+    <string name="get_user_message">正在请求应用服务器,请稍候……</string>
+
+</resources>

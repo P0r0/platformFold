@@ -1,0 +1,156 @@
+package com.u8.sdk;
+
+import android.app.ProgressDialog;
+import android.util.Log;
+import android.widget.Toast;
+import com.max.sdk.ad.AdListener;
+import com.max.sdk.ad.SdkInitListener;
+import com.max.sdk.ad.open.AdModOpen;
+
+public class AdvertisingSDK {
+	
+	private static AdvertisingSDK instance;
+	private String appID;
+	private String appKey;
+	private String unitID;
+	private ProgressDialog dialog;
+	/*private boolean isBannerAdLoaded;  */    // 横幅广告下载是否成功
+	private boolean isInterstitialAdLoaded;   // 插页广告请下载是否成功
+	
+	private AdvertisingSDK(){
+		
+	}
+	
+	public static AdvertisingSDK getInstance(){
+		if(instance == null){
+			instance = new AdvertisingSDK();
+		}
+		return instance;
+	}
+	
+	public void initSDK(){
+		Log.e("adb_2", "这是初始化广告");
+		
+		SDKParams params = U8SDK.getInstance().getSDKParams();
+		this.appID = params.getString("AD_APPID");
+		this.appKey = params.getString("AD_APPKEY");
+		this.unitID = params.getString("AD_UNITID");
+		/*this.isBannerAdLoaded = sdkParams.getBoolean("ISBANNERADLOADED");*/
+		this.isInterstitialAdLoaded = params.getBoolean("ISINTERSTITIALADLOADED");
+		
+		dialog = new ProgressDialog(U8SDK.getInstance().getContext());
+        dialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
+        dialog.setCancelable(true);
+        dialog.setCanceledOnTouchOutside(false);
+		dialog.setMessage("正在初始化广告sdk,请稍后...");
+        dialog.show();
+        
+        AdModOpen.initialize(U8SDK.getInstance().getContext(), this.appID, this.appKey, new SdkInitListener() {
+            @Override
+            public void initFinish() {
+                dialog.dismiss();
+                dialog.setMessage("正在下载广告, 请稍后...");
+                Toast.makeText(U8SDK.getInstance().getContext(), "sdk初始化成功", Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void initError() {
+                dialog.dismiss();
+                Toast.makeText(U8SDK.getInstance().getContext(), "初始化广告SDK失败,请确认网络连接或appid/appkey是否正确", Toast.LENGTH_LONG).show();
+            }
+        });
+	}
+	
+	/***
+	 * 加载显示横幅广告
+	 */
+	public void showBannerAd(){
+		Log.e("adb_2", "这是横幅广告");
+		
+		/*AdModOpen.loadAd(U8SDK.getInstance().getContext(), unitID, U8SDK.getInstance().getContext(), new AdListener() {
+            @Override
+            public void onAdLoaded() {
+                dialog.dismiss();
+                isBannerAdLoaded = true;
+                if (isBannerAdLoaded && isRequested) {
+                	isRequested = false;
+                    content.setVisibility(View.VISIBLE);
+                } else {
+                    Toast.makeText(U8SDK.getInstance().getContext(), "横幅广告未下载完成，请稍后", Toast.LENGTH_SHORT).show();
+                }
+                Toast.makeText(U8SDK.getInstance().getContext(), "下载横幅广告成功", Toast.LENGTH_SHORT).show();
+                Log.d("loadAd", "onAdLoaded");
+            }
+
+            @Override
+            public void onAdFailedToLoad(int errorCode, String errorMsg) {
+                dialog.dismiss();
+                isBannerAdLoaded = false;
+                Toast.makeText(U8SDK.getInstance().getContext(), "下载横幅广告失败，原因：" + errorMsg, Toast.LENGTH_SHORT).show();
+                Log.e("loadAd", "onAdFailedToLoad - > errorMsg=" + errorMsg);
+            }
+
+            @Override
+            public void onAdOpened() {
+                Log.d("loadAd", "onAdOpened");
+            }
+
+            @Override
+            public void onAdClosed() {
+                Log.d("loadAd", "onAdClosed");
+            }
+
+            @Override
+            public void onAdLeftApplication() {
+                Log.d("loadAd", "onAdLeftApplication");
+            }
+        });*/
+	}
+	
+	/***
+	 * 加载显示插屏广告
+	 */
+	public void showInterstitialAd(){
+		Log.e("adb_2", "这是插页广告");
+		
+		dialog.show();
+		AdModOpen.loadFullAd(U8SDK.getInstance().getContext(), this.unitID, new AdListener() { //unitID=35
+            @Override
+            public void onAdLoaded() {
+                dialog.dismiss();
+                isInterstitialAdLoaded = true;
+                if (isInterstitialAdLoaded) {
+                	isInterstitialAdLoaded = false;
+                    AdModOpen.showFullAd(U8SDK.getInstance().getContext());
+                } else {
+                    Toast.makeText(U8SDK.getInstance().getContext(), "插页广告未下载完成，请稍后", Toast.LENGTH_SHORT).show();
+                }
+                Toast.makeText(U8SDK.getInstance().getContext(), "下载插页广告成功", Toast.LENGTH_SHORT).show();
+                Log.d("loadFullAd", "onAdLoaded");
+            }
+
+            @Override
+            public void onAdFailedToLoad(int errorCode, String errorMsg) {
+                dialog.dismiss();
+                isInterstitialAdLoaded = false;
+                Toast.makeText(U8SDK.getInstance().getContext(), "下载插页广告失败，原因：" + errorMsg, Toast.LENGTH_SHORT).show();
+                Log.e("loadFullAd", "onAdFailedToLoad - > errorMsg=" + errorMsg);
+            }
+
+            @Override
+            public void onAdOpened() {
+                Log.d("loadFullAd", "onAdOpened");
+            }
+
+            @Override
+            public void onAdClosed() {
+                Log.d("loadFullAd", "onAdClosed");
+            }
+
+            @Override
+            public void onAdLeftApplication() {
+                Log.d("loadFullAd", "onAdLeftApplication");
+            }
+        });
+    }
+}

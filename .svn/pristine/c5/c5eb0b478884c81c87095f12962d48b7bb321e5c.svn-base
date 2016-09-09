@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xml>
+
+	
+
+	<channels>			
+
+		<channel>
+			<param name="id" value="20" />
+			<param name="name" value="vivo" />
+			<param name="sdk" value="vivo" />
+			<param name="desc" value="ViVo SDK" />
+			<param name="suffix" value="com.morefun.xsanguo.vivo" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-params>
+				<param name="Vivo_AppID" value="bfae697b90d30d06ee752953b62a0cfa" />
+			</sdk-params>
+
+			<plugins>
+				<plugin name="advertising" desc="广告插件" />
+			</plugins>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>3.1.2</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		<channel>
+			<param name="id" value="100" />
+			<param name="name" value="baidu" />
+			<param name="sdk" value="baidu" />
+			<param name="desc" value="Baidu SDK" />
+			<param name="suffix" value=".baidu" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+			<param name="icon" value="rb" />
+
+			<sdk-params>
+				<param name="BD_APPID" value="3067515" />
+				<param name="BD_AAKEY" value="f3Os4GAOqxgm79GqbnkT9L8T" />
+				<param name="BD_FIXED_PAY" value="true" desc="是否为定额支付" />
+				<param name="BD_RATIO" value="1" desc="支付比例" />
+				<param name="BDPlatformType" value="0" desc="百度模式(0-百度 1-多酷 2-91)" />
+			</sdk-params>
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>3.7.1</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		<channel>
+			<param name="id" value="200" />
+			<param name="name" value="migu" />
+			<param name="sdk" value="migu" />
+			<param name="desc" value="MiGu SDK" />
+			<param name="suffix" value=".migu" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>20156</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		<channel>
+			<param name="id" value="110" />
+			<param name="name" value="migu" />
+			<param name="sdk" value="migu" />
+			<param name="desc" value="MiGu SDK" />
+			<param name="suffix" value=".migu" />
+			<param name="splash" value="0" />
+			<param name="splash_copy_to_unity" value="0" />
+
+			<sdk-version>
+				<versionCode>1</versionCode>   
+				<versionName>20156</versionName>
+			</sdk-version>			
+
+		</channel>
+
+		</channels>
+
+</xml>

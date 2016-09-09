@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+    <style name="payDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
+    <style name="bbkDialogButtonStyle">
+        <item name="android:shadowColor">#00ffffff</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">@drawable/bbk_submit_dialog_button</item>
+    </style>
+
+    <style name="view_pager_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:flipInterval">30</item>
+        <item name="android:overScrollMode">never</item>
+        <item name="android:persistentDrawingCache">animation</item>
+    </style>
+
+    <style name="custom_item_layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/bbk_list_item_bg_selector</item>
+        <item name="android:descendantFocusability">blocksDescendants</item>
+    </style>
+
+    <style name="gounp_title_layout_s">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textColor">@color/bbk_title_text_s</item>
+         <item name="android:textSize">@dimen/bbk_card_type_size_s</item>
+    </style>
+
+    <style name="order_bar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+    
+
+	<style name="pop_view" parent="android:Theme.Dialog">
+	    <item name="android:windowNoTitle">true</item>
+	    <item name="android:windowBackground">@null</item>
+	    <item name="android:colorBackgroundCacheHint">@null</item>
+   
+	</style> 
+	<style name="pop_full_view" parent="android:Theme.Translucent.NoTitleBar">
+	    <item name="android:windowBackground">@color/bbk_dlg_window_bg</item>
+   
+	</style>
+	<style name="pop_translucent_full_view" parent="android:Theme.Translucent.NoTitleBar">
+	</style>
+	<style name="edit_container_base_style">
+	    <item name="android:layout_width">match_parent</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:paddingLeft">20dip</item>
+	    <item name="android:paddingRight">20dip</item>
+	    <item name="android:gravity">center_vertical</item>
+	</style>
+	<style name="windowAnimationStyle">
+	    <item name="@android:activityOpenExitAnimation">@anim/bbk_fade_out</item>
+  	</style>
+   	<style name="AnimationStyle" parent="@style/pop_view"> 
+      	<item name="@android:windowAnimationStyle">@style/windowAnimationStyle</item>
+  	</style>
+	
+	<style name="edit_container_top_round" parent="edit_container_base_style">
+	    <item name="android:background">@drawable/preference_top_selector</item>
+	</style>
+	<style name="edit_container_no_round" parent="edit_container_base_style">
+	    <item name="android:background">@drawable/preference_middle</item>
+	</style>
+
+	<style name="edit_container_bottom_round" parent="edit_container_base_style">
+	    <item name="android:background">@drawable/preference_bottom_selector</item>
+	</style>
+	<style name="dialog" parent="@android:style/Theme.Dialog">  
+  		<item name="android:windowFrame">@null</item>  
+  		<item name="android:windowIsFloating">true</item>  
+  		<item name="android:windowIsTranslucent">true</item>  
+  		<item name="android:windowNoTitle">true</item>  
+  		<item name="android:background">@android:color/transparent</item>  
+  		<item name="android:windowBackground">@android:color/transparent</item>  
+  		<item name="android:backgroundDimEnabled">true</item>  
+  		<item name="android:backgroundDimAmount">0.6</item>  
+ 	</style>
+</resources>
